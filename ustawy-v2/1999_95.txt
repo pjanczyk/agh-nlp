@@ -1,0 +1,3027 @@
+
+
+
+
+Dz.U. z 1999 r. Nr 11, poz. 95
+ 
+                                      
+                                      
+                                      
+                                   USTAWA
+                         z dnia 22 stycznia 1999 r.
+                                      
+                      o ochronie informacji niejawnych
+                                      
+                                 Rozdział 1
+                               Przepisy ogólne
+                                      
+                                   Art. 1.
+1. Ustawa określa zasady ochrony informacji, które wymagają ochrony przed
+  nieuprawnionym ujawnieniem, jako stanowiące tajemnicę państwową lub
+  służbową, niezależnie od formy i sposobu ich wyrażania, także w trakcie ich
+  opracowania, zwanych dalej "informacjami niejawnymi", a w szczególności:
+   1) organizowania ochrony informacji niejawnych,
+   2) klasyfikowania informacji niejawnych,
+   3) udostępniania informacji niejawnych,
+   4) postępowania sprawdzającego, w celu ustalenia czy osoba nim objęta daje
+     rękojmię zachowania tajemnicy, zwanego dalej "postępowaniem
+     sprawdzającym",
+   5) szkolenia w zakresie ochrony informacji  niejawnych,
+   6) ewidencjonowania, przechowywania, przetwarzania i udostępniania danych
+     uzyskiwanych w związku z prowadzonymi postępowaniami o ustalenie rękojmi
+     zachowania tajemnicy, w zakresie określonym w ankiecie bezpieczeństwa
+     osobowego  oraz w ankiecie bezpieczeństwa przemysłowego,
+   7) organizacji kontroli przestrzegania zasad ochrony informacji
+     niejawnych,
+   8) ochrony informacji niejawnych w systemach i sieciach
+     teleinformatycznych,
+   9) stosowania środków fizycznej ochrony informacji niejawnych.
+2. Przepisy ustawy mają zastosowanie do:
+   1) organów władzy publicznej, w szczególności:
+     a) Sejmu i Senatu Rzeczypospolitej Polskiej,
+     b) Prezydenta Rzeczypospolitej Polskiej,
+     c) organów administracji rządowej,
+     d) organów jednostek samorządu terytorialnego,
+     e) sądów i trybunałów,
+     f) organów kontroli państwowej i ochrony prawa,
+   2) Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej "Siłami
+     Zbrojnymi",
+   3) Narodowego Banku Polskiego i banków państwowych,
+   4) państwowych osób prawnych i innych niż wymienione w pkt 1-3 państwowych
+     jednostek organizacyjnych,
+   5) przedsiębiorców, jednostek naukowych lub badawczo-rozwojowych
+     ubiegających się o zawarcie lub wykonujących umowy związane z dostępem
+     do informacji niejawnych, dotyczące realizacji zadań opłacanych w
+     całości lub w części ze środków publicznych, w rozumieniu przepisów
+     ustawy z dnia  10 czerwca 1994 r. o zamówieniach publicznych (Dz.U. z
+     1998 r. Nr 119, poz. 773).
+3. Przepisy ustawy nie naruszają przepisów innych ustaw o ochronie tajemnicy
+  zawodowej lub innych tajemnic prawnie chronionych.
+                                   Art. 2.
+W rozumieniu ustawy:
+   1) tajemnicą państwową - jest informacja niejawna określona w wykazie
+     rodzajów informacji niejawnych, stanowiącym załącznik nr 1, której
+     nieuprawnione ujawnienie może spowodować istotne zagrożenie dla
+     podstawowych interesów Rzeczypospolitej Polskiej, a w szczególności dla
+     niepodległości lub nienaruszalności terytorium, interesów obronności,
+     bezpieczeństwa państwa i obywateli, albo narazić te interesy na co
+     najmniej znaczną szkodę,
+   2) tajemnicą służbową - jest informacja niejawna nie będąca tajemnicą
+     państwową, uzyskana w związku z czynnościami służbowymi albo
+     wykonywaniem prac zleconych,  której nieuprawnione ujawnienie mogłoby
+     narazić na szkodę interes państwa, interes publiczny lub prawnie
+     chroniony interes obywateli albo jednostki organizacyjnej,
+   3) służbami ochrony państwa - są  Urząd Ochrony Państwa i  Wojskowe Służby
+     Informacyjne ,
+   4) rękojmia  zachowania tajemnicy " oznacza  spełnienie ustawowych wymogów
+     dla zapewnienia ochrony informacji niejawnych przed ich nieuprawnionym
+     ujawnieniem,
+   5) dokumentem - jest każda utrwalona informacja niejawna, w szczególności
+     na piśmie, mikrofilmach, negatywach i fotografiach, nośnikach do zapisów
+     informacji w postaci cyfrowej i na taśmach elektromagnetycznych, także w
+     formie mapy, wykresu, rysunku, obrazu, grafiki, fotografii, broszury,
+     książki, kopii, odpisu, wypisu, wyciągu i tłumaczenia dokumentu,
+     zbędnego lub wadliwego  wydruku, odbitki, kliszy, matrycy i dysku
+     optycznego, kalki, taśmy atramentowej, jak również informacja niejawna
+     utrwalona na elektronicznych nośnikach danych,
+   6) materiałem - jest dokument, jak też chroniony jako informacja niejawna
+     przedmiot lub dowolna jego część, a zwłaszcza urządzenie, wyposażenie
+     lub broń wyprodukowana albo będąca w trakcie produkcji, a także składnik
+     użyty do ich wytworzenia,
+   7) jednostką organizacyjną - jest  podmiot wymieniony w art. 1 ust.2,
+   8) systemem teleinformatycznym - jest system, który tworzą urządzenia,
+     narzędzia, metody postępowania i  procedury stosowane przez
+     wyspecjalizowanych pracowników, w sposób zapewniający wytwarzanie,
+     przechowywanie, przetwarzanie lub przekazywanie informacji,
+   9) siecią teleinformatyczną - jest organizacyjne i techniczne połączenie
+     systemów teleinformatycznych wraz z łączącymi je urządzeniami i liniami
+     telekomunikacyjnymi.
+   
+                                   Art. 3.
+Informacje niejawne mogą być udostępnione wyłącznie osobie dającej rękojmię
+zachowania tajemnicy i tylko w zakresie niezbędnym do wykonywania przez nią
+pracy lub pełnienia służby na zajmowanym stanowisku albo innej zleconej
+pracy.
+                                   Art. 4.
+1.  Zasady zwalniania od obowiązku zachowania tajemnicy państwowej i
+  służbowej w postępowaniu przed sądami i innymi organami określają  przepisy
+  odrębnych ustaw.
+2. Jeżeli przepisy odrębnych ustaw uprawniają organy, służby lub instytucje
+  państwowe albo ich upoważnionych pracowników do dokonywania kontroli, a w
+  szczególności swobodnego dostępu do pomieszczeń i materiałów, jeżeli jej
+  zakres dotyczy  informacji niejawnych,  uprawnienia te są realizowane z
+  zachowaniem przepisów niniejszej ustawy.
+                                 Rozdział 2
+                   Komitet  Ochrony Informacji Niejawnych
+                                      
+                                   Art. 5.
+1. Przy Radzie Ministrów tworzy się Komitet Ochrony Informacji Niejawnych,
+  zwany dalej "Komitetem" jako organ opiniodawczo-doradczy w zakresie ochrony
+  informacji niejawnych.
+2.  Do zadań Komitetu należy w szczególności:
+   1) ustalanie projektów generalnych założeń ochrony informacji niejawnych,
+     w tym organizacyjnych i technicznych wymagań służących ochronie tych
+     informacji w odniesieniu do głównych zagrożeń w tym zakresie,
+   2) opiniowanie kierunków oraz  planów postępowania w sytuacji szczególnego
+     zagrożenia o zasięgu ogólnokrajowym powstałej wskutek ujawnienia
+     informacji niejawnych stanowiących tajemnicę państwową, w której
+     wystarczające jest zastosowanie zwykłych środków konstytucyjnych,
+   3) analiza i  ocena oddziaływania na stan ochrony informacji niejawnych,
+     sytuacji szczególnego zagrożenia lub innych zagrożeń oraz formułowanie
+     opinii w tym zakresie,
+   4) opracowywanie projektów dokumentów rządowych mających na celu
+     zapewnienie  spójności prawa polskiego w zakresie ochrony informacji
+     niejawnych ze zobowiązaniami wynikającymi z wiążących Rzeczpospolitą
+     Polską umów międzynarodowych,
+   5) opiniowanie projektów aktów normatywnych, projektów programów, analiz,
+     sprawozdań i innych dokumentów rządowych dotyczących ochrony informacji
+     niejawnych, a zwłaszcza:
+     a) systemu ochrony informacji niejawnych oraz podstaw jego
+       funkcjonowania w odniesieniu do:  przemysłu zbrojeniowego, obrotu
+       uzbrojeniem i sprzętem specjalnym, badań naukowych i prac badawczorozwojowych
+prowadzonych na potrzeby obronności i bezpieczeństwa
+       państwa, przygotowań mobilizacyjnych w gospodarce narodowej,
+       tworzenia i gospodarowania rezerwami państwowymi oraz utrzymywania
+       zdolności produkcyjnych i remontowych w gospodarce narodowej na
+       potrzeby obronności państwa,
+     b) wymogów ochrony informacji niejawnych w planowaniu przestrzennym i
+       rozbudowie infrastruktury gospodarczej, w tym łączności,
+   6) rozpatrywanie innych spraw zlecanych przez Radę Ministrów i Prezesa
+     Rady Ministrów oraz wnoszonych przez ministrów w dziedzinie realizacji
+     zadań związanych z ochroną informacji niejawnych.
+   
+                                   Art. 6.
+W skład Komitetu wchodzą: Przewodniczący, zastępcy przewodniczącego,
+członkowie oraz sekretarz.
+                                      
+                                   Art. 7.
+1. Przewodniczącym Komitetu jest Prezes Rady Ministrów, który zwołuje
+  posiedzenia i kieruje pracami Komitetu.
+2.  Zastępcami Przewodniczącego Komitetu są:
+   1) Pierwszym zastępcą  - minister właściwy do spraw wewnętrznych,
+   2) Drugim zastępcą  - Minister Obrony Narodowej.
+   
+                                   Art. 8.
+Członkami  Komitetu są:
+   1) ministrowie właściwi do spraw: zagranicznych, gospodarki, budżetu,
+     finansów publicznych, sprawiedliwości, administracji publicznej oraz
+     Szef Kancelarii Prezesa Rady Ministrów,
+   2) Sekretarz Rady Bezpieczeństwa Narodowego - Szef Biura Bezpieczeństwa
+     Narodowego,
+   3) Szef Urzędu Ochrony Państwa,
+   4) Szef Wojskowych Służb Informacyjnych,
+   5) nie więcej niż trzy osoby, powoływane i odwoływane przez Prezesa Rady
+     Ministrów, których doświadczenie lub sprawowane funkcje mogą mieć
+     istotne znaczenie dla realizacji zadań Komitetu.
+   
+                                   Art. 9.
+Sekretarz Komitetu powoływany  i odwoływany jest przez Przewodniczącego
+Komitetu.
+                                  Art. 10.
+ Prezes Rady Ministrów określi, w drodze rozporządzenia:
+   1) szczegółowy tryb funkcjonowania Komitetu,
+   2) zasady udziału w jego posiedzeniach,
+   3) zakres czynności sekretarza Komitetu.
+                                  Art. 11.
+Udział w posiedzeniach Komitetu, z prawem głosu, mogą brać:
+   1) delegowany przedstawiciel Prezydenta Rzeczypospolitej Polskiej,
+   2) Prezes Najwyższej Izby Kontroli,
+   3) Prezes Narodowego Banku Polskiego,
+   4) za zgodą Przewodniczącego Komitetu - upoważnieni zastępcy członków
+     Komitetu,  o których mowa w art. 8 pkt 1-4,
+   5) inny niż wymieniony w art. 8 pkt 1 minister - w sprawach należących do
+     zakresu swojego działania, rozpatrywanych przez Komitet.
+                                  Art. 12.
+Obsługę Komitetu zapewnia Kancelaria Prezesa Rady Ministrów.
+                                  Art. 13.
+ 1. Przewodniczący Komitetu raz w roku przedstawia Radzie Ministrów
+  informację o działalności Komitetu wraz z wnioskami wynikającymi z kontroli
+  stanu przestrzegania przepisów o ochronie informacji niejawnych,
+  dokonywanej przez służby ochrony państwa.
+2. Informację, o której mowa w ust. 1, Przewodniczący Komitetu przekazuje
+  Prezydentowi Rzeczypospolitej Polskiej oraz  przewodniczącemu sejmowej
+  Komisji do Spraw Służb Specjalnych.
+                                 Rozdział 3
+                  Organizacja ochrony informacji niejawnych
+                                      
+                                  Art. 14.
+1. Służby ochrony państwa są właściwe  do:
+   1) kontroli ochrony informacji niejawnych oraz  kontroli przestrzegania
+     przepisów wydanych w tym zakresie,
+   2) realizacji zadań w zakresie bezpieczeństwa systemów i sieci
+     teleinformatycznych,
+   3) prowadzenia postępowania sprawdzającego według zasad określonych w
+     ustawie,
+   4) ochrony informacji niejawnych wymienianych przez Rzeczpospolitą Polską
+     z innymi państwami i organizacjami międzynarodowymi,
+   5) szkolenia i doradztwa  w zakresie ochrony informacji niejawnych,
+   6) wykonywania innych zadań, w zakresie ochrony informacji niejawnych,
+     określonych odrębnymi przepisami.
+2. Służby ochrony państwa, w zakresie koniecznym do wykonywania swoich
+  zadań, w celu ochrony informacji niejawnych mogą korzystać z informacji
+  uzyskanych przez Policję, Straż Graniczną, Żandarmerię Wojskową oraz organy
+  inspekcji celnej i kontroli skarbowej, a także zwracać się do tych służb i
+  organów o udzielenie niezbędnej pomocy przy wykonywaniu czynności w ramach
+  prowadzonych postępowań sprawdzających.
+3. Kierownicy jednostek organizacyjnych współdziałają ze służbami ochrony
+  państwa  w toku przeprowadzanych przez nie postępowań sprawdzających, a w
+  szczególności udostępniają funkcjonariuszom albo żołnierzom, po
+  przedstawieniu przez nich pisemnego upoważnienia, pozostające w ich
+  dyspozycji informacje i dokumenty niezbędne dla stwierdzenia czy osoba
+  objęta postępowaniem sprawdzającym daje rękojmię zachowania tajemnicy.
+4. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy
+  zakres, warunki i tryb:
+   1) przekazywania służbom ochrony państwa informacji i udostępniania
+     dokumentów, o których mowa w ust. 3,
+   2) udzielania służbom ochrony państwa pomocy, o której mowa w ust. 2.
+5. W rozporządzeniu, o którym mowa w ust. 4, określa się w szczególności:
+   1) szczegółowy zakres, warunki i tryb przekazywania przez kierowników
+     jednostek organizacyjnych służbom ochrony państwa informacji oraz
+     udostępniania im dokumentów niezbędnych do stwierdzenia czy osoba objęta
+     postępowaniem sprawdzającym daje rękojmię zachowania tajemnicy,
+   2) zakres, warunki i tryb udzielania przez Policję, Straż Graniczną,
+     Żandarmerię Wojskową oraz organy inspekcji celnej i kontroli skarbowej
+     niezbędnej pomocy służbom ochrony państwa przy wykonywaniu czynności w
+     ramach prowadzonych postępowań sprawdzających.
+   
+                                  Art. 15.
+W stosunkach międzynarodowych Szef Urzędu Ochrony Państwa i Szef Wojskowych
+Służb Informacyjnych pełnią funkcję krajowych władz bezpieczeństwa.
+                                  Art. 16.
+W zakresie niezbędnym do kontroli stanu zabezpieczenia informacji niejawnych
+stanowiących tajemnicę państwową upoważnieni pisemnie funkcjonariusze lub
+żołnierze służb ochrony państwa mają prawo do:
+1) swobodnego wstępu do obiektów i pomieszczeń jednostki kontrolowanej,
+  gdzie informacje takie są wytwarzane, przetwarzane, przechowywane lub
+  przekazywane,
+2) wglądu do dokumentów związanych z organizacją ochrony tych informacji w
+  kontrolowanej jednostce organizacyjnej,
+3) żądania udostępnienia do kontroli sieci lub systemów teleinformatycznych
+  służących do wytwarzania, przechowywania, przetwarzania lub przekazywania
+  tych informacji,
+4) przeprowadzania oględzin obiektów, składników majątkowych i sprawdzania
+  przebiegu określonych czynności związanych z ochroną tych informacji,
+5) żądania od kierowników i pracowników kontrolowanych jednostek
+  organizacyjnych, udzielania ustnych i pisemnych wyjaśnień oraz posiadanych
+  przez nich informacji dotyczących działalności wywiadowczej albo
+  terrorystycznej skierowanej przeciwko Rzeczypospolitej Polskiej, jej Siłom
+  Zbrojnym, przedsiębiorcom, jednostkom naukowym lub badawczo-rozwojowym, w
+  odniesieniu do prowadzonej produkcji albo usług stanowiących tajemnicę
+  państwową ze względu na bezpieczeństwo lub obronność państwa, a także na
+  potrzeby Sił Zbrojnych,
+6) zasięgania, w związku z przeprowadzaną kontrolą, informacji w jednostkach
+  nie kontrolowanych, jeżeli ich działalność pozostaje w związku z
+  wytwarzaniem, przechowywaniem, przetwarzaniem, przekazywaniem lub ochroną
+  informacji  niejawnych stanowiących tajemnicę państwową oraz żądania
+  wyjaśnień od kierowników i pracowników tych jednostek,
+7) korzystania  z pomocy biegłych i  specjalistów, jeżeli stwierdzenie
+  okoliczności ujawnionych w czasie przeprowadzania kontroli, wymaga
+  wiadomości specjalnych,
+8) uczestniczenia w posiedzeniach kierownictwa, organów zarządzających lub
+  nadzorczych, a także organów opiniodawczo-doradczych w sprawach dotyczących
+  problematyki ochrony tych informacji w kontrolowanej jednostce
+  organizacyjnej.
+                                  Art. 17.
+1. Do czynności, o których mowa w art. 16, dokonywanych przez służby ochrony
+  państwa mają odpowiednie zastosowanie przepisy art. 28, art. 29 pkt 1, art.
+  30-41 i art. 49-64 ust. 1 ustawy z dnia 23 grudnia 1994 r. o Najwyższej
+  Izbie Kontroli (Dz.U. z 1995 r. Nr 13, poz. 59, z 1996 r. Nr 64, poz. 315 i
+  Nr 89, poz.402,  z 1997 r. Nr 28 poz. 153, Nr 79, poz.484, Nr 96, poz. 589,
+  Nr 121, poz. 770 i Nr 133, poz. 883,  z 1998 r. Nr 148, poz. 966 i Nr 155,
+  poz. 1016) z tym, że przewidziane w tej ustawie uprawnienia i obowiązki:
+   1) Najwyższej Izby Kontroli - przysługują służbom ochrony państwa,
+   2) Prezesa, Wiceprezesa i pracownika Najwyższej Izby Kontroli przysługują
+odpowiednio Szefowi, Zastępcy Szefa i upoważnionemu
+     funkcjonariuszowi Urzędu Ochrony Państwa oraz Szefowi, Zastępcy Szefa i
+     upoważnionemu żołnierzowi Wojskowych Służb Informacyjnych.
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy tryb
+  prowadzenia kontroli w zakresie ochrony informacji niejawnych stanowiących
+  tajemnicę państwową, a w szczególności  zadania funkcjonariuszy i żołnierzy
+  służb ochrony państwa nadzorujących i wykonujących czynności kontrolne w
+  postępowaniu kontrolnym, szczegółowy tryb przygotowania kontroli,
+  dokumentowania czynności kontrolnych, sporządzania protokołu kontroli,
+  wystąpienia pokontrolnego i informacji o wynikach kontroli przeprowadzanych
+  przez służby ochrony państwa.
+                                  Art. 18.
+1. Za  ochronę  informacji  niejawnych  odpowiada  kierownik  jednostki
+  organizacyjnej, w której takie informacje są wytwarzane, przetwarzane,
+  przekazywane lub przechowywane.
+2. Kierownikowi jednostki organizacyjnej podlega bezpośrednio pełnomocnik do
+  spraw ochrony informacji niejawnych, zwany dalej "pełnomocnikiem ochrony",
+  który odpowiada za zapewnienie przestrzegania przepisów o ochronie
+  informacji niejawnych.
+3. Pełnomocnikiem ochrony w jednostce organizacyjnej może być osoba, która:
+   1) posiada obywatelstwo polskie,
+   2) posiada co najmniej średnie wykształcenie,
+   3) uzyskała poświadczenie bezpieczeństwa, o którym mowa w art. 36 ust. 2,
+     wydane przez służby ochrony państwa na wniosek kierownika jednostki
+     organizacyjnej,
+   4) odbyła przeszkolenie w zakresie ochrony informacji niejawnych.
+4. Pełnomocnik ochrony kieruje wyodrębnioną wyspecjalizowaną komórką
+  organizacyjną do spraw ochrony informacji niejawnych, zwaną dalej "pionem
+  ochrony", do której zadań należy:
+   1)  zapewnienie ochrony informacji niejawnych,
+   2)  ochrona systemów i sieci teleinformatycznych,
+   3) zapewnienie ochrony fizycznej jednostki organizacyjnej,
+   4) kontrola  ochrony informacji niejawnych oraz przestrzegania przepisów o
+     ochronie tych  informacji,
+   5) okresowa kontrola ewidencji, materiałów i obiegu dokumentów,
+   6) opracowywanie planu ochrony jednostki organizacyjnej i nadzorowanie
+     jego realizacji,
+   7) szkolenie pracowników w zakresie ochrony informacji niejawnych według
+     zasad określonych w rozdziale 8.
+5. Pracownikiem pionu ochrony w jednostce organizacyjnej może być osoba,
+  która:
+   1) posiada obywatelstwo polskie,
+   2) uzyskała poświadczenie bezpieczeństwa, o którym mowa w art. 36 ust. 2,
+   3) odbyła przeszkolenie w zakresie ochrony informacji niejawnych.
+6. Pełnomocnik ochrony, w zakresie realizacji swoich zadań, w razie
+  wprowadzenia stanu nadzwyczajnego,  ma prawo żądać od komórek
+  organizacyjnych w swojej jednostce organizacyjnej udzielenia
+  natychmiastowej pomocy.
+7. W zakresie realizacji swoich zadań pełnomocnik ochrony współpracuje z
+  właściwymi jednostkami i komórkami organizacyjnymi służb ochrony państwa.
+  Pełnomocnik ochrony na bieżąco informuje kierownika jednostki
+  organizacyjnej o przebiegu tej współpracy.
+8. Pełnomocnik ochrony opracowuje plan postępowania z materiałami
+  zawierającymi informacje niejawne stanowiące tajemnicę państwową w razie
+  wprowadzenia stanu nadzwyczajnego.
+9. Pełnomocnik ochrony podejmuje działania zmierzające do wyjaśnienia
+  okoliczności naruszenia przepisów o ochronie informacji niejawnych
+  zawiadamiając o tym kierownika jednostki organizacyjnej, a w przypadku
+  naruszenia przepisów o ochronie informacji niejawnych, oznaczonych klauzulą
+  "poufne" lub wyższą, również właściwą służbę ochrony państwa.
+                                      
+                                 Rozdział 4
+          Klasyfikowanie informacji niejawnych.  Klauzule tajności
+                                      
+                                  Art. 19.
+1. Klasyfikowanie informacji niejawnej oznacza przyznanie tej  informacji, w
+  sposób wyraźny,  przewidzianej w ustawie jednej z  klauzul tajności, o
+  których mowa w art. 23 i 24.
+2. Klasyfikowanie informacji niejawnej zawartej w materiale, a zwłaszcza
+  utrwalonej w dokumencie, polega na oznaczeniu tego materiału odpowiednią
+  klauzulą tajności.
+3. Informacjom niejawnym, materiałom, a zwłaszcza dokumentom lub ich zbiorom
+  przyznaje się klauzulę tajności co najmniej równą najwyżej zaklasyfikowanej
+  informacji lub najwyższej klauzuli w  zbiorze.
+4. Dopuszczalne jest przyznawanie różnych klauzul tajności częściom
+  dokumentu (rozdziałom, załącznikom, aneksom) lub poszczególnym dokumentom w
+  zbiorze dokumentów, pod warunkiem wyraźnego ich oznaczenia i wskazania
+  klauzuli tajności po odłączeniu dokumentu, bądź jego części.
+                                  Art. 20.
+1. Informacje niejawne, którym przyznano określoną klauzulę tajności, z
+  zastrzeżeniem ust. 2, są chronione zgodnie z przepisami ustawy, które
+  dotyczą  informacji niejawnych oznaczonych daną klauzulą tajności. Oznacza
+  to w szczególności, że informacje takie:
+   1) mogą być udostępnione wyłącznie osobie  uprawnionej do dostępu do
+     informacji niejawnych o określonej klauzuli tajności,
+   2) muszą być wytwarzane, przetwarzane, przekazywane lub przechowywane w
+     warunkach uniemożliwiających ich nieuprawnione ujawnienie, zgodnie z
+     przepisami określającymi wymagania dotyczące kancelarii tajnych, obiegu
+     i środków fizycznej ochrony informacji niejawnych, odpowiednich dla
+     przyznanej im klauzuli tajności,
+   3) muszą być chronione, odpowiednio do przyznanej klauzuli tajności, przy
+     zastosowaniu środków określonych w rozdziale 9.
+2. Kierownik jednostki organizacyjnej zatwierdza, opracowane przez
+  pełnomocnika ochrony, szczegółowe wymagania w zakresie ochrony informacji
+  niejawnych  oznaczonych klauzulą "zastrzeżone" w podległych komórkach
+  organizacyjnych.
+                                  Art. 21.
+1. Klauzulę tajności przyznaje osoba, która jest upoważniona do podpisania
+  dokumentu lub oznaczenia innego niż dokument materiału.
+2. Uprawnienie do przyznawania, obniżania i znoszenia klauzuli tajności
+  przysługuje wyłącznie w zakresie posiadanego prawa dostępu do informacji
+  niejawnych.
+3. Osoba, o której mowa w ust. 1, ponosi odpowiedzialność za przyznanie
+  klauzuli tajności i bez jej zgody albo zgody jej przełożonego, klauzula nie
+  może być obniżona lub zniesiona. Dotyczy to również osoby, która przekazała
+  dane do dokumentu zbiorczego.
+4. Zawyżanie lub zaniżanie klauzuli tajności jest niedopuszczalne.
+5. Odbiorca materiału zgłasza osobie, o której mowa w ust. 1, albo  jej
+  przełożonemu, fakt wyraźnego zawyżenia lub zaniżenia klauzuli tajności. W
+  przypadku, gdy osoba ta  lub jej przełożony zdecyduje o zmianie klauzuli,
+  powinna poinformować o tym odbiorców tego materiału. Odbiorcy materiału,
+  którzy przekazali go kolejnym odbiorcom są odpowiedzialni za poinformowanie
+  ich o zmianie klauzuli.
+                                  Art. 22.
+Kierownicy jednostek organizacyjnych zapewniają przeszkolenie  podległych im
+pracowników w zakresie klasyfikowania informacji niejawnych oraz stosowania
+właściwych klauzul tajności, a także procedur ich zmiany i znoszenia.
+                                  Art. 23.
+1. Informacje niejawne zaklasyfikowane jako stanowiące  tajemnicę państwową
+  oznacza się klauzulą:
+   1) "ściśle tajne"  - w przypadku gdy ich nieuprawnione ujawnienie mogłoby
+     spowodować istotne zagrożenie dla niepodległości, nienaruszalności
+     terytorium albo polityki zagranicznej lub stosunków międzynarodowych
+     Rzeczypospolitej Polskiej albo zagrażać nieodwracalnymi lub wielkimi
+     stratami dla interesów obronności, bezpieczeństwa państwa i obywateli
+     lub innych istotnych interesów państwa, albo narazić je na szkodę w
+     wielkich rozmiarach,
+   2) "tajne" -  w przypadku gdy ich nieuprawnione ujawnienie mogłoby
+     spowodować zagrożenie dla międzynarodowej pozycji państwa, interesów
+     obronności, bezpieczeństwa państwa i obywateli, innych istotnych
+     interesów  państwa albo narazić je na znaczną szkodę.
+2. Informacje niejawne  zaklasyfikowane jako stanowiące tajemnicę służbową
+  oznacza się klauzulą:
+   1) "poufne" - w przypadku gdy ich nieuprawnione ujawnienie powodowałoby
+     szkodę dla interesów państwa, interesu publicznego lub prawnie
+     chronionego interesu obywateli,
+   2) "zastrzeżone" - w przypadku gdy ich nieuprawnione ujawnienie mogłoby
+     spowodować szkodę  dla prawnie chronionych interesów obywateli albo
+     jednostki organizacyjnej.
+3. Minister właściwy do spraw wewnętrznych i Minister Obrony Narodowej, po
+  zasięgnięciu opinii Szefa Urzędu Ochrony Państwa, określą, w drodze
+  rozporządzenia, sposób oznaczania materiałów, w tym klauzulami tajności,
+  oraz sposób umieszczania klauzul na tych materiałach.
+4. Minister właściwy do spraw wewnętrznych  i Minister Obrony Narodowej, po
+  zasięgnięciu opinii Szefa Urzędu Ochrony Państwa mogą określić, w drodze
+  rozporządzenia, dodatkowe oznaczenia materiałów, które mogą poprzedzać
+  klauzule wymienione w ust. 1 i 2, wskazujące na szczególny sposób
+  postępowania z materiałami zawierającymi informacje niejawne, szczególny
+  tryb ich wytwarzania, przetwarzania, przekazywania i przechowywania oraz
+  krąg upoważnionych adresatów ze względu na wymóg wyższego stopnia ich
+  ochrony, także wynikający z umów międzynarodowych, których Rzeczpospolita
+  Polska jest stroną.
+                                  Art. 24.
+Materiały otrzymywane z zagranicy oraz wysyłane za granicę, w celu wykonania
+ratyfikowanych umów międzynarodowych, oznacza się odpowiednią do ich treści
+klauzulą tajności, określoną w ustawie oraz jej zagranicznym odpowiednikiem.
+                                  Art. 25.
+1. Informacje niejawne stanowiące tajemnicę państwową, z zastrzeżeniem ust.
+  2, podlegają ochronie w sposób określony ustawą przez  okres 50 lat od daty
+  ich wytworzenia.
+2. Chronione bez względu na upływ czasu pozostają:
+   1) dane identyfikujące funkcjonariuszy i żołnierzy służb ochrony państwa
+     wykonujących czynności operacyjno-rozpoznawcze,
+   2) dane identyfikujące osoby, które udzieliły pomocy, w zakresie czynności
+     operacyjno-rozpoznawczych organom, służbom i instytucjom państwowym
+     uprawnionym do ich wykonywania na podstawie ustawy,
+   3) informacje niejawne uzyskane od innych państw lub organizacji
+     międzynarodowych, jeżeli taki był warunek ich udostępnienia.
+3. Informacje niejawne stanowiące tajemnicę  służbową podlegają ochronie w
+  sposób określony ustawą przez okres:
+   1) 5 lat -  oznaczone klauzulą "poufne",
+   2) 2 lat - oznaczone klauzulą "zastrzeżone"
+   -  o ile osoba, o której mowa w art. 21 ust. 1, nie określi okresu
+     krótszego.
+4. Rada Ministrów może określić, w drodze rozporządzenia, z zastrzeżeniem
+  ust. 2, które spośród informacji niejawnych oznaczonych klauzulą "tajne"
+  przestały stanowić tajemnicę państwową, jeżeli od ich powstania upłynęło co
+  najmniej 20 lat.
+5. Uprawnienia osoby, o której mowa w art. 21 ust. 1, w zakresie
+  przyznawania, obniżania lub znoszenia klauzuli tajności materiału oraz
+  określania okresu przez jaki informacja niejawna podlega ochronie
+  przechodzą, w przypadku rozwiązania, zniesienia, likwidacji,
+  przekształcenia lub reorganizacji dotyczącej stanowiska lub funkcji tej
+  osoby, na jej następcę prawnego. W razie braku następcy prawnego,
+  uprawnienia w tym zakresie przechodzą na właściwą  służbę ochrony państwa.
+                                      
+                                 Rozdział 5
+         Dostęp do informacji niejawnych.  Postępowania sprawdzające
+                                      
+                                  Art. 26.
+1. Kierownik jednostki organizacyjnej określi, z zastrzeżeniem ust. 2,
+  stanowiska lub rodzaje prac zleconych, z którymi może łączyć się dostęp do
+  informacji niejawnych, odrębnie dla każdej klauzuli tajności.
+2. Rada Ministrów określi, w drodze rozporządzenia, stanowiska i rodzaje
+  prac zleconych w organach administracji rządowej, których wykonywanie w
+  tych organach może łączyć się z dostępem do informacji niejawnych
+  stanowiących tajemnicę państwową.
+                                  Art. 27.
+1. Dopuszczenie do pracy lub pełnienia służby na stanowisku albo zlecenie
+  pracy, o której  mowa w art. 26, z zastrzeżeniem ust. 2, 3 i 6-8, może
+  nastąpić po:
+   1) przeprowadzeniu postępowania sprawdzającego,
+   2) przeszkoleniu tej osoby w zakresie ochrony informacji niejawnych.
+2. Postępowania sprawdzającego nie przeprowadza się wobec osób sprawujących
+  urzędy Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu i Marszałka
+  Senatu.
+3. Postępowania sprawdzającego nie przeprowadza się, z zastrzeżeniem ust. 4,
+  wobec posłów i senatorów.
+4. Marszałek Sejmu lub Marszałek Senatu zwracają  się, za zgodą osoby
+  sprawdzanej, do służb ochrony państwa o przeprowadzenie postępowania
+  sprawdzającego wobec posłów lub senatorów, których obowiązki poselskie bądź
+  senatorskie wymagają dostępu do informacji niejawnych   oznaczonych
+  klauzulą  "ściśle tajne".
+5. W przypadku odmowy wydania poświadczenia bezpieczeństwa osobie, o której
+  mowa w ust. 4 - za jej zgodą - Prezes Rady Ministrów przedstawia informację
+  o powodach tej odmowy Marszałkowi Sejmu, jeżeli odmowa dotyczy posła albo
+  Marszałkowi Senatu, jeżeli odmowa dotyczy senatora.
+6. Postępowania sprawdzającego nie przeprowadza się wobec osób zajmujących
+  stanowiska: Prezesa Rady Ministrów, członka Rady Ministrów, Pierwszego
+  Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego,
+  Prezesa Trybunału Konstytucyjnego, Prezesa Narodowego Banku Polskiego,
+  Prezesa Najwyższej Izby Kontroli, Rzecznika Praw Obywatelskich, Generalnego
+  Inspektora Ochrony Danych Osobowych, Rzecznika Interesu Publicznego,
+  członków Rady Polityki Pieniężnej, członków Krajowej Rady Radiofonii i
+  Telewizji oraz Szefów Kancelarii: Prezydenta Rzeczypospolitej Polskiej,
+  Sejmu, Senatu i Prezesa Rady Ministrów.
+7. W stosunku do kandydatów na stanowiska, o których mowa w ust. 6,
+  postępowanie sprawdzające właściwa służba ochrony państwa przeprowadza na
+  wniosek organu uprawnionego do powołania na te stanowiska. Jeżeli do
+  powołania uprawniony jest Sejm albo Senat z wnioskiem tym występuje
+  odpowiednio Marszałek Sejmu albo Marszałek Senatu. Postępowanie zostaje
+  zakończone przekazaniem opinii z uzasadnieniem właściwej służby ochrony
+  państwa Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi Sejmu albo
+  Marszałkowi Senatu.
+8. W stanach nadzwyczajnych Prezydent Rzeczypospolitej Polskiej lub Prezes
+  Rady Ministrów, każdy w swoim zakresie, może wyrazić zgodę na odstąpienie
+  od przeprowadzenia postępowania sprawdzającego wobec osoby, o której mowa w
+  ust. 1, chyba że istnieją przesłanki do stwierdzenia, że nie daje ona
+  rękojmi zachowania tajemnicy.
+9. Prezydent Rzeczypospolitej Polskiej oraz Marszałek  Sejmu i Marszałek
+  Senatu zapoznają się z przepisami o ochronie informacji niejawnych i
+  składają oświadczenie o znajomości tych przepisów. Posłowie i senatorowie
+  oraz osoby, o których mowa w ust. 6, składają takie oświadczenie po odbyciu
+  szkolenia w zakresie ochrony informacji niejawnych.
+                                  Art. 28.
+1. Nie mogą być dopuszczone do pracy lub pełnienia służby na stanowisku
+  albo do wykonywania prac zleconych, z którymi łączy się dostęp do
+  informacji niejawnych  stanowiących tajemnicę państwową, z uwzględnieniem
+  ust. 2, osoby:
+   1) nie posiadające obywatelstwa polskiego, z zastrzeżeniem art. 67 ust. 4,
+     lub
+   2) skazane prawomocnym wyrokiem za przestępstwo umyślne ścigane z
+     oskarżenia publicznego, także popełnione za granicą  lub
+   3) które nie posiadają poświadczenia bezpieczeństwa, z wyjątkiem osób, o
+     których mowa w art. 27 ust. 2, 3, 6 i 8.
+2. Jeżeli z ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych
+  wynika na zasadzie wzajemności obowiązek dopuszczenia do informacji
+  niejawnych obywateli obcych państw mających wykonywać w Rzeczypospolitej
+  Polskiej pracę w interesie innego państwa lub organizacji międzynarodowej,
+  postępowania sprawdzającego nie przeprowadza się.
+                                  Art. 29.
+Postępowania  sprawdzające, o których mowa w art. 38 i 39,  na  pisemny
+wniosek  osoby  upoważnionej  na  podstawie odrębnych przepisów do obsady
+stanowiska lub zlecenia prac, w tym także kierownika jednostki
+organizacyjnej, zwanej dalej "osobą upoważnioną do obsady stanowiska",
+przeprowadzają:
+   1) Wojskowe Służby Informacyjne -  w przypadku ubiegania się osoby o
+     zatrudnienie lub zlecenie prac związanych z obronnością państwa:
+     a) wobec żołnierzy pozostających w służbie czynnej w Siłach  Zbrojnych
+       i pracowników cywilnych wojska, z wyjątkiem jednostek wojskowych
+       podporządkowanych ministrowi właściwemu do spraw wewnętrznych,
+     b) u przedsiębiorców, w jednostkach naukowych lub badawczo-rozwojowych,
+       których organem założycielskim jest Minister Obrony Narodowej, a
+       także  w innych jednostkach organizacyjnych,  w zakresie w jakim
+       realizują one produkcję lub usługi, stanowiące tajemnicę państwową ze
+       względu na obronność państwa i na potrzeby Sił Zbrojnych,
+     c) u przedsiębiorców zajmujących się obrotem wyrobami, technologiami i
+       licencjami objętymi tajemnicą państwową ze względu na obronność
+       państwa, jeżeli uczestnikami tego obrotu są Siły Zbrojne lub
+       jednostki organizacyjne podległe Ministrowi Obrony Narodowej,
+     d) w wojskowych organach ochrony prawa i wojskowych organach
+       porządkowych,
+   2) Urząd Ochrony Państwa - w razie ubiegania się osoby o stanowisko,
+     zatrudnienie lub zlecenie prac w innych przypadkach niż wymienione w pkt
+     1.
+   
+                                  Art. 30.
+Urząd Ochrony Państwa, Wojskowe Służby Informacyjne oraz Policja, Straż
+Graniczna i Służba Więzienna  przeprowadzają samodzielne postępowania
+sprawdzające wobec osób ubiegających się o przyjęcie do służby lub pracy w
+tych organach, stosując odpowiednio przepisy ustawy. Przepis stosuje się
+także w stosunku do osób pełniących służbę lub zatrudnionych w tych  organach
+i służbach.
+                                  Art. 31.
+1. Przeprowadzenie postępowania sprawdzającego wymaga pisemnej zgody osoby,
+  której ma dotyczyć, zwanej dalej "osobą sprawdzaną".
+2. Podanie osoby, o której mowa w art. 29, ubiegającej się o zatrudnienie
+  lub przyjęcie do służby na stanowisku objętym z mocy przepisów ustawy
+  wymogiem przeprowadzenia postępowania sprawdzającego, w przypadku braku
+  zgody osoby sprawdzanej na przeprowadzenie tego postępowania, pozostawia
+  się bez rozpatrzenia.
+3. Można odstąpić od postępowania sprawdzającego, jeżeli osoba, o której
+  mowa w ust. 1, przedstawi odpowiednie poświadczenie bezpieczeństwa.
+                                  Art. 32.
+Ustawa zezwala w zakresie niezbędnym dla ustalenia czy osoba sprawdzana daje
+rękojmię zachowania tajemnicy,  na  zbieranie i przetwarzanie informacji o
+osobach trzecich, określonych w ankiecie bezpieczeństwa  osobowego, o której
+mowa w art. 37 ust. 2 pkt 1, bez wiedzy i zgody tych osób.
+                                  Art. 33.
+Poświadczenie bezpieczeństwa upoważniające do dostępu do informacji
+niejawnych oznaczonych wyższą klauzulą tajności uprawnia do dostępu do
+informacji niejawnych oznaczonych niższą klauzulą tajności, wyłącznie w
+zakresie określonym w art. 3.
+                                  Art. 34.
+Służby ochrony państwa oraz pełnomocnik ochrony, kierując się zasadami
+bezstronności i obiektywizmu, są obowiązani do wykazania najwyższej
+staranności w toku prowadzonego postępowania sprawdzającego co do jego
+zgodności z przepisami ustawy.
+                                  Art. 35.
+1. Postępowanie sprawdzające ma na celu  ustalenie czy osoba sprawdzana daje
+  rękojmię zachowania tajemnicy.
+2. W toku postępowania sprawdzającego ustala się czy istnieją wątpliwości
+  dotyczące:
+   1) uczestnictwa, współpracy lub popierania przez osobę sprawdzaną
+     działalności szpiegowskiej, terrorystycznej, sabotażowej albo innej
+     wymierzonej przeciwko Rzeczypospolitej Polskiej,
+   2) ukrywania lub świadomego niezgodnego z prawdą podawania przez osobę
+     sprawdzaną w postępowaniu sprawdzającym informacji mających znaczenie
+     dla ochrony informacji niejawnych, a także występowania związanych z tą
+     osobą okoliczności powodujących ryzyko jej podatności na szantaż lub
+     wywieranie presji,
+   3) przestrzegania porządku konstytucyjnego Rzeczypospolitej Polskiej, a
+     przede wszystkim  czy osoba sprawdzana uczestniczyła lub uczestniczy,
+     współpracowała lub  współpracuje z partiami politycznymi albo innymi
+     organizacjami, o których mowa w art. 13 Konstytucji,
+   4) zagrożenia osoby sprawdzanej ze strony obcych służb specjalnych w
+     postaci prób werbunku lub nawiązania z nią kontaktu, a zwłaszcza obawy o
+     wywieranie w tym celu presji.
+3. W toku postępowania sprawdzającego, o którym mowa w art. 36 ust. 1 pkt 2
+  i 3, ponadto ustala się czy istnieją wątpliwości:
+   1) związane z wyraźną różnicą między poziomem życia osoby sprawdzanej a
+     uzyskiwanymi przez nią dochodami,
+    2) związane z ewentualnymi informacjami o chorobie psychicznej lub innych
+     zakłóceniach czynności psychicznych ograniczających sprawność umysłową i
+     mogących negatywnie wpłynąć na zdolność osoby sprawdzanej do zajmowania
+     stanowiska albo wykonywania prac związanych z dostępem do informacji
+     niejawnych stanowiących tajemnicę państwową,
+   3) związane z uzależnieniem  od alkoholu lub narkotyków.
+4. W celu dokonania ustaleń, o których mowa w ust. 3 pkt 2 i 3, służba
+  ochrony państwa może zobowiązać  osobę sprawdzaną do poddania się
+  specjalistycznym badaniom oraz udostępnienia wyników tych badań.
+                                  Art. 36.
+1. W zależności od stanowiska lub zleconej pracy, o które ubiega się dana
+  osoba,    przeprowadza się postępowanie sprawdzające:
+   1) zwykłe - przy stanowiskach i pracach związanych  z dostępem do
+     informacji niejawnych stanowiących tajemnicę służbową,
+   2) poszerzone - przy stanowiskach i pracach związanych z dostępem do
+     informacji niejawnych oznaczonych klauzulą  "tajne",
+   3) specjalne - przy stanowiskach i pracach związanych z dostępem do
+     informacji niejawnych oznaczonych klauzulą  "ściśle tajne".
+2. Postępowanie sprawdzające kończy się wydaniem poświadczenia
+  bezpieczeństwa lub odmową wydania takiego poświadczenia.
+3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia,
+  wzory:
+   1) poświadczenia bezpieczeństwa,
+   2) odmowy wydania poświadczenia bezpieczeństwa.
+4. Poświadczenie bezpieczeństwa oraz odmowa wydania poświadczenia
+  bezpieczeństwa  powinny zawierać:
+   1) podstawę prawną,
+   2) wskazanie wnioskodawcy postępowania sprawdzającego,
+   3) określenie służby ochrony państwa lub pełnomocnika ochrony, który
+     przeprowadził postępowanie sprawdzające,
+   4) datę i miejsce wystawienia,
+   5) imię, nazwisko i datę urodzenia osoby sprawdzanej,
+   6) rodzaj przeprowadzonego postępowania sprawdzającego ze wskazaniem
+     klauzuli informacji niejawnych, do których osoba sprawdzana może mieć
+     dostęp,
+   7) stwierdzenie  wydania poświadczenia bezpieczeństwa lub odmowy wydania
+     poświadczenia bezpieczeństwa,
+   8) termin ważności,
+   9) imienną pieczęć i czytelny podpis upoważnionego funkcjonariusza albo
+     żołnierza służby ochrony państwa lub pełnomocnika ochrony.
+   
+                                  Art. 37.
+1. Zwykłe postępowanie sprawdzające przeprowadza pełnomocnik ochrony na
+  pisemne polecenie kierownika jednostki organizacyjnej.
+2. Zwykłe  postępowanie sprawdzające  obejmuje:
+   1) wypełnienie ankiety bezpieczeństwa osobowego, zwanej dalej "ankietą",
+     której wzór wraz z instrukcją jej wypełnienia stanowi załącznik nr 2 ,
+   2) sprawdzenie, w niezbędnym zakresie, w ewidencjach, rejestrach i
+     kartotekach, a w szczególności w Centralnym Rejestrze Skazanych oraz
+     Kartotece Skazanych i Tymczasowo Aresztowanych, danych zawartych w
+     ankiecie,
+   3) sprawdzenie, wyłącznie w odniesieniu do osób kandydujących na
+     stanowiska z dostępem do informacji niejawnych oznaczonych klauzulą
+     "poufne", w ewidencjach i kartotekach niedostępnych powszechnie,
+     prowadzone na pisemny wniosek pełnomocnika ochrony przez odpowiednie
+     służby ochrony państwa, danych zawartych w ankiecie,
+   4) sprawdzenie akt stanu cywilnego dotyczących osoby sprawdzanej.
+3. Ankietę wypełnia i podpisuje własnoręcznie osoba sprawdzana.
+4. Świadome podanie nieprawdziwych lub niepełnych danych w ankiecie stanowi
+  podstawę do odmowy wydania poświadczenia bezpieczeństwa przez pełnomocnika
+  ochrony.
+5. W toku sprawdzeń, o których mowa w ust. 2 pkt 3,   służby ochrony państwa
+  mają prawo przeprowadzić rozmowę z osobą sprawdzaną w celu usunięcia
+  nieścisłości lub sprzeczności  zawartych w uzyskanych informacjach.
+6. Służby ochrony państwa przekazują pełnomocnikowi ochrony pisemną
+  informację o wynikach czynności, o których mowa w ust. 5.
+7. Po zakończeniu zwykłego postępowania sprawdzającego z wynikiem pozytywnym
+  pełnomocnik ochrony wydaje poświadczenie bezpieczeństwa i przekazuje osobie
+  sprawdzanej, zawiadamiając o tym osobę upoważnioną do obsady stanowiska.
+8. Pełnomocnik ochrony odmawia wydania poświadczenia bezpieczeństwa jeżeli
+  nie zostaną usunięte wątpliwości, o których mowa w  art. 35 ust. 2.
+9. Pełnomocnik ochrony może odmówić wydania poświadczenia bezpieczeństwa,
+  jeżeli przeprowadzenie skutecznego postępowania sprawdzającego, w związku z
+  dostępem do informacji niejawnych oznaczonych klauzulą "poufne", nie było
+  możliwe z przyczyn niezależnych od tego pełnomocnika.
+10. O odmowie wydania poświadczenia bezpieczeństwa pełnomocnik pisemnie
+  zawiadamia osobę upoważnioną do obsady stanowiska.
+                                   Art. 38.
+1. Poszerzone postępowanie sprawdzające prowadzi właściwa służba ochrony
+  państwa na pisemny wniosek osoby upoważnionej do obsady stanowiska.
+  Postępowanie to  obejmuje:
+   1) czynności, o których mowa w art. 37 ust. 2 " 5,
+   2) przeprowadzenie wywiadu w miejscu zamieszkania osoby sprawdzanej,
+     jeżeli jest to konieczne w celu potwierdzenia danych zawartych w
+     ankiecie,
+   3) rozmowę z przełożonymi osoby sprawdzanej oraz z innymi osobami, jeżeli
+     jest to konieczne na podstawie uzyskanych informacji o osobie
+     sprawdzanej,
+   4) w uzasadnionych przypadkach sprawdzenie stanu i obrotów na rachunku
+     bankowym w trybie art. 104 ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo
+bankowe (Dz.U. Nr 140, poz. 939) oraz zadłużenia osoby
+     sprawdzanej, a w szczególności wobec Skarbu Państwa, jeżeli jest to
+     konieczne w celu sprawdzenia danych zawartych w ankiecie; przepisy art.
+     82  1 i 2 oraz art. 182 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja
+     podatkowa (Dz. U. Nr 137, poz. 926, Nr 160, poz. 1083 oraz z 1998 r. Nr
+     106, poz. 668) oraz art. 33 ust. 1 ustawy z dnia 28 września 1991 r. o
+     kontroli skarbowej (Dz. U. Nr 100, poz. 442, z 1992 r. Nr 21, poz. 85, z
+     1996 r. Nr 106, poz. 496 i Nr 152, poz. 720, oraz z 1997 r. Nr 71, poz.
+     449, Nr 121, poz. 770 i Nr 137, poz. 926), stosuje się odpowiednio.
+2. Wywiad, o którym mowa w ust. 1 pkt 2, przeprowadzają służby ochrony
+  państwa i stosują w tym zakresie odpowiednio przepisy Kodeksu postępowania
+  karnego i wydane na jego podstawie przepisy  dotyczące wywiadu
+  środowiskowego.
+                                  Art. 39.
+Specjalne postępowanie sprawdzające  prowadzi na pisemny wniosek osoby
+upoważnionej do obsady stanowiska właściwa służba ochrony państwa.
+Postępowanie to obowiązkowo obejmuje czynności, o których mowa w art. 38, a
+ponadto:
+   1) rozmowę z osobą sprawdzaną,
+   2) rozmowę służby ochrony państwa z trzema osobami  wskazanymi przez osobę
+     sprawdzaną  w celu potwierdzenia tożsamości  tej osoby.
+   
+                                  Art. 40.
+ 1. Jeżeli  w  toku  poszerzonego  lub  specjalnego postępowania
+  sprawdzającego wystąpią wątpliwości nie  pozwalające na ustalenie czy osoba
+  sprawdzana daje rękojmię zachowania tajemnicy,  służba ochrony państwa
+  zapewnia osobie sprawdzanej możliwość osobistego ustosunkowania się do
+  przesłanek faktycznych stwarzających te wątpliwości. Wysłuchanie odbywa się
+  w sposób zapewniający ochronę informacji o osobie zgodnie z art. 12 ust. 1
+  ustawy z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa (Dz.U. Nr 30,
+  poz. 180, z 1991 r. Nr 94, poz. 422 i  Nr 107, poz. 461, z 1992 r. Nr 54,
+  poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz.
+  163 i Nr 104, poz. 515, z 1996 r. Nr 59, poz. 269, Nr 106, poz. 496 i Nr
+  156, poz. 775, z 1997 r. Nr 28, poz. 153, Nr 70, poz. 443, Nr 88, poz. 554
+  i  Nr 141, poz. 943 oraz z 1998 r. Nr 131, poz. 860), zwanej dalej "ustawą
+  o Urzędzie Ochrony Państwa". Osoba ta może stawić się na wysłuchanie ze
+  swoim pełnomocnikiem.
+2. Służby ochrony państwa odstępują od przeprowadzenia czynności, o której
+  mowa w ust. 1,  jeżeli jej przeprowadzenie mogłoby spowodować naruszenie
+  zasad ochrony informacji niejawnych stanowiących tajemnicę państwową.
+3. Do poszerzonego i specjalnego postępowania sprawdzającego przepisy art.
+  37 ust. 7-10 stosuje się odpowiednio.
+                                  Art. 41.
+1. Odmowa wydania poświadczenia bezpieczeństwa nie jest wiążąca dla osoby
+  upoważnionej do obsady stanowiska, z którym wiąże się dostęp do informacji
+  niejawnych  stanowiących tajemnicę służbową.
+2. W razie obsady stanowiska lub zlecenia pracy osobie, w stosunku do której
+  odmówiono wydania poświadczenia bezpieczeństwa dotyczącego informacji
+  niejawnych oznaczonych klauzulą "poufne" lub dopuszczenia do informacji
+  niejawnych stanowiących tajemnicę państwową, osoba upoważniona do obsady
+  stanowiska informuje o tym niezwłocznie właściwą służbę ochrony państwa.
+3. Postępowanie sprawdzające wobec osoby, która nie uzyskała poświadczenia
+  bezpieczeństwa, można przeprowadzić najwcześniej po roku od daty odmowy
+  wydania poświadczenia bezpieczeństwa.
+                                  Art. 42.
+1. Do postępowania sprawdzającego nie mają zastosowania przepisy Kodeksu
+  postępowania administracyjnego oraz przepisy o zaskarżaniu do Naczelnego
+  Sądu Administracyjnego.
+2. Wszystkie czynności przeprowadzone w toku postępowania sprawdzającego
+  przez pełnomocnika ochrony oraz przez  służby ochrony państwa muszą być
+  rzetelnie udokumentowane i powinny być zakończone przed upływem:
+   1) miesiąca  - od daty pisemnego polecenia przeprowadzenia zwykłego
+     postępowania sprawdzającego,
+   2) 2 miesięcy - od daty złożenia wniosku o przeprowadzenie poszerzonego
+     postępowania sprawdzającego wraz z wypełnioną ankietą,
+   3) 3 miesięcy - od daty złożenia wniosku o przeprowadzenie specjalnego
+     postępowania sprawdzającego wraz z wypełnioną ankietą.
+3. Akta zakończonych postępowań sprawdzających prowadzonych w odniesieniu do
+  osób ubiegających się o stanowisko lub zlecenie pracy, z którymi łączy się
+  dostęp do informacji niejawnych stanowiących  tajemnicę służbową, są
+  przechowywane przez pełnomocnika ochrony i mogą być udostępniane do wglądu
+  wyłącznie:
+   1) osobie sprawdzanej, ubiegającej się o takie stanowisko,
+   2) na żądanie sądu lub prokuratora w celu ścigania karnego,
+   3) osobie upoważnionej do obsady stanowiska lub właściwym służbom ochrony
+     państwa dla celów postępowania sprawdzającego.
+4. Akta zakończonych postępowań sprawdzających prowadzonych w odniesieniu do
+  osób ubiegających się o stanowiska lub zlecenie pracy, z którymi łączy się
+  dostęp do informacji niejawnych stanowiących  tajemnicę państwową,
+  przechowywane są jako wyodrębniona część w archiwach służb ochrony państwa.
+5. Służby ochrony państwa, każda w zakresie swojego działania, prowadzą
+  ewidencję osób, które uzyskały poświadczenie bezpieczeństwa, a także osób,
+  które zajmują stanowiska lub wykonują prace, z którymi łączy się dostęp do
+  informacji niejawnych oznaczonych klauzulą "poufne" lub stanowiących
+  tajemnicę państwową. Dane z ewidencji oraz akta postępowań sprawdzających
+  mogą być udostępnione wyłącznie na żądanie sądu lub prokuratora w celu
+  ścigania karnego lub służbom ochrony państwa dla celów postępowania
+  sprawdzającego.
+6. Dane, o których mowa w ust. 5, mogą obejmować wyłącznie:
+   1) w odniesieniu do osoby " jej imię i nazwisko, imię ojca, datę i miejsce
+     urodzenia, adres miejsca zamieszkania lub pobytu, nazwę i adres
+     jednostki organizacyjnej, w której  osoba jest zatrudniona, nazwę
+     komórki organizacyjnej i stanowiska oraz sygnaturę akt postępowania
+     sprawdzającego,
+   2) w odniesieniu do stanowiska lub pracy zleconej " datę objęcia
+     stanowiska lub rozpoczęcia pracy, określenie z dostępem do jakich
+     informacji niejawnych łączy się to stanowisko, datę wydania i numer
+     poświadczenia bezpieczeństwa.
+7. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób i tryb
+  udostępniania danych, o których mowa w ust. 5.
+                                  Art. 43.
+1. Osoba upoważniona do obsady stanowiska może z urzędu, za zgodą osoby
+  sprawdzanej lub na jej wniosek, w terminie miesiąca od dnia otrzymania
+  zawiadomienia o odmowie wydania poświadczenia bezpieczeństwa przez służbę
+  ochrony państwa, zwrócić się do Prezesa Rady Ministrów z wnioskiem o
+  przeprowadzenie kontroli postępowania sprawdzającego.
+2. Właściwa służba ochrony państwa niezwłocznie, nie później jednak niż w
+  terminie 7 dni od otrzymania żądania od Prezesa Rady Ministrów, przekazuje
+  Prezesowi Rady Ministrów materiały dotyczące postępowania sprawdzającego
+  celem przeprowadzenia postępowania kontrolnego.
+3. Prezes Rady Ministrów, w przypadku stwierdzenia, że osoba sprawdzana daje
+  rękojmię zachowania tajemnicy, wydaje orzeczenie wiążące właściwą służbę
+  ochrony państwa co do wydania poświadczenia bezpieczeństwa lub uzupełnienia
+  postępowania sprawdzającego. W przypadku potwierdzenia ustaleń dokonanych
+  przez służbę ochrony państwa Prezes Rady Ministrów zawiadamia organ
+  upoważniony do obsady stanowiska.
+4. Po zakończeniu postępowania kontrolnego Prezes Rady Ministrów
+  bezzwłocznie zwraca właściwej służbie ochrony państwa materiały, o których
+  mowa w ust. 2.
+                                  Art. 44.
+1. Postępowania sprawdzające powtarza się, odpowiednio w stosunku do osób na
+  stanowiskach i wykonujących prace zlecone, z którymi wiąże się dostęp do
+  informacji niejawnych oznaczonych klauzulą :
+   1) "poufne" - co 10 lat,
+   2) "tajne" - co 5 lat,
+   3) "ściśle tajne" - co 3 lata
+   - liczone od daty wydania poświadczenia bezpieczeństwa.
+2. Wniosek o wszczęcie kolejnego postępowania sprawdzającego powinien zostać
+  złożony co najmniej na 6 miesięcy przed upływem terminu ważności
+  poświadczenia bezpieczeństwa.
+                                  Art. 45.
+1. W przypadku gdy w odniesieniu do osoby, której wydano poświadczenie
+  bezpieczeństwa, zostaną ujawnione nowe fakty wskazujące, że nie daje ona
+  rękojmi  zachowania tajemnicy,  służby ochrony państwa lub pełnomocnik
+  ochrony przeprowadzają kolejne postępowanie sprawdzające z pominięciem
+  terminów, o których  mowa w art. 44 ust. 1.
+2. O wszczęciu kolejnego postępowania sprawdzającego, o którym mowa w ust.
+  1, służby ochrony państwa lub pełnomocnik ochrony zawiadamiają osobę
+  odpowiedzialną za obsadę  stanowiska oraz osobę sprawdzaną.
+                                  Art. 46.
+Do kolejnego postępowania sprawdzającego stosuje się przepisy ustawy
+odnoszące się do  właściwego postępowania sprawdzającego,  z uwzględnieniem
+art. 47.
+                                  Art. 47.
+Po otrzymaniu zawiadomienia , o którym  mowa w art. 45 ust. 2, kierownik
+jednostki organizacyjnej może ograniczyć  lub wyłączyć dostęp do informacji
+niejawnych osobie objętej kolejnym postępowaniem  sprawdzającym.
+                                  Art. 48.
+Pełnomocnik ochrony prowadzi wykaz stanowisk i prac zleconych oraz osób
+dopuszczonych do pracy lub służby na stanowiskach, z którymi wiąże się dostęp
+do informacji niejawnych. Przepisy art. 42 ust. 5 i  6  oraz przepisy wydane
+na podstawie art. 42 ust. 7 stosuje się odpowiednio.
+                                 Rozdział 6
+                     Udostępnianie informacji niejawnych
+                                      
+                                  Art. 49.
+1. W szczególnie uzasadnionych przypadkach, udostępnienie informacji
+  niejawnych stanowiących tajemnicę państwową określonej osobie lub
+  instytucji może nastąpić na podstawie pisemnej zgody  odpowiednio Szefów
+  Kancelarii:  Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu lub
+  Prezesa Rady Ministrów albo ministra właściwego dla określonego działu
+  administracji rządowej lub kierownika urzędu centralnego, a w przypadku ich
+  braku na podstawie pisemnej zgody właściwej służby ochrony państwa.
+2. Zgodę na udostępnienie informacji niejawnych stanowiących tajemnicę
+  służbową,  może wyrazić na piśmie kierownik jednostki organizacyjnej,
+  wyłącznie w odniesieniu do informacji wytworzonych w tej jednostce.
+3. Wyrażenie zgody na udostępnienie informacji niejawnych nie oznacza zmiany
+  lub zniesienia jej klauzuli tajności oraz musi określać zakres podmiotowy i
+  przedmiotowy udostępnienia.
+                                 Rozdział 7
+                Kancelarie tajne. Kontrola obiegu dokumentów
+                                      
+                                  Art. 50.
+1. Jednostka organizacyjna, w której są wytwarzane, przetwarzane,
+  przekazywane lub przechowywane dokumenty zawierające informacje niejawne
+  oznaczone  klauzulą "poufne" lub stanowiące tajemnicę państwową ma
+  obowiązek zorganizowania kancelarii, zwanej dalej "kancelarią tajną".
+2. Kancelaria tajna stanowi wyodrębnioną  komórkę organizacyjną podległą
+  bezpośrednio pełnomocnikowi ochrony, odpowiedzialną za właściwe
+  rejestrowanie, przechowywanie, obieg i wydawanie takich dokumentów
+  uprawnionym osobom. Kancelaria tajna powinna być zorganizowana w
+  wyodrębnionym pomieszczeniu, zabezpieczonym zgodnie z przepisami o środkach
+  ochrony fizycznej informacji niejawnych i  być obsługiwana przez
+  pracowników pionu ochrony.
+                                  Art. 51.
+Kancelaria tajna jest zorganizowana odrębnie dla dokumentów o określonej
+klauzuli tajności z tym,  że dopuszczalne jest zorganizowanie jednej
+kancelarii pod warunkiem, że dokumenty o różnych klauzulach są fizycznie od
+siebie oddzielone i obsługiwane przez osobę posiadającą poświadczenie
+bezpieczeństwa odpowiednie do najwyższej klauzuli wytwarzanych,
+przetwarzanych, przekazywanych lub przechowywanych w kancelarii dokumentów.
+                                  Art. 52.
+1. Organizacja pracy kancelarii tajnej musi zapewniać możliwość ustalenia w
+  każdych okolicznościach, gdzie znajduje się dokument klasyfikowany
+  pozostający w dyspozycji jednostki organizacyjnej.
+2. Dokumenty  oznaczone klauzulami: "ściśle tajne" i "tajne" mogą być
+  wydawane poza kancelarię tajną jedynie w przypadku, gdy odbiorca  zapewnia
+  warunki  ochrony takich dokumentów przed nieuprawnionym ujawnieniem. W
+  razie wątpliwości co do zapewnienia warunków ochrony, dokument może być
+  udostępniony wyłącznie w kancelarii tajnej.
+3. Kancelaria tajna odmawia udostępnienia lub wydania dokumentu, o którym
+  mowa w art. 50 ust. 1, osobie nie posiadającej stosownego poświadczenia
+  bezpieczeństwa.
+4. Fakt zapoznania się przez osobę uprawnioną z dokumentem zawierającym
+  informacje niejawne stanowiące tajemnicę państwową podlega odnotowaniu w
+  karcie zapoznania się z tym dokumentem.
+                                  Art. 53.
+1. Rada Ministrów określi, w drodze rozporządzenia:
+   1) wymagania w zakresie organizacji kancelarii tajnych,
+   2) zakres i warunki stosowania środków ochrony fizycznej,
+   3) tryb obiegu  informacji niejawnych,
+   4) wzór karty zapoznania się z dokumentem.
+2. Minister Obrony Narodowej, ministrowie właściwi: do spraw wewnętrznych,
+  administracji publicznej, spraw zagranicznych, finansów publicznych,
+  budżetu i instytucji finansowych, Prezes Narodowego Banku Polskiego, Prezes
+  Najwyższej Izby Kontroli, Szefowie Kancelarii: Prezydenta Rzeczypospolitej
+  Polskiej, Sejmu, Senatu oraz Prezesa Rady Ministrów oraz Szef Urzędu
+  Ochrony Państwa określą, każdy w zakresie swego działania, szczególne
+  zasady organizacji kancelarii tajnych, stosowanie środków ochrony fizycznej
+  oraz obiegu informacji niejawnych.
+3. Minister właściwy do spraw wewnętrznych i Minister Obrony Narodowej po
+  zasięgnięciu opinii Szefa Urzędu Ochrony Państwa,  określą, w drodze
+  rozporządzenia, tryb i sposób:
+   1) przyjmowania,
+   2) przewożenia,
+   3) wydawania,
+   4) ochrony  materiałów
+   -  w celu ich zabezpieczenia przed nieuprawnionym ujawnieniem, utratą,
+     uszkodzeniem lub zniszczeniem.
+                                 Rozdział 8
+             Szkolenie w zakresie ochrony informacji niejawnych
+                                      
+                                  Art.  54.
+1. Dopuszczenie do pracy lub służby, z którymi łączy się dostęp do
+  informacji niejawnych poprzedza szkolenie w zakresie ochrony informacji
+  niejawnych prowadzone w celu zapoznania się z:
+   1) zagrożeniami ze strony obcych służb specjalnych działających przeciwko
+     Rzeczypospolitej Polskiej i państwom sojuszniczym, a także z
+     zagrożeniami ze strony organizacji terrorystycznych,
+   2) przepisami dotyczącymi ochrony informacji niejawnych  oraz
+     odpowiedzialności za ich ujawnienie,
+   3) zasadami ochrony informacji niejawnych w zakresie niezbędnym do
+     wykonywania pracy lub pełnienia służby,
+   4) sposobami ochrony informacji niejawnych stanowiących tajemnicę
+     państwową oraz postępowania w sytuacjach zagrożenia dla takich
+     informacji lub w przypadku ich ujawnienia,
+   5) odpowiedzialnością karną, dyscyplinarną i służbową za naruszenie
+     przepisów o ochronie informacji niejawnych.
+2. Szkolenie, o którym mowa w ust. 1, przeprowadzają:
+   1) funkcjonariusze i żołnierze służb ochrony państwa -  w stosunku do
+     osób, o których mowa w art. 27 ust. 3-8, a także w stosunku do
+     pełnomocników ochrony,
+   2)  pełnomocnicy ochrony - w stosunku do osób zatrudnionych lub pełniących
+     służbę w jednostkach organizacyjnych.
+3. Koszty szkolenia pokrywa jednostka organizacyjna,  w której osoba
+  szkolona jest zatrudniona lub pełni służbę.
+4. Wzajemne prawa i obowiązki organizatora i uczestnika szkolenia, o którym
+  mowa w ust. 2 pkt 1, określa umowa zawarta między tymi stronami.
+                                  Art. 55.
+ Minister  właściwy  do spraw wewnętrznych określi, w drodze  rozporządzenia,
+    wzór  zaświadczenia stwierdzającego odbycie przeszkolenia, w tym odrębnie
+    dla osób przeszkolonych przez służby ochrony państwa.
+                                 Rozdział 9
+               Środki ochrony fizycznej informacji niejawnych
+                                      
+                                  Art. 56.
+1. Jednostki organizacyjne, w których materiały zawierające informacje
+  niejawne są wytwarzane, przetwarzane, przekazywane lub przechowywane mają
+  obowiązek  stosowania środków ochrony fizycznej w celu uniemożliwienia
+  osobom nieupoważnionym dostępu do takich informacji, a w szczególności
+  przed:
+   1) działaniem obcych służb specjalnych,
+   2) zamachem terrorystycznym lub sabotażem,
+   3)kradzieżą lub zniszczeniem materiału,
+   4) próbą wejścia osób nieuprawnionych,
+   5) nieuprawnionym dostępem pracowników do materiałów oznaczonych  wyższą
+     klauzulą tajności.
+2. Zakres stosowania środków ochrony fizycznej musi odpowiadać klauzuli
+  tajności i ilości informacji niejawnych, liczbie oraz poziomowi dostępu do
+  takich informacji  zatrudnionych lub pełniących służbę osób oraz
+  uwzględniać wskazania służb ochrony państwa dotyczące w szczególności
+  ochrony przed zagrożeniami ze strony obcych służb specjalnych, także w
+  stosunku do państwa sojuszniczego.
+                                  Art. 57.
+W celu uniemożliwienia osobom nieuprawnionym  dostępu do informacji
+niejawnych,  należy w szczególności:
+   1) wydzielić  części obiektów, które  poddane są szczególnej kontroli
+     wejść i wyjść oraz kontroli przebywania,  zwane dalej "strefami
+     bezpieczeństwa",
+   2) wydzielić  wokół stref bezpieczeństwa strefy administracyjne służące do
+     kontroli osób lub  pojazdów,
+   3) wprowadzić system przepustek lub inny system określający uprawnienia do
+     wejścia, przebywania i wyjścia ze strefy bezpieczeństwa, a także
+     przechowywania kluczy do pomieszczeń chronionych, szaf pancernych i
+     innych pojemników służących do przechowywania informacji niejawnych
+     stanowiących tajemnicę państwową,
+   4) zapewnić kontrolę stref bezpieczeństwa i stref administracyjnych przez
+     przeszkolonych zgodnie z ustawą  pracowników pionu ochrony,
+   5) stosować wyposażenie i urządzenia służące ochronie informacji
+     niejawnych, którym na podstawie odrębnych przepisów przyznano
+     certyfikaty lub świadectwa kwalifikacyjne.
+                                  Art. 58.
+1. W uzasadnionych przypadkach dla zapewnienia ochrony informacji niejawnych
+  stanowiących tajemnicę państwową, w szczególności rozmów i spotkań, których
+  przedmiotem są takie informacje, wydziela się specjalne strefy
+  bezpieczeństwa, które są poddawane stałej kontroli w zakresie stosowania
+  środków ochrony fizycznej informacji niejawnych.
+2. Urządzanie i wyposażanie pomieszczeń objętych specjalną strefą
+  bezpieczeństwa uwzględnia zastosowanie środków zabezpieczających te
+  pomieszczenia przed podsłuchem i podglądem.
+3. Do specjalnej strefy bezpieczeństwa zakazuje się wnoszenia oraz
+  wynoszenia  przedmiotów i urządzeń bez uprzedniego ich sprawdzenia przez
+  upoważnionych pracowników pionu ochrony.
+                                  Art. 59.
+Pełnomocnicy ochrony są obowiązani do bieżącego nadzoru nad stosowaniem
+środków ochrony fizycznej.
+                                 Rozdział 10
+            Bezpieczeństwo  systemów i sieci teleinformatycznych
+                                      
+                                  Art. 60.
+1. Systemy i sieci teleinformatyczne służące do wytwarzania, przechowywania,
+  przetwarzania lub przekazywania informacji niejawnych stanowiących
+  tajemnicę państwową  podlegają szczególnej ochronie przed nieuprawnionym
+  ujawnieniem tych informacji, a także przed możliwością przypadkowego lub
+  świadomego narażenia ich bezpieczeństwa.
+2. Przekazanie informacji niejawnych stanowiących tajemnicę państwową za
+  pośrednictwem systemów i sieci teleinformatycznych, które składają się z
+  certyfikowanych urządzeń i narzędzi kryptograficznych, może nastąpić pod
+  warunkiem zastosowania kryptograficznych metod i środków ochrony,
+  dopuszczonych do eksploatacji na podstawie szczególnych wymagań
+  bezpieczeństwa, w trybie art. 61 i 62.
+3. Szczególne wymagania bezpieczeństwa systemu lub sieci teleinformatycznej
+  powinny być kompletnym i wyczerpującym opisem ich budowy, zasad działania i
+  eksploatacji wraz z procedurami bezpieczeństwa, które muszą być spełnione w
+  fazie projektowania, wdrażania i funkcjonowania systemu lub sieci.
+  Procedury bezpieczeństwa obejmują zasady i tryb postępowania w sprawach
+  związanych z bezpieczeństwem informacji niejawnych, a także określają
+  zakres odpowiedzialności  użytkowników systemu lub sieci
+  teleinformatycznych oraz pracowników mających do nich dostęp.
+4. Prezes Rady Ministrów określi, w drodze rozporządzenia, podstawowe
+  wymagania bezpieczeństwa teleinformatycznego, jakim powinny odpowiadać
+  systemy i sieci teleinformatyczne służące do wytwarzania, przetwarzania,
+  przechowywania lub przekazywania informacji niejawnych oraz wytyczne do
+  opracowywania szczególnych wymagań bezpieczeństwa tych systemów i sieci.
+5. W rozporządzeniu, o którym mowa w ust. 4, określa się  w szczególności
+  podstawowe wymagania bezpieczeństwa systemów i sieci teleinformatycznych w
+  zakresie ochrony fizycznej, elektromagnetycznej, kryptograficznej,
+  bezpieczeństwa transmisji w sieciach lub systemach teleinformatycznych
+  służących do wytwarzania, przetwarzania, przechowywania lub przekazywania
+  informacji niejawnych.
+                                  Art. 61.
+1. Szczególne wymagania bezpieczeństwa opracowuje i przekazuje służbom
+  ochrony państwa kierownik jednostki organizacyjnej, który jest także
+  odpowiedzialny za eksploatację i bezpieczeństwo systemu lub sieci
+  teleinformatycznej.
+2. Szczególne wymagania bezpieczeństwa obejmujące środki ochrony
+  kryptograficznej, elektromagnetycznej, technicznej i organizacyjnej
+  odpowiednie dla danego systemu i sieci teleinformatycznej, w której mają
+  być wytwarzane, przetwarzane, przechowywane lub przekazywane informacje
+  niejawne  stanowiące tajemnicę państwową są w każdym przypadku
+  indywidualnie zatwierdzane przez służby ochrony państwa w terminie 30 dni
+  od dnia ich przekazania.
+3. Szczególne wymagania bezpieczeństwa systemów i sieci teleinformatycznych,
+  w których mają być wytwarzane, przetwarzane, przechowywane lub przekazywane
+  informacje niejawne stanowiące tajemnicę służbową  przedstawiane  są
+  służbom ochrony państwa. Niewniesienie przez służby ochrony państwa
+  zastrzeżeń do tych wymagań w terminie 30 dni od daty ich przedstawienia
+  uprawnia do uruchomienia systemu lub sieci teleinformatycznej.
+                                  Art. 62.
+1. Wytwarzanie, przechowywanie, przetwarzanie lub przekazywanie informacji
+  niejawnych  stanowiących tajemnicę państwową odpowiednio do ich klauzuli
+  tajności, wymaga certyfikatu dla systemu wydanego przez właściwą  służbę
+  ochrony państwa.
+2. Certyfikat, o którym mowa w ust. 1, wydaje się na podstawie:
+   1) badania i oceny zdolności systemu lub sieci teleinformatycznych do
+     ochrony informacji niejawnych przed nieuprawnionym ujawnieniem oraz
+     przed możliwością narażenia ich bezpieczeństwa,
+   2) przeprowadzonych zgodnie z ustawą postępowań sprawdzających,
+   3) zatwierdzonych przez służby ochrony państwa szczególnych wymagań
+     bezpieczeństwa systemu lub sieci teleinformatycznych.
+   
+                                  Art. 63.
+1. Kierownik jednostki organizacyjnej wyznacza:
+   1) osobę lub zespół osób odpowiedzialnych za funkcjonowanie systemu lub
+     sieci teleinformatycznych oraz za przestrzeganie zasad i wymagań
+     bezpieczeństwa systemów i sieci teleinformatycznych, zwane dalej
+     "administratorem systemu ",
+   2) pracownika pionu ochrony  odpowiedzialnego za bieżącą  kontrolę
+     zgodności funkcjonowania sieci lub systemu teleinformatycznego ze
+     szczególnymi wymaganiami bezpieczeństwa, o których mowa w art. 61 ust. 2
+     i 3.
+2. Służby ochrony państwa udzielają kierownikom jednostek organizacyjnych, o
+  których mowa w art. 61 ust. 1, niezbędnej dla realizacji ich zadań pomocy.
+                                  Art. 64.
+Stanowiska administratora systemu  mogą zajmować albo pełnić funkcję
+pracownika pionu ochrony, o którym mowa w art. 63 ust. 1 pkt 2, osoby które
+spełniają  wymagania określone w art. 18 ust. 5, odpowiednie do klauzuli
+informacji niejawnych wytwarzanych, przechowywanych, przetwarzanych lub
+przekazywanych w systemach lub sieciach, które  to osoby  odbyły
+specjalistyczne przeszkolenie prowadzone przez służby  ochrony państwa.
+                                      
+                                 Rozdział 11
+                         Bezpieczeństwo przemysłowe
+                                      
+                                  Art. 65.
+1. Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa starający się o
+  zawarcie umowy lub wykonująca umowę, o której mowa w art. 1 ust. 2 pkt 5,
+  zwaną dalej  "umową", z wykonaniem której łączy się dostęp do informacji
+  niejawnych stanowiących tajemnicę państwową mają obowiązek ochrony tych
+  informacji.
+2. Umowa powinna określać:
+   1) szczegółowe wymagania dotyczące ochrony informacji niejawnych
+     stanowiących tajemnicę państwową które zostaną przekazane
+     przedsiębiorcy, jednostce naukowej lub badawczo rozwojowej, w związku z
+     wykonywaniem umowy, zwane dalej "instrukcją bezpieczeństwa
+     przemysłowego", odpowiednie do ich ilości, klauzuli tajności oraz liczby
+     osób mających do nich dostęp,
+   2) skutki oraz zakres odpowiedzialności stron umowy z tytułu niewykonania
+     lub nienależytego wykonania obowiązków wynikających z ustawy, a także
+     nieprzestrzegania wymagań określonych w instrukcji bezpieczeństwa
+     przemysłowego.
+3. Umowa może określać również wymagania w zakresie ochrony informacji
+  niejawnych stanowiących tajemnicę służbową. Przepis ust. 2 stosuje się
+  odpowiednio.
+                                  Art. 66.
+Jednostka organizacyjna, która zawiera umowę, wyznacza osobę odpowiedzialną
+za nadzorowanie, kontrolę, szkolenie i doradztwo w zakresie wykonywania przez
+przedsiębiorcę, jednostkę naukową lub badawczo " rozwojową obowiązku ochrony
+przekazanych im informacji niejawnych.
+                                  Art. 67.
+1. U przedsiębiorcy oraz w  jednostce  naukowej lub badawczo"rozwojowej, o
+  których mowa w art. 65 ust. 1, służby ochrony państwa, każda w zakresie
+  swojego działania, przeprowadzają postępowanie sprawdzające.
+2. Postępowaniu sprawdzającemu podlegają:
+   1) osoby zajmujące stanowiska związane z kierowaniem, wykonaniem umowy lub
+     z jej bezpośrednią realizacją u przedsiębiorcy, w jednostce naukowej lub
+     badawczo " rozwojowej,
+   2) osoby, które w imieniu podmiotu określonego w pkt 1, uczestniczą w
+     czynnościach zmierzających do zawarcia umowy, jeżeli są one związane z
+     dostępem do informacji niejawnych,
+   3) osoby zatrudnione w pionie ochrony,
+   4) działający na rzecz i zlecenie podmiotu określonego w pkt 1
+     przedsiębiorca, który uzyskał koncesję na prowadzenie działalności
+     gospodarczej w zakresie wykonywania usług ochrony osób i mienia.
+3. Sprawdzeniu podlegają również:
+   1) struktura i pochodzenie kapitału przedsiębiorcy,
+   2) struktura organizacyjna przedsiębiorcy, jednostki naukowej lub badawczo
+     " rozwojowej oraz ich władz,
+   3) sytuacja finansowa i źródła pochodzenia środków finansowych
+     pozostających w dyspozycji podmiotów określonych w pkt 2.
+4. Do osób, o których mowa w ust. 2 pkt 1-3, nie stosuje się wymogu
+  określonego w  art. 28 ust. 1 pkt 1.
+                                  Art. 68.
+1. Sprawdzenie, o którym mowa w art. 67 ust. 3, prowadzi się na podstawie
+  danych zawartych w wypełnionym przez przedsiębiorcę, jednostkę naukową lub
+  badawczo-rozwojową kwestionariuszu bezpieczeństwa przemysłowego.
+2. Kwestionariusz bezpieczeństwa przemysłowego zawiera w szczególności:
+   1) dane dotyczące statusu prawnego,
+   2) dane o strukturze organizacyjnej i kapitałowej,
+   3) dane dotyczące władz lub organów zarządzających,
+   4) wykaz pracowników uprawnionych do dostępu do informacji niejawnych,
+   5) wykaz pracowników, którzy powinni mieć dostęp do informacji niejawnych,
+     w związku z postępowaniem zmierzającym do zawarcia umowy lub jej
+     wykonaniem,
+   6) dane dotyczące systemu ochrony osób, materiałów oraz obiektów
+     przedsiębiorcy, jednostki naukowej lub badawczo " rozwojowej,
+   7) wykaz osób, które ze strony przedsiębiorcy, jednostki naukowej lub
+     badawczo " rozwojowej będą odpowiedzialne za ochronę przekazanych im
+     informacji niejawnych,
+   8) czytelny podpis osoby upoważnionej do składania oświadczeń woli w
+     imieniu przedsiębiorcy lub kierownika jednostki naukowej lub  badawczo "
+     rozwojowej.
+ 3. Przedsiębiorca, jednostka naukowa lub badawczo " rozwojowa, mają
+  obowiązek niezwłocznego informowania właściwych służb ochrony państwa oraz
+  osoby,  o której mowa w art. 66, o wszelkich zmianach dotyczących danych
+  zawartych w kwestionariuszu bezpieczeństwa przemysłowego.
+                                  Art. 69.
+W przypadku pozytywnego wyniku postępowania, o którym mowa w art. 67 ust. 1,
+służba ochrony państwa wydaje świadectwo bezpieczeństwa przemysłowego
+potwierdzające zdolność przedsiębiorcy, jednostki naukowej lub badawczorozwojowej
+do zapewnienia ochrony informacji niejawnych przed nieuprawnionym
+ujawnieniem.
+                                  Art. 70.
+Świadome podanie nieprawdziwych danych lub zatajenie prawdziwych danych w
+kwestionariuszu bezpieczeństwa przemysłowego albo niewykonanie obowiązku
+wynikającego z art. 68 ust. 3, może stanowić podstawę do odmowy wydania
+świadectwa bezpieczeństwa przemysłowego lub jego cofnięcia.
+                                  Art. 71.
+1. Odmowa wydania świadectwa bezpieczeństwa przemysłowego nie wymaga
+  uzasadnienia.
+2. Przedstawiciel  przedsiębiorcy, jednostki naukowej lub badawczorozwojowej,
+o których mowa w art. 65 ust. 1, ma prawo, o ile nie zagraża to
+  istotnym interesom państwa, zapoznać się z danymi zebranymi w postępowaniu
+  sprawdzającym, a w szczególności z danymi, które stanowiły podstawę odmowy.
+  O uprawnieniu tym służby ochrony państwa obowiązane są poinformować
+  upoważnione podmioty.
+                                  Art.  72.
+Świadectwo bezpieczeństwa przemysłowego oraz odmowa wydania świadectwa
+bezpieczeństwa przemysłowego powinny zawierać:
+   1) określenie służby ochrony państwa, która wydała świadectwo
+     bezpieczeństwa przemysłowego lub odmówiła jego wydania,
+   2) miejsce i datę wystawienia,
+   3) nazwę podmiotu, o którym mowa w art. 65 ust. 1 i jego siedzibę,
+   4) podstawę prawną wydania,
+   5) stwierdzenie o wydaniu świadectwa bezpieczeństwa przemysłowego albo o
+     odmowie,
+   6) imienną pieczęć i czytelny podpis upoważnionego funkcjonariusza albo
+     żołnierza służby ochrony państwa.
+   
+                                  Art. 73.
+Rada Ministrów określi, w drodze rozporządzenia, wzory:
+   1) kwestionariusza bezpieczeństwa przemysłowego,
+   2) świadectwa bezpieczeństwa przemysłowego,
+   3) odmowy wydania świadectwa bezpieczeństwa przemysłowego.
+    
+                                  Art. 74.
+1. Dane zgromadzone w postępowaniu, o którym mowa w art. 67 ust. 1,
+  podlegają ochronie i mogą być wykorzystywane wyłącznie w celu określonym w
+  ustawie, a ich przekazywanie innym osobom jest zakazane.
+2. Dane, o których mowa w ust. 1, mogą być udostępniane wyłącznie na żądanie
+  sądu  lub prokuratora w celu ścigania karnego albo Prezydentowi
+  Rzeczypospolitej Polskiej lub Prezesowi Rady Ministrów - gdy wymaga tego
+  istotny interes Rzeczypospolitej Polskiej.
+3. Do danych zgromadzonych w postępowaniu, o którym mowa w art. 67 ust. 1,
+  stosuje się przepisy art. 12 ust. 1 ustawy o Urzędzie Ochrony Państwa.
+                                  Art. 75.
+Jeżeli w związku z wykonaniem umowy, niezależnie od jej przedmiotu, zostaną
+wytworzone informacje niejawne, o przyznaniu im odpowiedniej klauzuli
+tajności decyduje osoba, o której mowa w art. 66.
+                                  Art. 76.
+Przepisy rozdziału stosuje się także do podmiotów uczestniczących w wykonaniu
+umowy niezależnie od tego, w jakich stosunkach prawnych pozostają z
+przedsiębiorcą, jednostką naukową lub badawczo-rozwojową, której powierzono
+wykonanie umowy.
+                                Rozdział  12
+                     Zmiany w przepisach obowiązujących
+                                      
+                                  Art. 77.
+W ustawie z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa  (Dz. U. Nr
+30, poz. 180, z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461, z 1992 r. Nr 54,
+poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163
+i Nr 104, poz. 515, z 1996 r. Nr 59, poz. 269, Nr 106, poz. 496 i Nr 156,
+poz. 775, z 1997 r. Nr 28, poz. 153, Nr 70, poz. 443 i Nr 88, poz. 554 oraz z
+1998 r. Nr 131, poz. 860) w art.12 w ust. 1 po wyrazie "karnego" dodaje się
+przecinek i wyrazy "przeprowadzenia postępowania sprawdzającego na podstawie
+przepisów o ochronie informacji niejawnych".
+                                  Art. 78.
+W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. Nr 100,
+poz. 442, z 1992 r. Nr 21, poz. 85, z 1996 r. Nr 106, poz. 496 i Nr 152, poz.
+720 oraz z 1997 r. Nr 18, poz. 105, Nr 71, poz. 449, Nr 88, poz. 554, Nr 121,
+poz. 770 i Nr 137, poz. 926) w art. 34a  w ust. 1 w pkt 6 kropkę zastępuje
+się przecinkiem i dodaje się pkt 7 w brzmieniu:
+  " 7) służbom ochrony państwa i ich upoważnionym pisemnie funkcjonariuszom
+     lub żołnierzom w zakresie niezbędnym do przeprowadzenia postępowania
+     sprawdzającego na podstawie przepisów o ochronie informacji
+     niejawnych.".
+   
+                                  Art. 79.
+W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U.
+Nr 111, poz. 535,  z 1997 r.  Nr 88, poz. 554 i Nr 113, poz. 731 oraz z 1998
+r. Nr 106, poz. 668) w art. 50 w  ust. 2 w pkt 3 kropkę zastępuje się
+przecinkiem i dodaje się pkt 4 w brzmieniu:
+  "4) służb ochrony państwa i ich upoważnionych pisemnie funkcjonariuszy lub
+     żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania
+     sprawdzającego na podstawie przepisów o ochronie informacji
+     niejawnych.".
+   
+                                  Art. 80.
+W  ustawie  z  dnia  14  grudnia 1995 r. o urzędzie Ministra Obrony Narodowej
+(Dz.U. z 1996 r. Nr 10, poz. 56,  Nr 102, poz. 474 oraz z 1997 r. Nr 121,
+poz. 770 i Nr 141, poz. 944) w art. 2 po pkt 6 dodaje się pkt 6a w brzmieniu:
+  "6a) ogólna koordynacja działań w zakresie ochrony informacji niejawnych w
+      dziale obrony narodowej,".
+   
+                                  Art. 81.
+W ustawie z dnia 8 sierpnia 1996 r. o organizacji i trybie pracy Rady
+Ministrów oraz o zakresie działania ministrów (Dz. U. Nr 106, poz. 492, Nr
+156, poz. 775 oraz z 1997 r. Nr 141, poz. 943 i Nr 162, poz. 1126) w art. 39
+w ust. 3 w pkt 2 w lit. j) kropkę zastępuje się przecinkiem i dodaje się lit.
+k) w brzmieniu:
+   "k) ochrony informacji niejawnych.".
+   
+                                  Art. 82.
+W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. Nr 114,
+poz. 740) po art. 35 dodaje się art. 35 a w brzmieniu:
+   "Art. 35a. Pracownik ochrony, któremu mają być powierzone na podstawie
+           ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych
+           (Dz. U. Nr ...., poz. ....) zadania pełnomocnika ochrony lub
+           pracownika pionu ochrony, musi dodatkowo spełnić wymagania
+           określone w tej ustawie.".
+   
+                                  Art. 83.
+W ustawie z dnia 29 sierpnia 1997 r. -  Ordynacja podatkowa (Dz. U. Nr 137,
+poz. 926 i Nr 160, poz. 1083 oraz z 1998 r. Nr 106, poz. 668) w art. 297 w  §
+1 w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu:
+   "7) służbom ochrony państwa i ich upoważnionym pisemnie funkcjonariuszom
+     lub żołnierzom w zakresie niezbędnym do przeprowadzenia postępowania
+     sprawdzającego na podstawie przepisów o ochronie informacji
+     niejawnych.".
+   
+                                  Art. 84.
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. Nr 140, poz.
+939) w art. 105 w ust. 1 w pkt 2 w lit. j) kropkę zastępuje się przecinkiem i
+dodaje się lit. k) w brzmieniu:
+  "k) służb ochrony państwa i ich upoważnionych pisemnie funkcjonariuszy lub
+     żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania
+     sprawdzającego na podstawie przepisów o ochronie informacji
+     niejawnych.".
+                                      
+                                 Rozdział 13
+                       Przepisy przejściowe i końcowe
+                                      
+                                  Art. 85.
+1. Kierownicy jednostek organizacyjnych, w terminie 3 miesięcy od dnia
+  wejścia w życie ustawy, powołają pełnomocników ochrony i zorganizują piony
+  ochrony w podległych jednostkach oraz dostosują, w terminie 6 miesięcy od
+  dnia wejścia w życie ustawy, pomieszczenia   służbowe do wymogów ustawy.
+2. Pełnomocnicy ochrony dokonają, w terminie 6 miesięcy od dnia wejścia w
+  życie ustawy, przeglądu stanowisk oraz sporządzą wykazy stanowisk i osób
+  dopuszczonych do informacji niejawnych.
+                                  Art. 86.
+1. Dokumenty wytworzone w okresie od dnia 10 maja 1990 r. do dnia wejścia w
+  życie ustawy, zawierające wiadomości stanowiące tajemnicę państwową lub
+  służbową i oznaczone stosownie do przepisów obowiązujących do dnia wejścia
+  w życie ustawy klauzulami: "Tajne specjalnego znaczenia", "Tajne" lub
+  "Poufne", stają się w rozumieniu tej ustawy dokumentami oznaczonymi
+  odpowiednio klauzulami: "ściśle tajne", "tajne" lub "poufne".
+2. Osoby, o których mowa w art. 21 ust. 1, lub ich następcy prawni w
+  odniesieniu do  dokumentów zawierających wiadomości stanowiące tajemnicę
+  państwową, wytworzonych przed dniem 10 maja 1990 r. - dokonają w terminie
+  36 miesięcy  od dnia wejścia w życie ustawy ich przeglądu w celu
+  dostosowania ich dotychczasowych klauzul do klauzul wynikających z ustawy.
+  Do tego czasu dokumenty te uważa się za oznaczone odpowiednio do
+  postanowień ust. 1, chyba że przepisy odrębne stanowią inaczej. Przepis
+  art. 25 ust. 5 stosuje się odpowiednio.
+3. Po upływie 36 miesięcy od dnia wejścia w życie ustawy dokumenty, o
+  których mowa w ust. 2, w  stosunku do których nie dokonano przeglądu, stają
+  się jawne z wyjątkiem dokumentów odpowiadających kryteriom określonym w
+  art. 25 ust. 2 pkt 1 i 2, które stają się dokumentami oznaczonymi klauzulą
+  "ściśle tajne", podlegającymi ochronie na podstawie powołanego przepisu.
+4. Przepisy ust. 2 i 3 nie naruszają przepisów innych ustaw.
+                                  Art. 87.
+1. Z zastrzeżeniem ust. 2, wydane na podstawie dotychczasowych przepisów
+  upoważnienia do dostępu do wiadomości stanowiących tajemnicę państwową lub
+  służbową:
+   1) osobom na stanowiskach objętych wymogiem przeprowadzenia specjalnego
+     postępowania sprawdzającego - tracą ważność po 12 miesiącach od dnia
+     wejścia w życie ustawy,
+   2) osobom na stanowiskach objętych wymogiem przeprowadzenia poszerzonego
+     postępowania sprawdzającego - tracą ważność po 18 miesiącach od dnia
+     wejścia w życie ustawy,
+   3) osobom na stanowiskach objętych wymogiem przeprowadzenia zwykłego
+     postępowania sprawdzającego - tracą ważność po 24 miesiącach od dnia
+     wejścia w życie ustawy.
+2. Przepis art. 44 ust. 2 stosuje się odpowiednio do osób, o których mowa w
+  ust. 1.
+3. Decyzje zezwalające na ujawnienie wiadomości stanowiących tajemnicę
+  państwową lub służbową wydane na podstawie ustawy z dnia 14 grudnia 1982 r.
+  o ochronie tajemnicy państwowej i służbowej (Dz. U. Nr 40, poz. 271, z 1989
+  r. Nr 34, poz. 178, z 1990 r. Nr 34, poz. 198, z 1996 r. Nr 106, poz. 496
+  oraz  z 1997 r. Nr 110, poz. 714) zachowują ważność, nie dłużej niż do dnia
+  31 grudnia 1999 r.
+4. Zezwolenia wydane na podstawie art. 16 ustawy, o której mowa w ust. 3,
+  zachowują ważność nie dłużej niż do dnia 31 grudnia 1999 r.
+                                  Art. 88.
+Działającym na podstawie odrębnych ustaw wewnętrznym służbom ochrony w
+jednostkach organizacyjnych, kierownicy tych  jednostek  mogą powierzyć
+zadania i uprawnienia pionów ochrony zgodnie z przepisami ustawy.
+                                  Art. 89.
+1. Przepisy dotyczące tajemnicy państwowej lub służbowej wydane na podstawie
+  ustawy, o której mowa w art. 90, o ile nie są  sprzeczne z niniejszą
+  ustawą, zachowują moc przez okres 12 miesięcy od dnia wejścia w życie
+  ustawy.
+2. Przepisy dotyczące tajemnicy państwowej lub służbowej wydane na podstawie
+  innych ustaw należy dostosować do wymogów ustawy w okresie 12 miesięcy od
+  dnia wejścia w życie ustawy.
+                                  Art. 90.
+Traci moc ustawa z dnia 14 grudnia 1982 r. o ochronie tajemnicy państwowej i
+służbowej (Dz. U. Nr 40, poz. 271, z 1989 r. Nr 34, poz. 178, z 1990 r. Nr
+34, poz. 198, z 1996 r. Nr 106, poz. 496 oraz  z 1997 r. Nr 110, poz. 714).
+                                  Art. 91.
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+                                 
+                                 
+                                            
+                                            
+                                    Załącznik nr 1
+                                    do ustawy z dnia .................
+                                    o ochronie informacji niejawnych
+                                    (Dz.U. Nr ..., poz. ...)
+                                            
+                                         
+                                                 
+                                                 
+                    WYKAZ RODZAJÓW INFORMACJI NIEJAWNYCH
+                      STANOWIĄCYCH TAJEMNICĘ PAŃSTWOWĄ
+ 
+ 
+ 
+I. Informacje niejawne oznaczone klauzulą "ściśle tajne":
+  1. Informacje dotyczące zagrożeń zewnętrznych bezpieczeństwa państwa o
+    charakterze militarnym, plany i prognozowanie obronne oraz wynikające z nich
+    decyzje i zadania.
+  2. Struktura, organizacja i funkcjonowanie systemu kierowania państwem oraz
+    dowodzenia Siłami Zbrojnymi w czasie zagrożenia państwa i wojny.
+  3. Lokalizacja, wyposażenie, właściwości ochronne i organizacja obrony
+    stanowisk kierowania państwem i stanowisk dowodzenia Siłami Zbrojnymi w
+    czasie zagrożenia państwa i wojny.
+  4. Organizacja, funkcjonowanie systemów łączności kierowania państwem i
+    dowodzenia Siłami Zbrojnymi w czasie podwyższonej gotowości obronnej i wojny.
+  5. Centralny program mobilizacji gospodarki.
+  6. Informacje dotyczące planowania, organizacji i funkcjonowania
+    mobilizacyjnego rozwinięcia Sił Zbrojnych.
+  7. Szczegółowa struktura Sił Zbrojnych oraz okręgów wojskowych i rodzajów
+    Sił Zbrojnych na czas wojny.
+  8. Informacje dotyczące możliwości bojowych Sił Zbrojnych, poszczególnych
+    okręgów wojskowych i rodzajów Sił Zbrojnych oraz potencjalnego przeciwnika na
+    przewidywanych obszarach i kierunkach działań wojennych.
+  9. Zadania bojowe Sił Zbrojnych i związków operacyjnych.
+ 10. Organizacja i funkcjonowanie systemu obrony powietrznej i
+    przeciwlotniczej kraju.
+ 11. Organizacja, rozmieszczenie, zadania i możliwości działania systemu
+    rozpoznania i walki radioelektronicznej.
+ 12. Planowanie i realizacja przedsięwzięć w zakresie operacyjnego maskowania
+    wojsk.
+ 13. Planowanie, realizacja, wyniki badań naukowych i prac badawczo rozwojowych
+o szczególnie ważnym znaczeniu dla obronności i bezpieczeństwa
+    państwa.
+ 14. Hasła i kody dostępu do urządzeń przechowujących, przetwarzających i
+    przesyłających informacje oznaczone klauzulą "ściśle tajne".
+ 15. Systemy łączności planowane, organizowane i utrzymywane przez służbę
+    łączności podlegającą ministrom właściwym do spraw wewnętrznych,
+    administracji publicznej, Ministrowi Obrony Narodowej oraz Szefowi Urzędu
+    Ochrony Państwa.
+ 16. Organizacja, funkcjonowanie, zabezpieczenie i środki kryptograficznej
+    ochrony przekazu informacji oznaczonych klauzulą "ściśle tajne" oraz
+    szyfrogramy chronione algorytmem szyfrowym przeznaczonym dla zabezpieczenia
+    tak oznaczonych informacji.
+ 17. Organizacja, formy i metody pracy operacyjnej organów, służb i
+    instytucji państwowych uprawnionych do wykonywania czynności operacyjnorozpoznawczych.
+
+ 18. Szczegółowe kierunki pracy operacyjnej i zainteresowań służb ochrony
+    państwa.
+ 19. Szczegółowa struktura organizacyjna oraz etatowa jednostek i komórek
+    organizacyjnych wykonujących czynności operacyjno-rozpoznawcze w organach,
+    służbach i instytucjach państwowych, o których mowa w punkcie 17, a także
+    systemy ewidencji danych o funkcjonariuszach, żołnierzach i pracownikach tych
+    jednostek i komórek organizacyjnych.
+ 20. Dane identyfikujące lub mogące doprowadzić do identyfikacji
+    funkcjonariuszy, żołnierzy i pracowników uprawnionych do wykonywania
+    czynności operacyjno-rozpoznawczych i zatrudnionych w organach, służbach i
+    instytucjach państwowych, o których mowa w punkcie 17.
+ 21. Dane identyfikujące lub mogące doprowadzić do identyfikacji osób nie
+    będących funkcjonariuszami, żołnierzami lub pracownikami organów, służb i
+    instytucji państwowych,  o których mowa w punkcie 17, a które udzieliły
+    pomocy tym organom w zakresie wykonywania czynności operacyjnorozpoznawczych.
+
+ 22. Informacje dotyczące dokumentów uniemożliwiających ustalenie danych
+    identyfikujących funkcjonariuszy, żołnierzy lub pracowników organów, służb i
+    instytucji państwowych, o których mowa w punkcie 17 lub środków, którymi
+    posługują się przy wykonywaniu czynności operacyjno-rozpoznawczych.
+ 23. Informacje dotyczące stosowanych na podstawie przepisów ustawowych:
+    środków technicznych umożliwiających uzyskiwanie w sposób tajny informacji
+    oraz utrwalanie dowodów; kontroli korespondencji; zakupu kontrolowanego i
+    przesyłki niejawnie nadzorowanej.
+ 24. Plany i stan zaopatrzenia w sprzęt i materiały techniki specjalnej
+    organów, służb i instytucji państwowych, o których mowa w punkcie 17.
+ 25. Informacje i przedmioty uzyskane w wyniku zastosowania środków
+    technicznych umożliwiających uzyskiwanie w sposób tajny informacji oraz
+    utrwalanie dowodów, a także w wyniku zastosowania kontroli korespondencji.
+ 26. Informacje dotyczące planowanych, wykonywanych i zrealizowanych
+    czynności operacyjno-rozpoznawczych przez organy, służby i instytucje
+    państwowe, o których mowa w punkcie 17 oraz informacje i przedmioty uzyskane
+    w wyniku tych czynności, które pozwalają na identyfikację osób udzielających
+    im pomocy w zakresie wykonywania czynności operacyjno-rozpoznawczych.
+ 27. Sprawozdania, biuletyny, informacje i dane statystyczne dotyczące pracy
+    operacyjnej organów, służb i instytucji państwowej, o których mowa w punkcie 17.
+ 28. Gospodarowanie środkami budżetowymi i mieniem państwowym na cele
+    specjalne.
+ 29. Organizacja, funkcjonowanie i środki techniczne radiokontrwywiadowczej
+   ochrony państwa.
+ 30. Informacje niejawne wymieniane przez Rzeczpospolitą Polską z Organizacją
+   Traktatu Północnoatlantyckiego, Unią Europejską, i Unią Zachodnioeuropejską
+   oraz z innymi organizacjami międzynarodowymi i państwami, oznaczone klauzulą
+   "TOP SECRET" lub równorzędną.
+ 
+ 
+II. Informacje niejawne oznaczone klauzulą "tajne" ze względu na obronność
+  i bezpieczeństwo państwa oraz porządek publiczny:
+   1. Planowanie, rozmieszczenie i stan rezerw państwowych.
+   2. Resortowe i wojewódzkie programy mobilizacji gospodarki.
+   3. Plany obrony cywilnej państwa oraz plany obrony cywilnej województw.
+   4. Założenia systemu finansowego państwa w czasie podwyższonej gotowości
+     obronnej i wojny.
+   5. Stan rozwinięcia, ukompletowania i wyposażenia jednostek wojskowych w
+     zakresie nie objętym postanowieniami traktatu w sprawie konwencjonalnych sił
+     zbrojnych w Europie (CFE).
+   6. Szczegółowa struktura Sił Zbrojnych oraz okręgów wojskowych i rodzajów
+     Sił Zbrojnych.
+   7. Plany i prognozy rozwoju organizacyjnego i technicznego Sił Zbrojnych
+     oraz poszczególnych rodzajów wojsk.
+   8. Lokalizacja, rodzaj i przeznaczenie oraz właściwości techniczno ochronne
+budownictwa specjalnego.
+   9. Organizacja kompleksowego przygotowania jednolitej sieci
+     telekomunikacyjnej państwa dla potrzeb obronnych.
+  10. Informacje dotyczące przygotowania, budowy, zarządzania oraz
+     funkcjonowania systemów i sieci telekomunikacyjnych, teleinformatycznych i
+     pocztowych służących do przekazywania informacji niejawnych stanowiących
+     tajemnicę państwową, wykorzystywanych dla potrzeb Sił Zbrojnych, służb
+     ochrony państwa lub administracji publicznej w zakresie niezbędnym do
+     zabezpieczenia tych systemów i sieci.
+  11. Zbiorcze informacje dotyczące produkcji specjalnej przemysłu obronnego,
+     a także prognozy rozwojowe, plany i zdolności produkcyjne oraz usługowe
+     przedsiębiorców, jednostek naukowych i badawczo-rozwojowych w zakresie
+     realizacji zamówień na uzbrojenie i sprzęt wojskowy.
+  12. Wojskowe mapy specjalne i fotodokumenty przedstawiające obiekty
+     inżynieryjnej rozbudowy terenu prognozowanych rejonów i kierunków działań
+     wojennych.
+  13. Zbiory współrzędnych geodezyjnych lub prostokątnych punktów położonych
+     na terenach, które mają istotne znaczenie dla obronności i bezpieczeństwa
+     państwa.
+  14. Fotogrametryczne i teledetekcyjne zdjęcia lotnicze i naziemne obiektów i
+     terenów mających istotne znaczenie dla obronności i bezpieczeństwa państwa.
+  15. Materiały geodezyjne i kartograficzne zawierające informacje o
+     położeniu, rodzaju, charakterze lub przeznaczeniu obiektów mających istotne
+     znaczenie dla obronności lub bezpieczeństwa państwa.
+  16. Informacje dotyczące przestawienia gospodarki narodowej na rzecz
+     obronności w czasie podwyższonej gotowości obronnej państwa i wojny.
+  17. Informacje dotyczące przygotowania, organizacji oraz wykorzystywania
+     transportu kolejowego, drogowego i wodnego oraz ochrony obiektów
+     komunikacyjnych w czasie podwyższonej gotowości obronnej państwa i wojny.
+  18. Organizacja i funkcjonowanie systemu alarmowania wojsk oraz zadania
+     jednostek wojskowych i garnizonów w procesie osiągania wyższych stanów
+     gotowości bojowej.
+  19. Zadania centralnych konstytucyjnych organów państwa, ministrów,
+     centralnych organów administracji rządowej oraz wojewodów związane z
+     osiąganiem podwyższonej gotowości obronnej państwa.
+  20. Organizacja i funkcjonowanie systemu zaopatrywania Sił Zbrojnych w
+     uzbrojenie, sprzęt wojskowy i amunicję w procesie osiągania wyższych stanów
+     gotowości bojowej.
+  21. System ewidencji danych o osobach zajmujących stanowiska związane z
+     obronnością kraju.
+  22. Informacje dotyczące systemu ochrony i obrony jednostek organizacyjnych
+     Służby Więziennej na czas podwyższonej gotowości obronnej państwa i wojny.
+  23. Organizacja ochrony, na wypadek wojny, dóbr kultury mających szczególne
+     znaczenie dla dziedzictwa kulturalnego narodu.
+  24. Dane dotyczące rezerw rzeczowych resortu spraw wewnętrznych tworzonych
+     na rzecz wojny.
+  25. Szczegółowe informacje dotyczące organizacji, metod i środków służących
+     do ochrony informacji niejawnych stanowiących tajemnicę państwową, których
+     ujawnienie może spowodować brak ich skuteczności.
+  26. Informacje dotyczące planowania, rozmieszczenia, przeznaczenia i
+     wyposażenia obiektów i nieruchomości specjalnych oraz plany ich obrony i
+     ochrony.
+  27. Szczegółowe informacje dotyczące osób podejrzewanych o prowadzenie
+     działalności godzącej w bezpieczeństwo, obronność, niezależność, całość lub
+     międzynarodową pozycję państwa albo działalności terrorystycznej, uzyskane i
+     przetwarzane przez służby ochrony państwa.
+  28. Szczegółowa struktura organizacyjna i etatowa jednostek organizacyjnych
+     Urzędu Ochrony Państwa, Wojskowych Służb Informacyjnych, Policji, Straży
+     Granicznej oraz jednostek wojskowych podporządkowanych ministrowi właściwemu
+     do spraw wewnętrznych, chyba że  zawierają informacje oznaczone wyższą
+     klauzulą tajności.
+  29. System ewidencji danych o funkcjonariuszach, żołnierzach i pracownikach
+     Urzędu Ochrony Państwa, Wojskowych Służb Informacyjnych, Policji, Straży
+     Granicznej i jednostek wojskowych podporządkowanych ministrowi właściwemu do
+     spraw wewnętrznych, oraz dane z tej ewidencji, chyba że zawierają informacje
+     oznaczone wyższą klauzulą tajności.
+  30. Dane statystyczne dotyczące spraw kadrowych służb ochrony państwa, z
+     wyłączeniem danych zamieszczanych w ustawie budżetowej.
+  31. Informacje z materiałów archiwalnych dotyczące pracy operacyjnej w tym
+     kartoteki i informacje sporządzone w oparciu o archiwalne materiały
+     operacyjne, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
+  32. System i sposób ochrony granicy państwowej, kontroli ruchu granicznego,
+     działań antyterrorystycznych, antysabotażowych, a także informacje dotyczące
+     operacyjnych możliwości ochrony granicy państwowej.
+  33. Szczegółowe formy i metody działania Urzędu Ochrony Państwa, Wojskowych
+     Służb Informacyjnych, Policji, Straży Granicznej oraz jednostek wojskowych
+     podporządkowanych ministrowi właściwemu do spraw wewnętrznych, chyba że
+     zawierają informacje oznaczone wyższą klauzulą tajności.
+  34. Informacje dotyczące planowanych, wykonywanych i zrealizowanych
+     czynności operacyjno-rozpoznawczych przez organy, służby lub instytucje
+     państwowe uprawnione do wykonywania czynności operacyjno-rozpoznawczych oraz
+     informacje i przedmioty uzyskane w wyniku tych czynności, chyba że zawierają
+     informacje oznaczone wyższą klauzulą tajności.
+  35. Szczegółowe informacje dotyczące funkcjonowania systemu ochrony
+     informacji niejawnych stanowiących tajemnicę państwową.
+  36. Dzienniki korespondencyjne do rejestracji dokumentów oraz ewidencje
+     innych materiałów zawierających informacje niejawne stanowiące tajemnicę
+     państwową.
+  37. Szczegółowe informacje dotyczące ochrony i zabezpieczenia obiektów
+     ważnych dla gospodarki narodowej albo ze względu na obronność lub
+     bezpieczeństwo państwa.
+  38. Szczegółowe informacje dotyczące planowanych, wykonywanych i
+     zrealizowanych czynności dochodzeniowo-śledczych, jeżeli ich ujawnienie
+     mogłoby stanowić przeszkodę dla prawidłowego toku postępowania karnego.
+  39. Projekty wynalazcze uznane za tajne zgodnie z przepisami o
+     wynalazczości.
+  40. Informacje niejawne wymieniane przez Rzeczpospolitą Polską z Organizacją
+     Traktatu Północnoatlantyckiego, Unią Europejską, i Unią Zachodnioeuropejską
+     oraz z innymi organizacjami międzynarodowymi i państwami, oznaczone klauzulą
+     "SECRET" lub równorzędną.
+ 
+III. Informacje niejawne oznaczone klauzulą "tajne" ze względu na ważny
+  interes państwa:
+   1. Materiały dla Rady Ministrów dotyczące potencjału strategicznego państwa
+     oraz strategicznych zamówień rządowych i ich realizacji.
+   2. Instrukcje do negocjacji w sprawie zawierania umów finansowych o
+     znaczeniu ogólnopaństwowym, których ujawnienie mogłoby mieć wpływ na dalszy
+     tok negocjacji.
+   3. Wnioski o udzielenie poręczenia, umowy poręczenia oraz umowy o
+     udzielenie poręczenia dotyczące producentów sprzętu obronnego.
+   4. System zabezpieczenia wartości pieniężnych w bankach państwowych i w
+     przedsiębiorstwach produkujących znaki pieniężne.
+   5. Limit rezerwy specjalnej krajowych znaków pieniężnych w Narodowym Banku
+     Polskim.
+   6. Informacje o organizacji i zabezpieczeniu transportów wartości
+     pieniężnych przekraczających równowartość kwoty 500 tys. EURO organizowanych
+     przez banki państwowe oraz przedsiębiorstwa produkujące znaki pieniężne.
+   7. System zabezpieczenia znaków skarbowych akcyzy w przedsiębiorstwach
+     wytwarzających te znaki, bankach państwowych i urzędach skarbowych.
+   8. Informacje  związane z projektowaniem i przygotowaniem do produkcji
+     znaków pieniężnych z wyłączeniem monet przeznaczonych na cele kolekcjonerskie
+     i papierów wartościowych emitowanych przez Skarb Państwa i Narodowy Bank
+     Polski oraz znaków skarbowych akcyzy, w zakresie niezbędnym do ich
+     zabezpieczenia przed podrabianiem lub przerabianiem, do czasu wprowadzenia
+     ich do obiegu.
+   9. Informacje dotyczące technologii produkcji znaków pieniężnych, znaków
+     skarbowych, akcyzy, papierów wartościowych i kart płatniczych emitowanych
+     przez Skarb Państwa lub Narodowy Bank Polski albo inne banki państwowe.
+  10. Informacje dotyczące technologii produkcji oraz szczegółowych sposobów
+     zabezpieczeń dokumentów tożsamości, a także innych zabezpieczonych dokumentów
+     wydawanych przez organy władzy publicznej.
+  11. Decyzje o skokowych zmianach kursu złotego w stosunku do walut obcych
+     (dewaluacja, rewaluacja) dokonywane przez Narodowy Bank Polski do czasu
+     podania ich do publicznej wiadomości.
+  12. Plany, zasady i systemy organizacji ochrony oraz zabezpieczenia banków
+     państwowych.
+  13. Wysokość stóp procentowych Narodowego Banku Polskiego - do czasu ich
+     podania do publicznej wiadomości.
+  14. Przedział odchyleń kursu złotego od centralnego parytetu - do czasu
+     podania ich do publicznej wiadomości.
+  15. Prace badawczo-rozwojowe o szczególnie istotnym znaczeniu dla interesu
+     gospodarczego państwa, zlecone przez ministrów i centralne organy państwowe.
+  16. Informacje dotyczące rozwiązań technicznych, technologicznych i
+     organizacyjnych, których ujawnienie naraziłoby na szkodę ważny interes
+     gospodarczy państwa.
+  17. Informacje o sposobie działania urządzeń kontrolno-sygnalizacyjnych i
+     systemów alarmowych zabezpieczających dostęp do miejsc składowania i
+     stosowania materiałów jądrowych kategorii I i II.
+  18. Informacje dotyczące planów i zadań polityki zagranicznej, których
+     ujawnienie naraziłoby na szkodę ważny interes państwa lub innego podmiotu
+     stosunków międzynarodowych do czasu oficjalnego ich ogłoszenia.
+  19. Materiały, dokumenty, sprawozdania z negocjacji i konsultacji
+     międzynarodowych oraz umowy międzynarodowe lub ich części, jeżeli uznane
+     zostały za niejawne na wniosek jednej ze stron.
+  20. Informacje polityczne, gospodarcze lub wojskowe dotyczące państw obcych,
+     uzyskane pod warunkiem zapewnienia ich tajności.
+  21. Organizacja i funkcjonowanie poczty dyplomatycznej.
+  22. System ochrony polskich przedstawicielstw dyplomatycznych i urzędów
+     konsularnych.
+  23. Zadania polskich przedstawicielstw dyplomatycznych i urzędów
+     konsularnych na czas wojny.
+  24. Zadania w zakresie ochrony przedstawicielstw dyplomatycznych i urzędów
+     konsularnych państw obcych w Rzeczypospolitej Polskiej w czasie wojny.
+  25. Plany, prognozy i informacje na temat rozwoju obrotu z zagranicą
+     sprzętem specjalnym i uzbrojeniem oraz technologiami i usługami specjalnymi.
+  26. Informacje niejawne wymieniane przez Rzeczpospolitą Polską z Organizacją
+     Traktatu Północnoatlantyckiego, Unią Europejską, i Unią Zachodnioeuropejską
+     oraz z innymi organizacjami międzynarodowymi i państwami, oznaczone klauzulą
+     "SECRET" lub równorzędną.
+                                 Załącznik nr 2
+                                 do ustawy z dnia .................
+                                 o ochronie informacji niejawnych
+                                 (Dz.U. Nr ..., poz. ...)
+                                             
+                                      
+                                      
+                      ANKIETA BEZPIECZEŃSTWA OSOBOWEGO
+                                      
+ Szanowna Pani,
+ Szanowny Panie,
+          Rząd Rzeczypospolitej Polskiej  kierując się troską o
+    bezpieczeństwo narodowe i mając powinność jego ochrony przedstawia  tę
+    ankietę w przekonaniu, iż zostanie ona wypełniona zgodnie z Pana /Pani/
+    najlepszą wiedzą i wolą. Dziękując za współpracę podkreślamy, że celem
+    tej ankiety jest wyłącznie ochrona bezpieczeństwa narodowego przed
+    zagrożeniami ze strony obcych służb specjalnych, ugrupowań
+    terrorystycznych lub grup przestępczych. Prosimy uważnie przeczytać
+    poniższą instrukcję, a w razie wątpliwości zwrócić się do pełnomocnika
+    ochrony w Pana /Pani/ jednostce organizacyjnej lub do właściwej służby
+    ochrony państwa o pomoc w wypełnieniu ankiety.
+Instrukcja.
+1. Przed wypełnieniem ankiety proszę się z nią dokładnie zapoznać.
+2. Proszę wypełniać ankietę pismem drukowanym, a w razie możliwości pismem
+  maszynowym.
+3. Jeśli ankieta zawiera zbyt mało miejsca na wpisanie danych proszę je
+  podać na osobnej karcie formatu A-4, którą należy dołączyć do ankiety.
+4. W razie braku wiedzy umożliwiającej podanie danych, proszę wpisać
+  sformułowanie "nie wiem".
+5. Jeżeli treść któregoś z punktów lub podpunktów ankiety nie dotyczy Pana
+  /Pani/ osoby proszę wpisywać sformułowanie: "nie dotyczy".
+6. Jeśli dane w kolejnych punktach ankiety są identyczne z danymi podanymi
+  w poprzednich punktach można w kolejnych punktach wpisywać sformułowanie:
+  "jak w pkt ... lit. ...".
+7. Jeżeli któryś z członków rodziny, o których mowa w pkt 2 - 9 ankiety
+  zmarł, proszę ograniczać wypełnianie takiego fragmentu ankiety wyłącznie do
+  podania jego imienia, nazwiska, daty i miejsca  urodzenia oraz sformułowania:
+  "nie żyje".
+8. Niniejszą ankietę wypełnia się w podanym niżej zakresie, w związku z
+  upoważnieniem Pana /Pani/ do dostępu do informacji niejawnych.
+9. Osoby objęte postępowaniem sprawdzającym w związku z dostępem do
+  informacji niejawnych oznaczonych klauzulą: "zastrzeżone", wypełniają
+  następujące punkty: 1, 2a - c, 3a - c, 12,13, 22, 28a.
+10. Osoby objęte postępowaniem sprawdzającym w związku z  dostępem do
+  informacji niejawnych oznaczonych klauzulą "poufne", wypełniają wyłącznie
+  następujące punkty: 1 - 7, 9, 12, 13, 15 - 19, 22 - 28, 30, 32 i 33.
+11. Osoby objęte postępowaniem sprawdzającym w związku z dostępem do
+  informacji niejawnych oznaczonych klauzulą "tajne" nie wypełniają pkt 31.
+12. Osoby objęte postępowaniem sprawdzającym w związku z dostępem do
+  informacji niejawnych oznaczonych klauzulą "Ściśle tajne" wypełniają
+  wszystkie punkty ankiety.
+13. Przy ponownym postępowaniu sprawdzającym przeprowadzanym po upływie 10
+  lat w     stosunku do osoby, która otrzymała poświadczenie bezpieczeństwa
+  uprawniające do dostępu do   informacji niejawnych oznaczonych  klauzulą
+  "poufne" - osobę tą prosi się o  wypełnienie pkt: 10, 17, 22- 25, 28 i 29 z
+  odniesieniem się wyłącznie do  okresu począwszy od daty wypełnienia
+  poprzedniej ankiety do dnia  wypełnienia następnej  ankiety. Jeżeli dane
+  odnoszące się do wyżej  wymienionych punktów nie uległy zmianie, należy przy
+  nich wpisać sformułowanie: "bez zmian".
+14. Przy ponownym postępowaniu sprawdzającym, przeprowadzanym po upływie
+  trzech lat w stosunku do osoby, która otrzymała poświadczenie bezpieczeństwa
+  uprawniające do dostępu do informacji niejawnych oznaczonych klauzulą "ściśle
+  tajne", a po upływie pięciu lat w stosunku do osoby, która otrzymała
+  poświadczenie bezpieczeństwa upoważniające do dostępu do  informacji
+  oznaczonych  klauzulą "Tajne" - osoby te  nie wypełniają  punktów: 1j) oraz
+  1k).
+15. Przy kolejnym postępowaniu sprawdzającym  przeprowadzanym po upływie
+  okresów, o których mowa wyżej, proszę wypełnić punkty: 10, 17, 22 - 25, 28 i
+  29 odnosząc się wyłącznie do okresu począwszy od daty wypełnienia poprzedniej
+  ankiety do dnia wypełnienia następnej ankiety. Jeżeli dane odnoszące się do
+  wyżej wymienionych punktów nie uległy zmianie, należy przy nich wpisać
+  sformułowanie: "bez zmian".
+ 
+ 
+ 
+ 
+ 
+ _____________________________
+ Pieczęć instytucji występującej o sprawdzenie osoby
+ upoważnianej do dostępu do informacji niejawnych
+                                                 ......................
+                                             
+                                                 P o u f n e
+                                                (po wypełnieniu)
+                                                 Egz. nr ______
+                                             
+                                             
+                                    
+                                                   +--------------+
+                                                   |  miejsce na  |
+                                                   |  fotografię  |
+                                                   |              |
+                                                   |              |
+                                                   |   4x3,5 cm   |
+                                                   +--------------+ 
+ 
+                                   ANKIETA
+                                      
+                          BEZPIECZEŃSTWA OSOBOWEGO
+Niniejsza ankieta bezpieczeństwa osobowego wykorzystywana będzie zgodnie z
+ustawą na  użytek postępowania sprawdzającego w związku z upoważnieniem
+Pana(-i) do dostępu do  informacji niejawnych oznaczonych klauzulą (proszę
+zakreślić właściwe pole)
+                                    
+   "Zastrzeżone"             
+                             
+   "Poufne"
+ 
+   "Tajne"
+ 
+   "Ściśle tajne"
+ 
+ 
+ 1. OSOBA PODLEGAJĄCA SPRAWDZENIU.
+ 
+ a. Nazwisko _____________________________________________________
+ 
+ b. Nazwiska poprzednie (również nazwisko rodowe) __________________________
+ 
+ c. Imiona ____________________________________________________________
+ 
+ d. Imiona poprzednie (w razie ich zmiany) ____________________________________
+ 
+ e. Data urodzenia _________________  miejsce urodzenia _______________________
+ 
+ f. Posiadane obywatelstwo(a)__________________________________________________
+ 
+ g. Posiadane uprzednio obywatelstwa _______________________________________
+ 
+ h. W przypadku zmiany obywatelstwa proszę podać:
+ 
+ - na jakie imiona i nazwisko wydano akt o zmianie lub utracie obcego obywatelstwa
+   albo akt uzyskania posiadanego obecnie obywatelstwa _________________________
+ 
+ - data wydania ________________________________________________________________
+ 
+ - numer i nazwa dokumentu______________________________________________
+ 
+ - wydany przez ________________________________________________________
+ 
+ i. Dowód osobisty: seria i numer ___________________________________________
+ 
+      wydany przez _____________________________________________
+ 
+      data wydania _______________________________________________
+ 
+ 
+ j. Nr PESEL  ____________________________
+ 
+ k. Numer Identyfikacji Podatkowej (NIP) ___________________________________
+ 
+ l. Posiadany stopień wojskowy ____________________________________________
+ 
+ ł. Seria i nr Książeczki Wojskowej
+ 
+     - wydana przez _______________________________________
+ 
+     - data wydania _______________________________________
+ 
+ m. Aktualne miejsce zamieszkania (zameldowanie na pobyt stały)
+    __________________________________________________________________________
+                       (państwo, miasto, ulica, nr domu, nr mieszkania,
+ 
+ _____________________________________________________________________________
+                        kod pocztowy, nr telefonu domowego)
+ 
+ n. Aktualny adres pobytu czasowego (jeżeli inny niż w pkt 1. lit. m))________
+ 
+  ___________________________________________________________________
+    (państwo, miasto, ulica, nr domu, nr mieszkania, kod poczt., nr telefonu
+    domowego)
+   __________________________________________________________________
+ 
+ o. Paszport: Seria i nr __________________________________________________
+         wydany przez ________________________________________________
+ 
+         termin ważności: _______________________________________
+ 
+ p. Aktualne miejsce(a) pracy, służby:
+ 
+        1. _______________________________________________________________
+               (nazwa oraz  nr REGON  pracodawcy)
+        
+           ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+              telefonu służbowego, nr faxu)
+           
+            ________________________________________________________________
+           
+           
+            ________________________________________________________________
+            (zajmowane stanowisko lub charakter wykonywanych prac) (wysokość
+             miesięcznych poborów/dochodu netto)
+           
+           
+        2. ________________________________________________________________
+                (nazwa pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+              telefonu służbowego, nr faxu)
+           
+            ________________________________________________________________
+           
+           
+            ________________________________________________________________
+             (zajmowane stanowisko)  (wysokość miesięcznych poborów/dochodów
+              netto)
+           
+           
+ r. Dodatkowe źródła utrzymania/zarobkowania
+ (Dotyczy również dochodów otrzymywanych bez świadczenia pracy, np. renty
+ zagranicznej , dywidendy od posiadanych papierów wartościowych, odsetek od
+ lokat bankowych, zysków z obrotu akcjami na giełdzie, udziałów w funduszach
+ powierniczych, dochodów z wynajmu nieruchomości, wygranych w grach losowych
+ o wysokości przekraczającej trzykrotne średnie wynagrodzenie w Polsce,
+ honorariów za publikacje, działalność dydaktyczną, dochodów z realizacji
+ umów zleconych itp.)
+ 
+        1._______________________________________________________________
+                (nazwa pracodawcy)
+           
+          ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+              telefonu służbowego, nr faxu)
+           
+            ________________________________________________________________
+           
+           
+            ________________________________________________________________
+           (zajmowane stanowisko lub charakter wykonywanych prac) (wysokość
+            miesięcznych poborów/dochodów netto)
+        
+        2. _________________________________________________________________
+            (nazwa  pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+              telefonu służbowego, nr faxu)
+           
+            ________________________________________________________________
+           
+            ________________________________________________________________
+            (zajmowane stanowisko lub charakter wykonywanych prac) (wysokość
+             miesięcznych poborów/dochodów netto)
+           
+           
+           3.  Inne dochody
+             _______________________________________________________________
+                          (źródło, wysokość)
+              ______________________________________________________________
+ 
+ 
+2.  OJCIEC OSOBY SPRAWDZANEJ:
+ 
+           a) Imię i nazwisko _______________________________________________
+           
+           b) Miejsce urodzenia ________________  data urodzenia _____________
+           
+           c) Obywatelstwo (a) _______________________________________________
+ 
+           d) Aktualne miejsce(a) pracy:
+ 
+            _______________________________________________________________
+                 (nazwa pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+              telefonu służbowego)
+           
+            ________________________________________________________________
+           
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+           
+           e) Aktualne miejsce zameldowania (stałe i czasowe)
+           ___________________________________________________________________
+           (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr
+            telefonu domowego)
+ 
+           _________________________________________________________________
+ 
+           _________________________________________________________________
+ 
+        f) Aktualny adres zamieszkania  ____________________________________
+        (jeżeli jest inny niż w /wym.)  (państwo, miasto, ulica, nr domu, nr
+                                          mieszkania, kod pocztowy,
+ 
+           ___________________________________________________
+                        nr telefonu domowego)
+ 
+           ___________________________________________________
+ 
+ 
+3.  MATKA OSOBY SPRAWDZANEJ:
+ 
+           a) Imię, nazwisko i nazwisko rodowe:________________________________
+ 
+                ___________________________________________________
+                                      
+           b) Miejsce urodzenia _____________  data urodzenia __________________
+           
+           c) Obywatelstwo(a) ________________________________________________
+ 
+           d) Aktualne miejsce(a) pracy:
+              _____________________________________________________________
+                           (nazwa pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+              telefonu służbowego)
+           
+            ________________________________________________________________
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+           
+           e) Aktualne miejsce zameldowania (stałe i czasowe)
+           __________________________________________________________________
+            (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr
+             telefonu domowego)
+      ___________________________________________________
+           ___________________________________________________
+ 
+ 
+           f) Aktualny adres zamieszkania  ____________________________________
+           (jeżeli jest inny niż w/wym.)   (państwo, miasto, ulica, nr domu, nr
+                                             mieszkania, kod pocztowy,
+ 
+               _________________________________________________________________
+                                               nr telefonu domowego)
+                ________________________________________________________________
+ 
+ 
+ 4. RODZEŃSTWO OSOBY  SPRAWDZANEJ:
+ 
+   1)  a) Imię i nazwisko: ______________________________________________
+ 
+      b) Data i miejsce urodzenia _______________________________________
+ 
+           c) Obywatelstwo(a) ___________________________________________
+ 
+           d) Aktualne miejsce(a) pracy:
+ 
+             ______________________________________________________________
+                           (nazwa pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+             telefonu służbowego)
+           
+            ________________________________________________________________
+           
+           
+            ________________________________________________________________
+                   (zajmowane stanowisko)
+           
+           
+           e) Aktualne miejsce zameldowania (stałe i czasowe)
+            ___________________________________________________
+            (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr
+             telefonu domowego)
+ 
+            ___________________________________________________
+ 
+ 
+            ___________________________________________________
+      
+           f) Aktualny adres zamieszkania ____________________________________
+            (jeżeli jest inny niż w/wym.) (państwo, miasto, ulica, nr domu, nr
+                                           mieszkania, kod pocztowy,
+             ___________________________________________________
+                                          nr telefonu domowego)
+ 
+             ___________________________________________________
+ 
+ 
+         2. a) Imię i nazwisko
+ 
+ 
+           b) Data i miejsce urodzenia ___________________________________
+ 
+           c) Obywatelstwo(a)  ____________________________________________
+ 
+ 
+           d) Aktualne miejsce(a) pracy:
+ 
+          _____________________________________________________
+            (nazwa  pracodawcy)
+        
+         ___________________________________________________________________
+          (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr telefonu
+           służbowego)
+           
+           
+            ________________________________________________________________
+           
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+           
+           
+           e) Aktualne miejsce zameldowania (stałe i czasowe)
+ 
+      ___________________________________________________
+     (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy,
+ 
+      ___________________________________________________
+        nr telefonu domowego)
+ 
+      ___________________________________________________
+ 
+ 
+           f) Aktualny adres zamieszkania ____________________________________
+             (jeżeli jest inny niż w/wym.) (państwo, miasto, ulica, nr domu, nr
+                                             mieszkania, kod pocztowy,
+ 
+             ___________________________________________________
+                                          nr telefonu domowego)
+ 
+ 
+         3) a) Imię i nazwisko  _________________________________________
+ 
+           b) Data i miejsce urodzenia __________________________________
+           
+           c) Obywatelstwo(a) ______________________________________
+           d) Aktualne miejsce(a) pracy:
+ 
+            ______________________________________________________
+            (nazwa pracodawcy)
+        
+        
+            ________________________________________________________________
+             (adres - kraj, miasto, ulica, nr domu, kod pocztowy, nr
+             telefonu służbowego)
+           
+           
+            ________________________________________________________________
+           
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+           
+           
+           e) Aktualne miejsce zameldowania (stałe i czasowe)
+              ___________________________________________________
+             (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr telefonu
+              domowego)
+ 
+             ___________________________________________________
+             ___________________________________________________
+ 
+ 
+ 
+           f) Aktualny adres zamieszkania ___________________________________
+             (jeżeli jest inny niż w/wym.) (państwo, miasto, ulica, nr domu, nr
+                                             mieszkania, kod pocztowy,
+ 
+                 ________________________________________________
+                                           nr telefonu domowego)
+ 
+                 _________________________________________________
+ 
+5.  MAŁŻONEK(KA) OSOBY SPRAWDZANEJ:
+ 
+                      Imię i nazwisko (także nazwisko rodowe):___________________________
+dot. także
+konkubenta/konkubiny  Miejsce urodzenia _____________  data urodzenia _________________
+lub osoby o takim
+charakterze           Posiadane Obywatelstwo(a)_____________________________
+pozostającej we                                 
+wspólnym gospodar-    Aktualne miejsce(a) pracy:
+stwie domowym z osobą
+wymienioną w pkt 1     (a)____________________________________________________
+                               (nazwa oraz nr REGON pracodawcy)
+    
+                       ________________________________________________________________
+                       (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+                         telefonu służbowego)
+                       ________________________________________________________________
+           
+                       ________________________________________________________________
+                          (zajmowane stanowisko)
+           
+                (b)_____________________________________________________
+                     (nazwa oraz nr REGON pracodawcy)
+        
+                 _________________________________________________________________
+        
+                 ________________________________________________________________
+                  (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+                   telefonu służbowego)
+                 ________________________________________________________________
+           
+                 ________________________________________________________________
+                   (zajmowane stanowisko)
+           
+              Aktualne miejsce zameldowania (stałe i czasowe)
+              (jeżeli inne niż w pkt 1 lit. m) lub n))
+      
+               ________________________________________________
+              (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr  telefonu
+                 domowego)
+               ___________________________________________________
+               ___________________________________________________
+ 
+             Aktualny adres zamieszkania __________________________________
+            (jeżeli jest inny niż w/wym.)  (państwo, miasto, ulica, nr domu, nr
+                                              mieszkania, kod pocztowy,
+ 
+                  __________________________________________________
+                                             nr telefonu domowego)
+                  ___________________________________________________
+ 
+                  Data i miejscowość zawarcia małżeństwa ______________________
+      
+                  Dowód osobisty : seria i numer _______________________________
+                  wydany przez _________________________________
+      
+                   data wydania __________________________________
+ 
+ 6. OJCIEC:
+                   Imię i nazwisko_____________________________________________
+ osoby wymienionej
+ w pkt 5            Miejsce urodzenia _____________  data urodzenia ____________
+                    Obywatelstwo(a) ____________________________________________
+ 
+                    Aktualne miejsce(a) pracy:
+                     _____________________________________________________
+                         (nazwa pracodawcy)
+        
+                      ________________________________________________________________
+                       (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+                         telefonu służbowego)
+           
+                      ________________________________________________________________
+           
+                      ________________________________________________________________
+                          (zajmowane stanowisko)
+           
+           
+                      Aktualne miejsce zameldowania (stałe i czasowe)
+                      ___________________________________________________
+                       (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr
+                          telefonu domowego)
+ 
+                      ___________________________________________________
+ 
+                      ___________________________________________________
+ 
+                      Aktualny adres zamieszkania __________________________________
+                     (jeżeli jest inny niż w /wym.) (państwo, miasto, ulica, nr domu, nr
+                                                       mieszkania, kod pocztowy,
+ 
+                      ___________________________________________________
+                                                    nr telefonu domowego)
+ 
+                      ___________________________________________________
+ 
+ 
+ 
+ 7. MATKA:
+                   Imię i nazwisko rodowe:___________________________________
+ osoby wymienionej
+ w pkt 5           Miejsce urodzenia ______________  data urodzenia _____________
+ 
+                   Obywatelstwo(a) ________________________________________
+ 
+                   Aktualne miejsce(a) pracy:
+                    ______________________________________________________
+                           (Nazwa pracodawcy)
+        
+                    ________________________________________________________________
+                    (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+                       telefonu służbowego)
+           
+                    ________________________________________________________________
+           
+                    ________________________________________________________________
+                        (zajmowane stanowisko)
+           
+ 
+           
+                   Aktualne miejsce zameldowania (stałe i czasowe)
+                    ___________________________________________________
+                   (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr telefonu
+                    domowego)
+ 
+                    ___________________________________________________
+ 
+                    ___________________________________________________
+ 
+ 
+                   Aktualny adres zamieszkania _____________________________________
+                 (jeżeli jest inny niż wwym.)   (państwo, miasto, ulica, nr domu, nr
+                                                  mieszkania, kod pocztowy,
+                    ___________________________________________________
+                                                  nr telefonu domowego)
+                    ___________________________________________________
+   
+ 
+ 8. RODZEŃSTWO:
+osoby
+wymienionej
+w pkt 5
+           (a) Imię i nazwisko: _________________________________________
+ 
+               Data i miejsce urodzenia __________________________________
+ 
+               Obywatelstwo (a)
+ 
+               Aktualne miejsce(a) pracy:
+               _____________________________________________________     
+                   (nazwa pracodawcy)
+        
+               ________________________________________________________________
+               (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+                telefonu służbowego)
+           
+               ________________________________________________________________
+           
+               ________________________________________________________________
+                 (zajmowane stanowisko)
+           
+           
+           
+               Aktualne miejsce zameldowania (stałe i czasowe)
+               ___________________________________________________
+               (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr telefonu
+                domowego)
+               ___________________________________________________
+ 
+               ___________________________________________________
+ 
+ 
+              Aktualny adres zamieszkania __________________________________
+             (jeżeli jest inny niż w/wym.)  (państwo, miasto, ulica, nr domu, nr
+                                              mieszkania, kod pocztowy,
+ 
+               ___________________________________________________
+                                          nr telefonu domowego)
+ 
+ 
+         (b) Imię i nazwisko ______________________________________
+ 
+             Data i miejsce urodzenia _____________________________
+ 
+             Obywatelstwo(a)  ______________________________________
+ 
+             Aktualne miejsce(a) pracy:
+            _______________________________________________________
+            (nazwa pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, kod pocztowy, nr
+             telefonu służbowego)
+           
+            ________________________________________________________________
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+           
+           
+           
+            Aktualne miejsce zameldowania (stałe i czasowe)
+            ___________________________________________________
+            (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr telefonu
+             domowego)
+            ___________________________________________________
+      
+            ___________________________________________________
+ 
+            Aktualny adres zamieszkania __________________________________
+         (jeżeli jest inny niż w/wym.)   (państwo, miasto, ulica, nr domu, nr
+                                           mieszkania,
+ 
+            __________________________________________________
+                           kod pocztowy, nr telefonu domowego)
+            ___________________________________________________
+        (c) Imię i nazwisko _________________________________________
+ 
+ 
+            Data i miejsce urodzenia _________________________________
+ 
+ 
+            Obywatelstwo(a) _______________________________________ 
+ 
+            Aktualne miejsce(a) pracy:
+            ______________________________________________________
+             (nazwa pracodawcy)
+         
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, nr kodu pocztowego, nr
+             telefonu służbowego)
+           
+            ________________________________________________________________
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+ 
+            Aktualne miejsce zameldowania (stałe i czasowe)
+ 
+             ___________________________________________________
+            (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy, nr telefonu
+             domowego)
+             ___________________________________________________
+              
+             ___________________________________________________
+ 
+ 
+             Aktualny adres zamieszkania __________________________________
+            (jeżeli jest inny niż w/wym.)  (państwo, miasto, ulica, nr  domu,
+                                             nr mieszkania, kod pocztowego,
+             ___________________________________________________
+                                           nr telefonu domowego)
+             ___________________________________________________
+  
+ 
+ 9. DZIECI
+ osób wymienionych
+ w pkt 1 i 5
+          (a) Data i miejsce urodzenia __________________________________
+              
+              Nazwisko ___________________________________________
+              
+              Imię (Imiona) _______________________________________
+              
+              Aktualne miejsce zameldowania (stałe i czasowe)
+              (jeżeli jest inne niż w pkt 1 lit. m) lub n) bądź pkt 5)
+               ______________________________________________
+             (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy,
+ 
+               ___________________________________________________
+ 
+               _________________________________________________
+ 
+              Aktualny adres zamieszkania __________________________________
+             (jeżeli jest inny niż w/wym.) (państwo, miasto, ulica, nr domu, nr mieszkania,
+                                             kod pocztowy)
+ 
+              ___________________________________________________
+ 
+              Aktualne miejsce(a) pracy:
+              _______________________________________________________
+              (nazwa pracodawcy)
+        
+              ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, nr kodu pocztowego, nr
+             telefonu służbowego)
+           
+            ________________________________________________________________
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+ 
+        (b) Data i miejsce urodzenia __________________________________
+          Nazwisko ______________________________________________
+          Imię (Imiona) ___________________________________________
+ 
+          Aktualne miejsce zameldowania (stałe i czasowe)
+          (jeżeli jest inne niż w/wym.)
+              ______________________________________________
+                (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy)
+              __________________________________________________
+      
+              ___________________________________________________
+ 
+ 
+              Aktualny adres zamieszkania __________________________________
+            (jeżeli jest inny niż w/wym. )    (państwo, miasto, ulica, nr domu, nr
+                                                mieszkania, kod pocztowy)
+ 
+                __________________________________________________
+ 
+                ___________________________________________________
+ 
+              Aktualne miejsce(a) pracy:
+               ______________________________________________________
+                  (nazwa pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, nr kodu pocztowego, nr
+             telefonu służbowego)
+           
+            ________________________________________________________________
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+    (c) Data i miejsce urodzenia __________________________________
+         Nazwisko ___________________________________________
+         Imię (Imiona) _______________________________________
+ 
+ 
+         Aktualne miejsce zameldowania (stałe i czasowe)
+         (jeżeli jest inne niż w/wym.)
+             ___________________________________________________
+                      (państwo, miasto, ulica, nr domu, nr mieszkania, kod pocztowy)
+ 
+             ________________________________________________
+ 
+             ___________________________________________________
+             
+         Aktualny adres zamieszkania __________________________________
+        (jeżeli jest inny niż w/wym.)     (państwo, miasto, ulica, nr domu, nr
+                                              mieszkania, kod poczt.)
+ 
+            ___________________________________________________
+ 
+             ___________________________________________________
+ 
+        Aktualne miejsce(a) pracy:
+             ______________________________________________________
+            (nazwa pracodawcy)
+        
+            ________________________________________________________________
+             (adres: państwo, miasto, ulica, nr domu, nr kodu pocztowego, nr
+             telefonu służbowego)
+           
+            ________________________________________________________________
+           
+            ________________________________________________________________
+                (zajmowane stanowisko)
+           
+ 
+10. W przypadku, gdy członkowie rodziny, o których mowa w punktach  2 - 9
+  mieszkają stale za granicą lub przebywali poza nią dłużej niż 3 miesiące
+  proszę podać następujące dane:
+ 
+ 
++---------------------+---------------+-----------------+---------------+                                                        
+|        Okres        |   Nazwisko    |   Państwo i     |   Powód       |
+| zamieszkiwania lub  |    i imię     |   dokładny      |   pobytu      |
+|       pobytu        |               |     adres       |               |
++----------+----------+---------------+-----------------+---------------+                                         
+|   od     |    do    |               |                 |               |
++----------+----------+---------------+-----------------+---------------+                                                            
+|          |          |               |                 |               |
++----------+----------+---------------+-----------------+---------------+                                                              
+|          |          |               |                 |               |
++----------+----------+---------------+-----------------+---------------+
+|          |          |               |                 |               |
++----------+----------+---------------+-----------------+---------------+
+|          |          |               |                 |               |
++----------+----------+---------------+-----------------+---------------+
+|          |          |               |                 |               |
++----------+----------+---------------+-----------------+---------------+                                                              
+|          |          |               |                 |               |
++----------+----------+---------------+-----------------+---------------+                                                              
+ 
+ 
+11. Czy w latach 1944-1990 był pracownikiem lub tajnym współpracownikiem
+ organów bezpieczeństwa państwa  w rozumieniu ustawy z dnia 11 kwietnia 1997
+ r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa  lub
+ współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne (Dz.U.
+ Nr 70, poz. 443 oraz z 1998 r. Nr 131, poz. 860).
+ 
+              +--+                  +--+   
+              |  |                  |  |
+              +--+                  +--+
+               TAK                   NIE
+ 
+              +--+
+              |  |  NIE DOTYCZY
+              +--+
+12. Czy i kiedy oraz przez jaki organ w ciągu ostatnich 10 lat był Pan (-i)
+  karany (jeśli tak, proszę podać nazwę organu oraz określić za popełnienie
+  jakiego przestępstwa lub wykroczenia)"
+ 
+ 
+ ___________________________________________________________________
+ 
+ ____________________________________________________________________
+ 
+ 
+13. Czy aktualnie toczą się wobec Pana (-i) postępowania o ukaranie za
+  przestępstwa lub wykroczenia, o których Panu (-i) wiadomo"
+  ______________________________________________________________
+    (jeśli tak, proszę podać jaki organ prowadzi sprawę(-y) i ewentualnie
+    jej numer)
+ 
+  __________________________________________________________________________
+ 
+ 
+14. Czy cierpi Pan(-i) lub cierpiał(-a) w przeszłości na choroby psychiczne
+  lub inne dolegliwości powodujące zakłócenia czynności psychicznych" Jeśli
+  tak, proszę wyszczególnić na jakie, w jakich okresach czasu oraz podać
+  jaka placówka zdrowia lub lekarz zajmowała się lub nadal zajmuje się Pana(-i)
+  osobą w związku z wyżej wymienionymi dolegliwościami lub chorobą.
+ 
+  (a) _____________________________________________________________
+      _______________________________________________________________
+      _______________________________________________________________
+ 
+  (b) _____________________________________________________________
+      _________________________________________________________
+  
+      __________________________________________________________
+   
+ 
+ 
+15. Czy zażywa Pan(-i) lub zażywał (-a)  kiedykolwiek narkotyki lub inne
+  środki odurzające" Jeśli tak, proszę podać jakie, kiedy oraz czy sytuacje
+  takie nadal mają miejsce. Proszę nie wyszczególniać faktów podawania Panu
+  (-i) narkotyków lub środków odurzających przez uprawnionych do tego
+  lekarzy, o ile nie doprowadziło to do sytuacji, iż nadal musi Pan (-i)
+  przyjmować tego typu środki  i je przyjmuje.
+ ___________________________________________________________________
+ ___________________________________________________________________
+ ___________________________________________________________________
+16. (a)Czy w okresie ostatnich 10 lat spożywał Pan(-i) lub spożywa(-a)
+    alkohol w ilościach powodujących zaburzenia lub utratę świadomości"
+    Jeśli tak, proszę podać częstotliwość tego typu sytuacji oraz
+    okoliczności, w jakich one mają (lub miały) miejsce a także, czy w
+    związku z tym leczy się Pan(-i) lub leczył(-a) w poradniach
+    specjalistycznych lub placówkach służby zdrowia (jakich - dokładna nazwa
+    i adres).
+ __________________________________________________________________
+ __________________________________________________________________
+ ___________________________________________________________________
+ ___________________________________________________________________
+ ___________________________________________________________________
+      
+      
+   (b) Czy spożywanie alkoholu było kiedykolwiek przyczyną problemów w Pana(-i)
+       pracy lub życiu prywatnym"
+    _____________________________________________________________________________
+    _____________________________________________________________________________
+    _____________________________________________________________________________
+ 17. Proszę podać dane dotyczące Pana(-i) zatrudnienia (służby) w okresie
+    ostatnich 10 lat.
+ +-------------------+----------------------------+------------------------+
+ |                   |   Pełna nazwa zakładu      |    Ostatnie zajmowane  |
+ |      Okres        |  pracy i jego pełny adres  |       stanowisko       |
+ +---------+---------+                            |                        |
+ |  od     |    do   |                            |                        |
+ +---------+---------+----------------------------+------------------------+                                                    
+ |         |         |                            |                        |
+ |         |         |                            |                        |
+ +---------+---------+----------------------------+------------------------+                                                    
+ |         |         |                            |                        |
+ |         |         |                            |                        |
+ +---------+---------+----------------------------+------------------------+
+ |         |         |                            |                        |
+ |         |         |                            |                        |
+ +---------+---------+----------------------------+------------------------+
+ |         |         |                            |                        |
+ |         |         |                            |                        |
+ +---------+---------+----------------------------+------------------------+
+ |         |         |                            |                        |
+ |         |         |                            |                        |
+ +---------+---------+----------------------------+------------------------+
+ |         |         |                            |                        |
+ |         |         |                            |                        |
+ +---------+---------+----------------------------+------------------------+
+18.  Czy Pan(-i), Pana(-i) współmałżonek lub inne osoby pozostające z Panem(ią)
+we wspólnym gospodarstwie domowym jesteście zadłużeni u osób
+  fizycznych lub prawnych (np. pożyczki, kredyty), których łączna kwota
+  przekracza sumę stanowiącą sześciokrotność otrzymywanego przez Pana(-ią)
+  wynagrodzenia " Jeśli tak, proszę podać kto, w jakiej wysokości, wobec
+  kogo, z jakiego tytułu oraz jaki jest ich planowany termin spłaty.
+ (a) _______________________________________________________________
+  (nazwisko i imię)    (rodzaj zobowiązania)   (wysokość zobowiązania finansowego)
+     __________________________________________________________________
+   (wobec kogo)        (z jakiego tytułu)       (termin spłaty)
+ (b) _______________________________________________________________
+  (nazwisko i imię)    (rodzaj zobowiązania)  (wysokość zobowiązania finansowego)
+     _______________________________________________________________
+      (wobec kogo)     (z jakiego tytułu)         (termin spłaty)
+ (c)_________________________________________________________________
+  (nazwisko i imię)    (rodzaj zobowiązania)  (wysokość zobowiązania finansowego)
+    _______________________________________________________________
+   (wobec kogo)       (z jakiego tytułu)        (termin spłaty)
+19. Czy Pan(-i), Pana(-i) współmałżonek lub inne osoby pozostające z Panem(ią)
+we wspólnym gospodarstwie domowym jesteście obciążeni innymi
+  zobowiązaniami finansowymi (np. zaległości podatkowe, alimenty, spłaty
+  hipoteki, zastawy, należności wynikające z orzeczeń sądowych)" Jeśli tak,
+  proszę podać kto, jakie, w jakiej wysokości, wobec kogo, z jakiego tytułu
+  oraz planowany termin ich spłaty.
+ (a) _______________________________________________________________
+     (nazwisko i imię)   (rodzaj zobowiązania)  (wysokość zobowiązania finansowego)
+     __________________________________________________________________
+      (wobec kogo)       (z jakiego tytułu)          (termin spłaty)
+ (b)  _______________________________________________________________
+  (nazwisko i imię)    (rodzaj zobowiązania)  (wysokość zobowiązania finansowego)
+    ________________________________________________________________ 
+    (wobec kogo)       (z jakiego tytułu)         (termin spłaty)
+ (c)________________________________________________________________
+  (nazwisko i imię)    (rodzaj zobowiązania)  (wysokość zobowiązania finansowego)
+ ___________________________________________________________________
+   (wobec kogo)        (z jakiego tytułu)          (termin spłaty)
+20. Proszę podać wysokość dochodów uzyskanych przez Pana(-ią), Pana(-i)
+  współmałżonka oraz inne osoby pozostające we wspólnym gospodarstwie
+  domowym w roku poprzedzającym wypełnienie niniejszej ankiety
+  bezpieczeństwa osobowego.
+ (a) _______________________________________________________________
+   (nazwisko i imię)     (wysokość dochodu netto)
+ (b) _______________________________________________________________
+  (nazwisko i imię)     (wysokość dochodu netto)
+ (c) _______________________________________________________________
+  (nazwisko i imię)     (wysokość dochodu netto)
+21. Proszę podać czy Pan(-i), Pana(-i) współmałżonek oraz inne osoby
+  pozostające we wspólnym gospodarstwie domowym posiadacie nieruchomości,
+  własne przedsiębiorstwo lub udział w innym przedsiębiorstwie. Jeśli tak,
+  proszę podać kto, jakie i gdzie.
+ (a) _______________________________________________________________
+   (nazwisko i imię)   (posiadane nieruchomości, przedsiębiorstwa, udziały)
+   ________________________________________________________________ 
+                                 (gdzie)
+                                      
+ (b) ______________________________________________________________
+   (nazwisko i imię)   (posiadane nieruchomości , przedsiębiorstwa, udziały)
+  ___________________________________________________________________
+                                (gdzie)
+                                      
+                                      
+ (c)________________________________________________________________
+  (nazwisko i imię)   (posiadane nieruchomości , przedsiębiorstwa, udziały )
+   ________________________________________________________________ 
+                                 (gdzie)
+ 
+ 
+22. Czy kiedykolwiek był Pan (-i) upoważniony(-a) do dostępu do informacji
+  niejawnych stanowiących tajemnicę państwową w Polsce lub w innym państwie.
+  Jeśli tak, proszę podać następujące dane:
++---------------------+------------+------------------------+---------------+ 
+| Pełna nazwa i adres |            |  Zakres i klauzula     |               |
+| instytucji w której |            | informacji niejawnych  |     Okres     | 
+| był-a) Pan(-i)      |  Państwo   | niejawnych do których  |               |
+| dopuszczony(-a) do  |            |    był(-a) Pan(-i)     +-------+-------+   
+| takich informacji   |            |    dopuszczony(-a)     |  od   |  do   |
++---------------------+------------+------------------------+-------+-------+                                                          
+|                     |            |                        |       |       |
+|                     |            |                        |       |       |
++---------------------+------------+------------------------+-------+-------+
+|                     |            |                        |       |       |
+|                     |            |                        |       |       |
++---------------------+------------+------------------------+-------+-------+
+|                     |            |                        |       |       |
+|                     |            |                        |       |       |
++---------------------+------------+------------------------+-------+-------+
+|                     |            |                        |       |       |
+|                     |            |                        |       |       |
++---------------------+------------+------------------------+-------+-------+
+ 
+23. Czy po ukończeniu 18 lat przebywał Pan (-i) kiedykolwiek za granicą
+ dłużej niż 10 dni (w tym podróże  służbowe)" Jeżeli tak, proszę podać
+ następujące dane:
++---------------------+--------------------------+-----------------+ 
+|Okres zamieszkiwania |  Państwo, miasto, ulica, |                 |
+|    lub pobytu       |    nr domu i mieszkania, |   Powód pobytu  |
++---------+-----------+        kod pocztowy      |                 |
+|  od     |   do      |                          |                 |
++---------+-----------+--------------------------+-----------------+                                            
+|         |           |                          |                 |
+|         |           |                          |                 |
++---------+-----------+--------------------------+-----------------+                                                   
+|         |           |                          |                 |
+|         |           |                          |                 |
++---------+-----------+--------------------------+-----------------+
+|         |           |                          |                 |
+|         |           |                          |                 |
++---------+-----------+--------------------------+-----------------+
+|         |           |                          |                 |
+|         |           |                          |                 |
++---------+-----------+--------------------------+-----------------+
+|         |           |                          |                 |
+|         |           |                          |                 |
++---------+-----------+--------------------------+-----------------+                                                   
+24. Czy podczas pobytów za granicą podejmował Pan (-i) działalność zarobkową"
+  Jeśli tak proszę podać następujące dane:
++---------------+--------------------+-------------+----------------------+ 
+|               | Państwo, dokładny  |             |                      |
+|     Okres     |   adres, nazwa     | Zajmowane   |  Rodzaj wykonywanej  |
+|               | zakładu pracy lub  | stanowisko  | pracy oraz uzyskiwane|   
++-------+-------+ innego pracodawcy  |             |       dochody        |
+|  od   |   do  |                    |             |                      |
++-------+-------+--------------------+-------------+----------------------+
+|       |       |                    |             |                      |
+|       |       |                    |             |                      |
++-------+-------+--------------------+-------------+----------------------+
+|       |       |                    |             |                      |
+|       |       |                    |             |                      |
++-------+-------+--------------------+-------------+----------------------+                                                           
+|       |       |                    |             |                      |
+|       |       |                    |             |                      |
++-------+-------+--------------------+-------------+----------------------+
+|       |       |                    |             |                      |
+|       |       |                    |             |                      |
++-------+-------+--------------------+-------------+----------------------+
+ 
+25. Proszę podać okresy i miejsca zamieszkiwania w okresie ostatnich 10 lat
+  (w Polsce lub innych państwach).
++------------------+------------------------+------------------------+
+|     Okres        | Państwo, miejscowość   |       Adresy:          |
+| zamieszkiwania   |  (województwo, powiat, |   ulica, nr domu, nr   |
+| lub zameldowania |          gmina),       |        mieszkania      |
++--------+---------+ numer kodu pocztowego  |                        |
+|  od    |  do     |                        |                        |
++--------+---------+------------------------+------------------------+
+|        |         |                        |                        |
+|        |         |                        |                        |
++--------+---------+------------------------+------------------------+
+|        |         |                        |                        |
+|        |         |                        |                        |
++--------+---------+------------------------+------------------------+
+|        |         |                        |                        |
+|        |         |                        |                        |
++--------+---------+------------------------+------------------------+                                                     
+|        |         |                        |                        |
+|        |         |                        |                        |
++--------+---------+------------------------+------------------------+
+|        |         |                        |                        |
+|        |         |                        |                        |
++--------+---------+------------------------+------------------------+
+|        |         |                        |                        |
+|        |         |                        |                        |
++--------+---------+------------------------+------------------------+
+|        |         |                        |                        |
+|        |         |                        |                        |
++--------+---------+------------------------+------------------------+
+26. Proszę podać dane aktualnych współmieszkańców, z którymi zamieszkuje Pan(i)
+w jednym mieszkaniu (np. członkowie rodziny, sublokatorzy, właściciele
+  mieszkania).
++----------------------------+--------------------------------+
+|  Nazwisko i imię (imiona)  |  Miejscowość i data urodzenia  |
++----------------------------+--------------------------------+
+|                            |                                |
++----------------------------+--------------------------------+
+|                            |                                |
++----------------------------+--------------------------------+                                  
+|                            |                                |
++----------------------------+--------------------------------+
+|                            |                                |
++----------------------------+--------------------------------+
+|                            |                                |
++----------------------------+--------------------------------+
+|                            |                                |
++----------------------------+--------------------------------+
+27. Proszę podać dane właściciela aktualnie zajmowanego przez siebie
+  mieszkania (nazwa instytucji/firmy lub nazwisko właściciela - dokładny
+  adres, nr telefonu).
+ 
++----------------------------------------------------------------+
+|                                                                |
+|                                                                |
+|                                                                |
+|                                                                |
+|                                                                |
+|                                                                |
+|                                                                |
+|                                                                |
+|                                                                |
++----------------------------------------------------------------+
+ 
+ 28.  a) Posiadane wykształcenie i tytuły zawodowe lub naukowe:
+ 
+  __________________________________________________________________
+      (wyższe, średnie, podstawowe)
+ 
+ 
+        b) Proszę podać następujące dane, dotyczące uczelni, szkół, i
+    kursów, które Pan(-i) ukończył w przeszłości:
++---------------+---------------------------+--------------------+       
+|  Okres nauki  | Nazwy i adresy wszystkich | Uzyskane dyplomy,  |
++-------+-------+  szkół, uczelni i kursów  |    świadectwa      |
+|  od   |   do  |        zawodowych         |    ukończenia      |
++-------+-------+---------------------------+--------------------+
+|       |       |                           |                    |
+|       |       |                           |                    |
++-------+-------+---------------------------+--------------------+
+|       |       |                           |                    |
+|       |       |                           |                    |
++-------+-------+---------------------------+--------------------+                                                  
+|       |       |                           |                    |
+|       |       |                           |                    |
++-------+-------+---------------------------+--------------------+
+|       |       |                           |                    |
+|       |       |                           |                    |
++-------+-------+---------------------------+--------------------+
+|       |       |                           |                    |
+|       |       |                           |                    |
++-------+-------+---------------------------+--------------------+
+|       |       |                           |                    |
+|       |       |                           |                    |
++-------+-------+---------------------------+--------------------+
+ 
+ 
+29. Czy Pan (-i) lub członkowie rodziny wymienieni w punktach 2 - 9
+  utrzymujecie lub utrzymywaliście w okresie ostatnich 20 lat  kontakty
+  służbowe lub prywatne (towarzyskie) z obywatelami innych państw. Jeżeli
+  tak, proszę podać następujące dane:
++-------------+-----------------+--------------------+-------------+
+|    Okres    | Osoba - kontakt | Państwo, dokładny  |   Powód,    |
++------+------+                 |    adres           |  charakter  |
+|  od  |  do  |                 |                    |   kontaktu  |
++------+------+-----------------+--------------------+-------------+
+|      |      |                 |                    |             |
+|      |      |                 |                    |             |
++------+------+-----------------+--------------------+-------------+
+|      |      |                 |                    |             |
+|      |      |                 |                    |             |
++------+------+-----------------+--------------------+-------------+
+|      |      |                 |                    |             |
+|      |      |                 |                    |             |
++------+------+-----------------+--------------------+-------------+
+|      |      |                 |                    |             |
+|      |      |                 |                    |             |
++------+------+-----------------+--------------------+-------------+
+|      |      |                 |                    |             |
+|      |      |                 |                    |             |
++------+------+-----------------+--------------------+-------------+
+30. Czy należał lub należy Pan (-i) do zarejestrowanych lub nie
+  zarejestrowanych polskich lub zagranicznych organizacji, partii
+  politycznych lub stowarzyszeń.
++-------------------------+-------------------------+-----------------+
+| Nazwa organizacji i jej | Pełniona w niej funkcja |      Okres      |
+|   dokładny adres        |                         | przynależności  | 
+|                         |                         +--------+--------+
+|                         |                         |   od   |   do   |
++-------------------------+-------------------------+--------+--------+                                                                
+|                         |                         |        |        |
+|                         |                         |        |        |
++-------------------------+-------------------------+--------+--------+
+|                         |                         |        |        |
+|                         |                         |        |        |
++-------------------------+-------------------------+--------+--------+
+|                         |                         |        |        |
+|                         |                         |        |        |
++-------------------------+-------------------------+--------+--------+
+ 
+31. Proszę wskazać 3 osoby polecające, które znają Pana(-ią) przynajmniej od
+  2 lat (nie mogą to być członkowie rodziny wymienieni w pkt 2 " 9, a także
+  osoby, które obsługują Pana(-i) interesy majątkowe lub z którymi z racji
+  wykonywanego przez nie zawodu łączą Pana(-ią) stosunki szczególnego
+  zaufania).
+ 
++-------------------+-------------------+-------------------------+                                                    
+|  Imię i Nazwisko  |    Miejsce pracy  |   Dokładny adres domowy |
+|                   |                   |       i nr telefonu     |
++-------------------+-------------------+-------------------------+                                                    
+|                   |                   |                         |
+|                   |                   |                         |
++-------------------+-------------------+-------------------------+ 
+|                   |                   |                         |
+|                   |                   |                         |
++-------------------+-------------------+-------------------------+
+|                   |                   |                         |
+|                   |                   |                         |
++-------------------+-------------------+-------------------------+
+|                   |                   |                         |
+|                   |                   |                         |
++-------------------+-------------------+-------------------------+
+32.  Czy kiedykolwiek podczas pobytu za granicą był Pan(-i) wypytywany lub w
+  inny sposób  indagowany przez obce władze (imigracyjne, skarbowe, inne) na
+  tematy związane z zagadnieniami bezpieczeństwa lub obronności państwa" Czy
+  wiadomo Panu(-i) coś o analogicznych zainteresowaniach wobec swojego
+  współmałżonka lub innych osób pozostających we wspólnym gospodarstwie
+  domowym, bądź innych członków rodziny.  Jeśli tak proszę zakreślić
+  właściwe pole. Proszę nie podawać żadnych dalszych szczegółów. Zostaną one
+  z Panem(-ią) omówione przez przedstawiciela służby ochrony państwa,
+  prowadzącego postępowanie sprawdzające.
+                  +--+         +--+
+                  |  |         |  |
+                  +--+         +--+
+                   TAK          NIE
+ 
+33. Czy kiedykolwiek stwierdził Pan(-i) fakt zainteresowania swoją osobą ze
+  strony zagranicznych służb specjalnych lub innych obcych instytucji
+  aparatu ścigania (Policja, Straż Graniczna) bądź grup zorganizowanej
+  przestępczości (polskich lub zagranicznych)" Czy wiadomo Panu(i) coś o
+  analogicznych zainteresowaniach swoją współmałżonką(kiem), innymi osobami
+  pozostającymi we wspólnym gospodarstwie domowym, bądź innymi członkami
+  rodziny" Jeśli tak proszę zakreślić właściwe pole. Proszę nie podawać
+  żadnych szczegółów. Zostaną one z Panem(-ią) omówione przez
+  przedstawiciela służby ochrony państwa, prowadzącego postępowanie
+  sprawdzające.
+                  +--+         +--+
+                  |  |         |  |
+                  +--+         +--+
+ 
+                   TAK          NIE
+ 
+ 
+ ______________________________________________________________________
+ 
+ 
+   Oświadczam, iż wypełniłem(-am) ankietę osobiście, zgodnie ze swoją wiedzą
+    \wiadom(-a), że każde fałszywe stwierdzenie lub pominięcie istotnego
+    faktu, będzie wystarczającym powodem do wstrzymania postępowania
+    sprawdzającego i może stanowić podstawę odmowy wydania mi poświadczenia
+    bezpieczeństwa.
+              Oświadczam, że zgadzam się na przeprowadzenie wobec mnie
+    postępowania sprawdzającego według przepisów ustawy z dnia
+    .............. o ochronie informacji niejawnych (Dz.U. Nr ..., poz.
+    ....) oraz stosownie do art. 7 pkt 5 ustawy z dnia 29 sierpnia 1997 r. o
+    ochronie danych osobowych (Dz.U. Nr 133, poz. 883); wyrażam zgodę na
+    przetwarzanie, w rozumieniu art. 7 pkt 2 tej ustawy, moich danych
+    osobowych zawartych w niniejszej ankiecie, z zastrzeżeniem ograniczeń
+    wynikających w tym zakresie z wymienionej ustawy o ochronie informacji
+    niejawnych.
+                                                             +---+
+              Ilość kart stanowiących załącznik do ankiety   |   |
+                                                             +---+
+ 
+  Podpis osoby wypełniającej ankietę dla celów postępowania sprawdzającego
+                                        __________________________________
+                                
+         Miejscowość  ____________________________________________________
+                                
+         Data        _________________________________________
+         
+         
+         
+         ___________________________________________
+         Czytelny podpis i pieczęć kierownika jednostki organizacyjnej
+         oraz  pełnomocnika ochrony
+         
+         Miejscowość _______________________________
+         
+         Data  ____________________________________
+ 
+ 

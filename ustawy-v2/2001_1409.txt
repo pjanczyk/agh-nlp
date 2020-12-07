@@ -1,0 +1,498 @@
+
+
+
+
+Dz.U. z 2001 r. Nr 128, poz. 1409
+                                                                                
+                                                                                
+                                                                                
+                                     USTAWA
+                             z dnia 26 lipca 2001 r.
+                                        
+                             o towarach paczkowanych
+                                        
+                                   Rozdział 1
+                                 Przepisy ogólne
+                                        
+                                     Art. 1.
+1. Ustawa określa zasady paczkowania produktów przeznaczonych do sprzedaży w
+  opakowaniach i oznaczania  opakowań znakiem "e" oraz zasady produkcji butelek
+  miarowych i oznaczania ich znakiem  "3".
+2. Przepisy ustawy nie naruszają  przepisów odrębnych dotyczących produktów,
+  opakowań oraz warunków wprowadzania ich do obrotu.
+3. Przepisy ustawy stosuje się do środków farmaceutycznych i materiałów
+  medycznych w zakresie, w jakim nie naruszają przepisów dotyczących tych
+  produktów.
+                                        
+                                     Art. 2.
+Użyte w ustawie określenia oznaczają:
+   1) błąd ilości towaru paczkowanego, oznaczony znakiem T  - różnicę między
+     ilością rzeczywistą a ilością nominalną towaru paczkowanego,
+   2) butelka miarowa - pojemnik oznaczony znakiem "3", zamykany lub
+     przystosowany do zamykania, przeznaczony do przechowywania, transportu lub
+     dostarczania cieczy, o pojemności nominalnej od 5 ml do 5 l włącznie,
+     posiadający charakterystykę konstrukcyjną i jednolitość wytwarzania
+     zapewniającą odpowiednią dokładność pomiaru zawartej w nim cieczy poprzez
+     napełnienie do określonego poziomu lub w określonym procencie jego
+     pojemności całkowitej, bez konieczności wykonywania niezależnego pomiaru
+     ilości nalewanej do niego cieczy, wykonany ze szkła lub innego materiału
+     posiadającego taką sztywność i stabilność, która zapewnia pojemnikowi
+     zachowanie takich samych właściwości metrologicznych, jakie zapewnia
+     szkło,
+   3) dopuszczalna ujemna wartość błędu ilości towaru paczkowanego, oznaczona
+     znakiem T{1} -  maksymalną dopuszczalną różnicę między ilością rzeczywistą
+     a ilością nominalną produktu podaną przez paczkującego,
+   4) ilość nominalna towaru paczkowanego - deklarowaną przez paczkującego i
+     oznaczoną na opakowaniu  ilość produktu w towarze paczkowanym, bez
+     opakowania oraz bez dodatkowych materiałów lub produktów zapakowanych
+     razem z produktem, jaką towar paczkowany powinien zawierać,
+   5) ilość rzeczywista towaru paczkowanego - przeznaczoną dla nabywcy ilość
+     produktu w towarze paczkowanym, bez opakowania i bez dodatkowych
+     materiałów lub produktów dodatkowych zapakowanych razem z produktem, jaką
+     towar paczkowany faktycznie zawiera; w przypadku produktów, których ilość
+     wyraża się w jednostkach objętości, z wyjątkiem produktów zamrożonych,
+     ilość rzeczywista powinna być określana w   temperaturze 20 °C,
+   6) kontrola wewnętrzna ilości towaru paczkowanego - kontrolę dotyczącą
+     ilości produktu w opakowaniu, wykonywaną przez paczkującego w procesie
+     paczkowania,
+   7) kontrola wewnętrzna butelek miarowych - kontrolę dotyczącą określonych w
+     ustawie  wymagań dla butelek miarowych, wykonywaną przez producenta w
+     procesie ich produkcji,
+   8) metoda referencyjna -  metodę  kontroli towarów paczkowanych lub
+     kontroli butelek miarowych, którą stosują organy kontroli w celu
+     stwierdzenia poprawności procesu paczkowania produktów lub poprawności
+     produkcji butelek miarowych,
+   9) opakowanie - w rozumieniu art. 3 ust. 2 pkt 1 i 2 ustawy z dnia 11 maja
+     2001 r. o opakowaniach i odpadach opakowaniowych (Dz.U. Nr 63, poz. 638),
+  10) paczkowanie - umieszczenie odmierzonej porcji produktu w opakowaniu
+     jednostkowym z przeznaczeniem go do sprzedaży w formie towaru
+     paczkowanego,
+  11) paczkujący - przedsiębiorcę w rozumieniu art. 2 ust. 2 ustawy z dnia 19
+     listopada 1999r. - Prawo działalności gospodarczej (Dz.U. Nr 101, poz.
+     1178, z 2000 r.  Nr 86, poz. 958 i Nr 114, poz. 1193 oraz z 2001 r. Nr 49,
+     poz. 509), który odmierza porcje produktu, umieszcza je w opakowaniu
+     jednostkowym i wprowadza towar paczkowany do obrotu po raz pierwszy; dla
+     potrzeb ustawy przedsiębiorca wprowadzający na polski obszar celny  towary
+     paczkowane, zwany dalej "importerem", traktowany jest  jako paczkujący,
+  12) partia towaru paczkowanego, zwana dalej "partią" - określoną liczbę
+     jednakowych towarów paczkowanych, o takiej samej ilości nominalnej,
+     zapakowanych w tych samych warunkach i w tym samym czasie,
+  13) produkt - produkt w rozumieniu art. 3 pkt 1 ustawy z dnia 22 stycznia
+     2000 r. o ogólnym bezpieczeństwie produktów (Dz.U. Nr 15, poz. 179),
+  14) próbka towaru paczkowanego, zwana dalej "próbką" - pobraną losowo z
+     partii określoną  liczbę towarów paczkowanych, na podstawie której
+     dokonuje się oceny partii,
+  15) towar paczkowany - produkt przeznaczony do sprzedaży, umieszczony w
+     opakowaniu jednostkowym dowolnego rodzaju, którego deklarowana ilość,
+     odmierzona bez udziału nabywcy, nie może zostać zmieniona  bez otworzenia,
+     uszkodzenia lub wyraźnego naruszenia opakowania.
+                                        
+                                     Art. 3.
+1. Paczkujący może wprowadzać do obrotu tylko towary paczkowane spełniające
+  wymagania określone w ustawie.
+2. Importer towaru paczkowanego jest odpowiedzialny za spełnienie wymagań
+  obowiązujących paczkującego zgodnie z ustawą, o ile umowy międzynarodowe
+  ratyfikowane przez Rzeczpospolitą Polską nie stanowią inaczej.
+                                        
+                                     Art. 4.
+1. Paczkowanie produktów  i produkcja butelek miarowych podlegają nadzorowi
+  właściwych  organów administracji miar.
+2. Nadzór, o którym mowa w ust. 1, obejmuje:
+   1) kontrolę stosowania w procesie paczkowania zalegalizowanych przyrządów
+     pomiarowych,
+   2) kontrolę  stosowanego  przez paczkującego  systemu  kontroli wewnętrznej
+     ilości towaru paczkowanego,
+   3) kontrolę stosowanego przez producenta butelek miarowych  systemu
+     kontroli wewnętrznej tych butelek.
+3.   Nadzór jest sprawowany przez:
+   1) wydawanie zaleceń pokontrolnych i sprawdzanie stanu ich realizacji,
+   2) kierowanie do organu właściwego w sprawach o wykroczenia wniosków o
+     ukaranie,
+   3) kierowanie do właściwych terytorialnie organów inspekcji wniosków o
+     przeprowadzenie kontroli towarów paczkowanych, w zakresie ich właściwości,
+     w razie stwierdzenia niezgodności  paczkowania z przepisami ustawy.
+                                        
+                                     Art. 5.
+ 1. Towary paczkowane znajdujące się w obrocie lub przeznaczone do wprowadzenia
+  do obrotu podlegają kontroli Inspekcji Handlowej, Inspekcji Jakości Handlowej
+  Artykułów Rolno-Spożywczych i Inspekcji Farmaceutycznej, w zakresie
+  przewidzianym w niniejszej ustawie oraz w zakresie ich właściwości, w trybie
+  i na warunkach określonych w przepisach odrębnych.
+2. Inspekcje wymienione w ust. 1 mogą organizować kontrole wspólnie z organami
+  administracji miar.
+                                   Rozdział 2
+                           Zasady paczkowania towarów
+                                        
+                                     Art. 6.
+1. Produkty mogą być umieszczane w opakowaniach jednostkowych dowolnego rodzaju
+  pod warunkiem, że nie wprowadzają nabywcy w błąd co do ilości rzeczywistej.
+2. Towary paczkowane, z wyjątkiem tych, o których mowa w ust. 3, wprowadzane są
+  do obrotu w opakowaniach jednostkowych o dowolnej  ilości nominalnej.
+3. Produkty określone w załączniku nr 1 do ustawy, przeznaczone do sprzedaży
+  jako towary paczkowane w opakowaniach jednostkowych o ilości nominalnej nie
+  mniejszej niż 5 g lub 5 ml i nie większej niż 10 kg lub 10 l mogą być
+  wprowadzane do obrotu wyłącznie w opakowaniach o określonych ilościach
+  nominalnych.
+4. Rada Ministrów określi, w drodze rozporządzenia, ilości nominalne zawartości
+  opakowań jednostkowych towarów paczkowanych dla produktów, o których mowa w
+  ust. 3, uwzględniając zobowiązania międzynarodowe Rzeczypospolitej Polskiej.
+                                        
+                                     Art. 7.
+1. Oznakowanie umieszczone na towarach paczkowanych powinno być łatwe do
+  odczytania i widoczne w normalnych warunkach prezentacji, a także  wykonane w
+  sposób  nie dający się usunąć bez uszkodzenia opakowania. Poza wymaganiami
+  dotyczącymi oznakowania produktów określonymi w przepisach odrębnych, towary
+  paczkowane wprowadzane do obrotu powinny posiadać następujące oznakowania:
+   1) nazwę produktu,
+   2) ilość nominalną produktu,
+   3) oznaczenie paczkującego.
+2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe wymagania
+  dotyczące oznakowań, o których mowa w ust. 1, jak również przypadki, w
+  których paczkujący zwolniony będzie z obowiązku umieszczania tych oznakowań,
+  uwzględniając konieczność ochrony praw konsumentów oraz zobowiązania
+  międzynarodowe Rzeczypospolitej Polskiej.
+                                        
+                                     Art. 8.
+1. Paczkujący jest odpowiedzialny za to, aby towar paczkowany spełniał
+  wymagania określone w ustawie. W szczególności ponosi on odpowiedzialność za
+  zapewnienie, że ilość rzeczywista odpowiada ilości nominalnej podanej na
+  opakowaniu jednostkowym, z zastrzeżeniem ust. 2.
+2. Partię towaru uznaje się za spełniającą wymagania ustawy w zakresie
+  dotyczącym ilości rzeczywistej, jeżeli wynik kontroli przeprowadzonej według
+  metody referencyjnej lub metody o porównywalnej skuteczności jest pozytywny.
+3. Partia towaru, której wynik kontroli według metody referencyjnej jest
+  negatywny, nie może być wprowadzona do obrotu.
+                                        
+                                     Art. 9.
+1. Paczkujący jest odpowiedzialny za zorganizowanie i przeprowadzanie kontroli
+  wewnętrznej ilości towaru paczkowanego. Kontrola ta może być przeprowadzana
+  wyłącznie przy pomocy zalegalizowanych przyrządów pomiarowych, odpowiednich
+  do wykonywania niezbędnych czynności.
+2.  Kontroli dokonuje się przez zbadanie każdej sztuki towaru paczkowanego lub
+  przez zbadanie próbki zgodnie z przyjętym systemem  kontroli wewnętrznej
+  ilości towaru paczkowanego.
+3. Jeżeli paczkujący dokonuje kontroli przez zbadanie próbki, przyjęty system
+  kontroli wewnętrznej ilości towaru paczkowanego   powinien zapewniać
+  skuteczność porównywalną do skuteczności metody referencyjnej. Opis metody
+  referencyjnej statystycznej kontroli towarów paczkowanych zawiera załącznik
+  nr 2 do ustawy.
+                                        
+                                    Art. 10.
+W przypadku towarów paczkowanych importowanych importer powinien posiadać
+dokumentację świadczącą o tym, że w procesie paczkowania stosowane były
+odpowiednie metody kontroli ilości rzeczywistej, pozwalające uznać spełnienie
+warunków, o których mowa  w art. 8 ust. 1, bez przeprowadzenia dodatkowej
+kontroli, o której mowa w art. 9.
+                                        
+                                    Art. 11.
+Wymagania  dotyczące kontroli wewnętrznej ilości towaru paczkowanego uważa się
+za spełnione, jeżeli paczkujący wykorzystuje przy paczkowaniu butelki miarowe i
+napełnia je do poziomu odpowiadającego pojemności,  określonej w pkt 1 lit. a)
+załącznika nr 4 do ustawy.
+                                        
+                                    Art. 12.
+1. Paczkujący, w terminie co najmniej 30 dni przed rozpoczęciem paczkowania
+  produktów, jest obowiązany zgłosić ten fakt dyrektorowi okręgowego urzędu
+  miar, właściwego dla miejsca  siedziby paczkującego.
+2. Zgłoszenie, o którym mowa w ust. 1, powinno zawierać:
+   1) oznaczenie paczkującego,
+   2) siedzibę i adres,
+   3) miejsce paczkowania lub, w przypadku towarów importowanych, miejsce ich
+     składowania,
+   4) rodzaj paczkowanego produktu.
+3. Do zgłoszenia paczkujący powinien dołączyć aktualny wypis z Krajowego
+  Rejestru Sądowego.
+                                        
+                                    Art. 13.
+1. W przypadku gdy w trakcie sprawowania nadzoru, o którym mowa w art. 4 ust. 2
+  pkt 1 i 2, właściwe terytorialnie organy administracji miar stwierdzą
+  stosowanie w procesie paczkowania niezalegalizowanych przyrządów pomiarowych
+  lub wadliwość stosowanego systemu kontroli wewnętrznej ilości towaru
+  paczkowanego, organ przeprowadzający kontrolę może wystąpić z wnioskiem do
+  właściwych terytorialnie organów inspekcji, o których mowa w art. 5 ust. 1, o
+  przeprowadzenie badania partii zgodnie z metodą referencyjną określoną w
+  załączniku nr 2 do ustawy.
+2. Badania próbek mogą być przeprowadzane w pomieszczeniach paczkującego lub w
+  laboratoriach właściwych inspekcji.
+3. Stwierdzenie wadliwości partii następuje po wykonaniu badań kontrolnych przy
+  zastosowaniu metody zapewniającej skuteczność porównywalną ze skutecznością
+  metody referencyjnej.
+                                        
+                                    Rozdział 3
+               Warunki oznaczania towarów paczkowanych znakiem "e"
+                                        
+                                    Art. 14.
+Przepisy niniejszego rozdziału stosuje się do towarów paczkowanych wprowadzanych
+do obrotu w opakowaniach jednostkowych o ilości nominalnej wyrażonej w
+jednostkach masy lub objętości, która jest nie mniejsza niż 5 g lub 5 ml i nie
+większa niż 10 kg lub 10 l.
+                                        
+                                    Art. 15.
+1. Paczkujący może na własną odpowiedzialność oznaczać znakiem "e" towary
+  paczkowane, o których mowa w art. 14, jeżeli towary te oraz proces kontroli
+  ich paczkowania spełniają warunki określone w niniejszym rozdziale.
+2. Znak "e" oznacza gwarancję paczkującego, że towar paczkowany spełnia
+  wymagania  określone w przepisach niniejszego rozdziału. Wzór znaku "e"
+  określa  załącznik nr 3 do ustawy.
+3. Umieszczanie na opakowaniach znaków podobnych do znaku "e" jest zabronione.
+4. Znak "e", o wysokości co najmniej 3 mm, umieszcza się na opakowaniu obok
+  oznaczenia nominalnej masy lub objętości.
+5. Rada Ministrów może, w drodze rozporządzenia, ograniczyć możliwość
+  oznaczania znakiem "e" niektórych grup towarów paczkowanych i dopuścić ich
+  wprowadzanie do obrotu wyłącznie w opakowaniach o ściśle określonych
+  ilościach nominalnych, uwzględniając konieczność ochrony praw konsumentów
+  oraz zobowiązania międzynarodowe Rzeczypospolitej Polskiej.
+                                        
+                                    Art. 16.
+1. Paczkujący w terminie co najmniej 60 dni przed rozpoczęciem paczkowania
+  produktów jest obowiązany przekazać dyrektorowi właściwego terytorialnie
+  okręgowego urzędu miar opis przyjętego przez siebie systemu kontroli
+  wewnętrznej ilości towaru paczkowanego, gwarantującego właściwą kontrolę
+  ilości rzeczywistej.
+2. Dyrektor właściwego terytorialnie okręgowego urzędu miar w terminie 45 dni
+  od dnia otrzymania od paczkującego opisu przyjętego systemu  kontroli, o
+  którym mowa w ust. 1, może wydać zalecenia niezbędne do spełnienia wymagań
+  wynikających z ustawy.
+3. Paczkujący może wystąpić do dyrektora właściwego terytorialnie okręgowego
+  urzędu miar z wnioskiem o wydanie zaświadczenia potwierdzającego, że
+  przedstawiony opis przyjętego przez niego systemu kontroli wewnętrznej ilości
+  towaru paczkowanego jest zgodny z przepisami ustawy.
+                                        
+                                    Art. 17.
+1. Paczkujący może oznaczać towary paczkowane znakiem "e"  tylko w przypadku,
+  gdy podczas ich paczkowania stosowany był system  kontroli wewnętrznej
+  ilości  towaru paczkowanego, którego opis został przekazany dyrektorowi
+  właściwego terytorialnie okręgowego urzędu miar w trybie, o którym mowa w
+  art. 16 ust. 1.
+2. W przypadku otrzymania zaleceń, o których mowa w art. 16 ust. 2, paczkujący
+  jest obowiązany  do ich uwzględnienia  przed przystąpieniem do oznaczania
+  znakiem "e".
+3. Stosowany przez paczkującego system kontroli wewnętrznej ilości towaru
+  paczkowanego powinien zapewniać skuteczność porównywalną do skuteczności
+  metody referencyjnej.
+                                        
+                                    Art. 18.
+1. Paczkujący jest obowiązany do dokumentowania w formie pisemnej
+  przeprowadzanych kontroli wewnętrznych ilości towaru paczkowanego w sposób
+  zapewniający możliwość sprawdzenia przez organy administracji miar:
+   1) czasu i miejsca przeprowadzenia tych kontroli,
+   2) wielkości sprawdzanej partii i pobranej   próbki,
+   3) wyników badania próbki wraz z określeniem, czy stwierdzony błąd nie
+     przekracza dopuszczalnej wartości i czy dana partia spełnia kryteria
+     dopuszczalności wprowadzenia do obrotu.
+2. Paczkujący może wprowadzić do obrotu partię  po przeprowadzeniu kontroli
+  wewnętrznej ilości  towaru paczkowanego i stwierdzeniu, że dana partia
+  spełnia kryteria dopuszczalności wprowadzenia do obrotu.
+3. Paczkujący obowiązany jest do przechowywania dokumentacji, o której mowa w
+  ust. 1, w sposób uporządkowany chronologicznie, przez okres przydatności
+  danej partii towaru do użytku, co najmniej przez okres roku i nie dłużej niż
+  przez okres dwóch lat od daty przeprowadzenia kontroli.
+4. Na żądanie organu administracji miar paczkujący jest obowiązany udostępnić
+  dokumentację przeprowadzonych kontroli wewnętrznych ilości towaru
+  paczkowanego.
+5. Organy inspekcji, o których mowa w art. 5, mają prawo wglądu do dokumentacji
+  określonej w ust. 1 w celu ustalenia ilości rzeczywistej towarów
+  wprowadzonych przez paczkującego do obrotu.
+                                        
+                                    Art. 19.
+1. Dyrektor właściwego terytorialnie okręgowego urzędu miar, nie częściej niż
+  raz w roku, przeprowadza w pomieszczeniach paczkującego kontrole planowe w
+  celu stwierdzenia poprawności stosowanego przez paczkującego systemu kontroli
+  wewnętrznej ilości towaru paczkowanego.
+2. Za czynności wykonywane przez dyrektora, właściwego terytorialnie okręgowego
+  urzędu miar, związane z planowaną kontrolą towarów paczkowanych, pobiera się
+  od paczkującego opłaty zgodnie z przepisami ustawy z dnia 11 maja 2001 r. Prawo
+o miarach (Dz.U. Nr 63, poz. 636).
+3. Właściwe terytorialnie organy administracji miar mogą w każdym czasie
+  przeprowadzać kontrole doraźne. Za czynności wykonywane przez dyrektora, o
+  którym mowa w ust. 1, związane z kontrolą doraźną nie pobiera się opłaty,
+  chyba że w ich wyniku zostanie stwierdzone stosowanie  niewłaściwych
+  przyrządów pomiarowych lub, że przyjęty system kontroli wewnętrznej ilości
+  towaru paczkowanego może powodować przekroczenie dopuszczalnej ujemnej
+  wartości błędu ilości towaru paczkowanego T1. W takim przypadku pobierane są
+  opłaty jak za kontrole planowe.
+4. Do kontroli planowych i doraźnych stosuje się odpowiednio przepis art. 13
+  ust. 1.
+                                        
+                                    Art. 20.
+Towary paczkowane oznaczone znakiem "e" przez paczkującego w krajach
+członkowskich Unii Europejskiej zgodnie z obowiązującymi w tych krajach
+przepisami, są dopuszczane do obrotu na terytorium Rzeczypospolitej Polskiej bez
+konieczności przeprowadzania dodatkowej kontroli.
+                                        
+                                   Rozdział 4
+                                 Butelki miarowe
+                                        
+                                    Art. 21.
+1. Producent butelek może na własną odpowiedzialność oznaczać je znakiem "3"
+  (odwrócony epsilon) o wysokości co najmniej 3 mm, stanowiącym gwarancję
+  producenta, że butelka spełnia wymagania określone w ustawie. Wymagania
+  metrologiczne dotyczące butelek miarowych zawiera załącznik nr 4 do ustawy.
+2. Wzór znaku "3"określa załącznik nr 5 do ustawy.
+                                        
+                                    Art. 22.
+1. Butelka miarowa powinna posiadać łatwe do odczytania, dobrze widoczne oraz
+  nieusuwalne oznakowania:
+   1) na boku, przy krawędzi dna lub na dnie:
+     a) wartości pojemności nominalnej w litrach, centylitrach lub mililitrach,
+       podane wraz z symbolem zastosowanej jednostki miary, cyframi o wysokości
+       co najmniej:
+         - 3 mm, jeżeli nominalna pojemność jest mniejsza od 20 cl,
+         - 4 mm, jeżeli nominalna pojemność wynosi od 20 cl do 100 cl,
+         - 6 mm, jeżeli nominalna pojemność jest większa od 100 cl,
+     b) znak identyfikacyjny producenta,
+     c) znak "3",
+   2)  na dnie lub przy krawędzi dna w sposób zapewniający rozróżnienie z
+     oznakowaniami, o których mowa w pkt 1, cyframi o tej samej wysokości, w
+     jakich jest wyrażana odpowiednia pojemność nominalna, zgodnie z metodą lub
+     metodami napełniania:
+     a) wartość pojemności brzegowej wyrażonej w centylitrach bez symbolu cl
+       lub
+     b) wartość odległości, wyrażonej w milimetrach, od poziomu krawędzi do
+       poziomu napełnienia odpowiadającego pojemności nominalnej z symbolem mm.
+2. Na butelce mogą być umieszczane inne oznakowania, pod warunkiem że nie będą
+  podobne do oznakowań, o których mowa w ust. 1.
+                                        
+                                    Art. 23.
+1. Producent przed rozpoczęciem produkcji butelek miarowych jest obowiązany
+  zgłosić Prezesowi Głównego Urzędu Miar znak służący do identyfikacji
+  producenta.
+2. Znak identyfikacyjny producenta powinien posiadać indywidualne cechy
+  graficzne pozwalające jednoznacznie odróżnić go od zarejestrowanych już
+  znaków identyfikacyjnych innych producentów.
+3. Każdy producent jest obowiązany umieszczać na produkowanych przez siebie
+  butelkach miarowych spełniających wymagania niniejszej ustawy znak
+  identyfikacyjny producenta.
+                                        
+                                    Art. 24.
+1. Prezes Głównego Urzędu Miar prowadzi jawny rejestr znaków identyfikacyjnych
+  producentów butelek miarowych, zwany dalej "rejestrem".
+2. Rejestr powinien zawierać:
+   1) oznaczenie producenta,
+   2) siedzibę i adres,
+   3) numer, pod którym producent został zarejestrowany w Krajowym Rejestrze
+     Sądowym,
+   4) symbol graficzny stanowiący znak identyfikacyjny producenta.
+                                        
+                                    Art. 25.
+1. Prezes Głównego Urzędu Miar dokonuje wpisu znaku identyfikacyjnego
+  producenta do rejestru w terminie 14 dni od dnia otrzymania zgłoszenia.
+  Zgłoszenie winno zawierać dane, o których mowa w art. 24 ust. 2, aktualny
+  wypis z Krajowego Rejestru Sądowego i 5 egzemplarzy wzoru znaku o wymiarach
+  nie większych niż 5 cm x 5 cm.
+2. Prezes Głównego Urzędu Miar odmawia wpisu w przypadku, gdy znak zgłoszony
+  przez producenta jest identyczny ze znakiem już wcześniej wpisanym do
+  rejestru.
+3. Prezes Głównego Urzędu Miar jest obowiązany wydać pisemne zaświadczenie o
+  wpisie znaku identyfikacyjnego do rejestru w terminie 14 dni od dnia
+  dokonania wpisu.
+4. W przypadku gdy zgłoszony przez producenta wniosek posiada braki formalne
+  lub znak identyfikacyjny producenta nie posiada indywidualnych cech
+  graficznych pozwalających jednoznacznie odróżnić go od wpisanych już do
+  rejestru znaków identyfikacyjnych innych producentów, co może wprowadzać w
+  błąd co do tożsamości producenta butelek miarowych, Prezes Głównego Urzędu
+  Miar zawiadamia o powyższym wnioskodawcę w terminie 14 dni od dnia otrzymania
+  zgłoszenia oraz wzywa go do usunięcia braków formalnych lub do zmiany znaku w
+  terminie nie dłuższym niż 30 dni od dnia otrzymania zawiadomienia.
+5. Jeżeli w wyznaczonym terminie producent nie uzupełni wniosku lub nie
+  przedstawi innego znaku identyfikacyjnego, Prezes Głównego Urzędu Miar
+  pozostawia sprawę bez rozpoznania, informując o powyższym wnioskodawcę.
+6. Odmowa wpisu następuje w formie decyzji administracyjnej.
+                                        
+                                    Art. 26.
+Prezes Głównego Urzędu Miar jest obowiązany informować właściwe organy państw
+członkowskich Unii Europejskiej oraz Komisję Europejską o znakach
+identyfikacyjnych producenta wpisanych do rejestru w terminie 30 dni od dnia
+dokonania wpisu.
+                                        
+                                    Art. 27.
+1. Producent butelek miarowych jest odpowiedzialny za zorganizowanie i
+  przeprowadzanie kontroli wewnętrznej butelek miarowych. Kontrola ta może być
+  przeprowadzana wyłącznie przy pomocy zalegalizowanych przyrządów pomiarowych,
+  odpowiednich do wykonywania niezbędnych czynności.
+2. Stosowany przez producenta system kontroli wewnętrznej butelek miarowych
+  powinien zapewniać skuteczność porównywalną do skuteczności metody
+  referencyjnej. Opis metody referencyjnej kontroli butelek miarowych zawiera
+  załącznik nr 6 do ustawy.
+3. Producent, w terminie co najmniej 60 dni przed rozpoczęciem produkcji
+  butelek miarowych jest obowiązany przekazać dyrektorowi właściwego
+  terytorialnie okręgowego urzędu miar opis przyjętego przez siebie systemu
+  kontroli wewnętrznej butelek miarowych. Przepisy art. 16 ust. 2 i 3 stosuje
+  się odpowiednio.
+4. Producent może wprowadzać do obrotu partię butelek miarowych po
+  przeprowadzeniu kontroli wewnętrznej, o której mowa w ust. 1 i stwierdzeniu
+  pozytywnego wyniku kontroli.
+                                        
+                                    Art. 28.
+1. Butelki miarowe podlegają kontroli administracji miar przez pobranie próbek
+  w pomieszczeniach producenta.
+2. Do kontroli butelek miarowych stosuje się odpowiednio przepisy art. 18 ust.
+  1, 3 i 4 oraz art. 19.
+3. Stwierdzenie poprawności danej partii w ramach kontroli, o której mowa w
+  ust. 1, następuje po wykonaniu badań kontrolnych, przy zastosowaniu metody
+  zapewniającej skuteczność porównywalną ze skutecznością metody referencyjnej.
+                                        
+                                   Rozdział 5
+                                 Przepisy karne
+                                        
+                                    Art. 29.
+Kto, paczkując lub wprowadzając po raz pierwszy do obrotu towary paczkowane,
+oznacza je znakiem "e", będąc świadomym, że nie spełniają one wymagań
+określonych dla tego znaku, podlega karze grzywny do 5.000 złotych.
+                                        
+                                    Art. 30.
+Kto, oznacza znakiem "3" butelki niespełniające wymagań określonych dla tego
+znaku lub butelki takie wprowadza po raz pierwszy do obrotu, podlega karze
+grzywny do 5.000 złotych.
+                                        
+                                    Art. 31.
+Kto, będąc odpowiedzialnym za działalność produkcyjną lub za kontrolę ilości
+rzeczywistej, nie przestrzega obowiązków wynikających z przyjętego systemu
+kontroli wewnętrznej ilości towarów paczkowanych lub kontroli wewnętrznej
+butelek miarowych lub prowadzi wymaganą dokumentację tych systemów nierzetelnie,
+podlega karze grzywny do 1.000 złotych.
+                                        
+                                   Rozdział 6
+                       Zmiany w przepisach obowiązujących
+                                        
+                                    Art.  32.
+W ustawie z dnia 20 maja 1971 r. Kodeks wykroczeń (Dz.U. Nr 12, poz. 114, z 1981
+r. Nr 24, poz. 124, z 1982 r. Nr 16, poz. 125, z 1983 r. Nr 6, poz. 35 i Nr 44,
+poz. 203, z 1984 r. Nr 54, poz. 275, z 1985 r. Nr 14, poz. 60 i Nr 23, poz. 100,
+z 1986 r. Nr 39, poz. 193, z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324, z 1989
+r. Nr 34, poz. 180, z 1990 r. Nr 51, poz. 297, Nr 72, poz. 422 i Nr 86, poz.
+504, z 1991 r. Nr 75, poz. 332 i Nr 91, poz. 408, z 1992 r. Nr 24, poz. 101, z
+1994 r. Nr 123, poz. 600, z 1995 r. Nr 6, poz. 29, Nr 60, poz. 310 i Nr 95, poz.
+475, z 1997 r. Nr 54, poz. 349, Nr 60, poz. 369, Nr 85, poz. 539, Nr 98, poz.
+602, Nr 104, poz. 661, Nr 106, poz. 677, Nr 111, poz. 724, Nr 123, poz. 779, Nr
+133, poz. 884 i Nr 141, poz. 942, z 1998 r. Nr 113, poz. 717, z 1999 r. Nr 83,
+poz. 931 i Nr 101, poz. 1178 oraz z 2000 r. Nr 22, poz. 271, Nr 73, poz. 852,
+Nr 74, poz. 855 i Nr 117 poz. 1228) wprowadza się następujące zmiany:
+1) w art. 136 § 1 po wyrazie "jakość" dodaje się wyrazy "lub ilość nominalną",
+2) w art. 137 § 1 po wyrazie "cen" dodaje się wyrazy "lub ilości nominalnej".
+                                        
+                                    Art. 33.
+  W ustawie z dnia 26 lutego 1982 r. o cenach (Dz.U. z 1988 r. Nr 27, poz. 195,
+z 1990 r. Nr 34, poz. 198,  z 1991 r. Nr 100, poz. 442,  z 1993 r. Nr 11, poz.
+50, z 1994 r. Nr 111, poz. 536, z 1996  r. Nr 106, poz. 496, z 1997 r. Nr 54,
+poz. 348 i Nr 160, poz. 1085, z 1998 r. Nr 106, poz. 668 oraz z 2000 r. Nr 12,
+poz. 136,  Nr 62, poz. 718, Nr 73 poz.  852 i Nr 120, poz. 1268)  w art. 16 w
+ust. 1 w pkt. 2  po wyrazach: "przy ustalaniu ceny", dodaje się wyrazy "lub
+zadeklarowanej na opakowaniu towaru paczkowanego,".
+                                        
+                                   Rozdział 7
+                         Przepisy przejściowe i końcowe
+                                        
+                                    Art. 34.
+Paczkujący produkty oraz producenci butelek miarowych przed wejściem w życie
+ustawy, mogą prowadzić produkcję pod warunkiem spełnienia obowiązków
+zgłoszeniowych i rejestracyjnych, o których mowa w art. 12 ust. 1, art. 16 ust.
+1, art. 23 ust. 1 i art. 27 ust. 3, w terminie 60 dni od dnia wejścia w życie
+ustawy.
+                                        
+                                    Art. 35.
+Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 6 ust. 3 i
+4, art. 20 i art. 26, które stosuje się z dniem uzyskania przez Rzeczpospolitą
+Polską członkostwa w Unii Europejskiej.
+
+Załączniki                                                            

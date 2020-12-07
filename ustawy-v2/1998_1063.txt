@@ -1,0 +1,876 @@
+
+
+
+
+Dz.U. z 1998 r. Nr 160, poz. 1063
+                                       
+                                       
+                                       
+                                    USTAWA
+                           z dnia 18 grudnia 1998 r.
+                                       
+                                Prawo dewizowe
+                                      
+ 
+                                  Rozdział 1
+                                Przepisy ogólne
+                                       
+                                    Art. 1.
+Ustawa reguluje zasady obrotu dewizowego, nadzwyczajne ograniczenia w wypadku
+zaistnienia zagrożeń stabilności i integralności systemu finansowego
+Rzeczypospolitej Polskiej oraz zasady kontroli dewizowej, a także właściwość
+organów w tych sprawach.
+                                       
+                                    Art. 2.
+1. Użyte w ustawie określenia oznaczają:
+   1) rezydent:
+     a) osobę fizyczną mającą miejsce zamieszkania w kraju oraz osobę prawną
+       mającą siedzibę w kraju, a także inny podmiot mający siedzibę w kraju,
+       posiadający zdolność zaciągania zobowiązań i nabywania praw we własnym
+       imieniu,
+     b) polskie przedstawicielstwa dyplomatyczne, urzędy konsularne i inne
+       polskie przedstawicielstwa oraz misje specjalne korzystające z
+       immunitetów i przywilejów dyplomatycznych lub konsularnych,
+   2) nierezydent:
+     a) osobę fizyczną nie mającą miejsca zamieszkania w kraju oraz osobę
+       prawną nie mającą siedziby w kraju, a także inny podmiot nie mający
+       siedziby w kraju, posiadający zdolność zaciągania zobowiązań i
+       nabywania praw we własnym imieniu,
+     b) osobę, o której mowa w pkt 1 lit. a), w zakresie, w jakim prowadzi ona
+       działalność za granicą poprzez swoje przedsiębiorstwo, oddział lub
+       przedstawicielstwo mające siedzibę za granicą,
+     c) mające siedzibę w kraju oddziały i przedstawicielstwa osób i
+       podmiotów, o których mowa w lit. a) i b), utworzone na podstawie umów
+       międzynarodowych zawartych przez Rząd Rzeczypospolitej Polskiej, chyba
+       że umowy te stanowią inaczej,
+     d) obce przedstawicielstwa dyplomatyczne, urzędy konsularne, misje
+       specjalne i organizacje międzynarodowe oraz inne obce
+       przedstawicielstwa korzystające z immunitetów i przywilejów
+       dyplomatycznych lub konsularnych na mocy umów, ustaw lub powszechnie
+       ustalonych zwyczajów międzynarodowych,
+   3) kraj - terytorium Rzeczypospolitej Polskiej,
+   4) wartości dewizowe:
+     a) zagraniczne środki płatnicze - waluty obce i dewizy,
+     b) złoto i platynę w stanie nie przerobionym oraz w postaci sztab, monet
+       bitych po 1850 r., półfabrykatów, z wyjątkiem stosowanych w technice
+       dentystycznej, a także wyroby ze złota i platyny zazwyczaj nie
+       wytwarzane z tych kruszców (złoto dewizowe i platyna dewizowa),
+     c) nominowane w walutach obcych papiery wartościowe nie będące
+       zagranicznymi środkami płatniczymi,
+   5) waluty obce - pieniądze nie będące w kraju prawnym środkiem płatniczym
+     oraz międzynarodowe jednostki rozrachunkowe,
+   6) waluty wymienialne " waluty obce określone jako wymienialne przez Prezesa
+     Narodowego Banku Polskiego,
+   7) międzynarodowe jednostki rozrachunkowe - wymienialne jednostki
+     rozrachunkowe stosowane w rozliczeniach międzynarodowych, w tym SDR jednostkę
+rozrachunkową Międzynarodowego Funduszu Walutowego i ECU europejską
+jednostkę walutową,
+   8) dewizy - pełniące funkcję płatniczą weksle, czeki, czeki podróżnicze,
+     akredytywy, polecenia wypłat, przekazy i inne dokumenty bankowe i
+     finansowe płatne w walutach obcych,
+   9) krajowe środki płatnicze - pieniądze będące w kraju prawnym środkiem
+     płatniczym (waluta polska), a także pełniące funkcję płatniczą: weksle,
+     czeki, czeki podróżnicze, akredytywy, polecenia wypłat, przekazy i inne
+     dokumenty bankowe i finansowe płatne w walucie polskiej,
+  10) obrót dewizowy:
+     a) czynność prawną lub inne zdarzenie stanowiące, powodujące lub mogące
+       powodować:
+        - płatność środkami stanowiącymi wartości dewizowe bądź przeniesienie
+         własności wartości dewizowych albo przeniesienie prawa majątkowego
+         oraz przejęcie lub przystąpienie do długu, których przedmiotem
+         świadczenia są wartości dewizowe,
+        - płatność krajowymi środkami płatniczymi bądź przeniesienie własności
+         takich środków albo przeniesienie prawa majątkowego oraz przejęcie
+         lub przystąpienie do długu, których przedmiotem świadczenia są
+         krajowe środki płatnicze, o ile zdarzenia te mają miejsce w
+         stosunkach między rezydentem i nierezydentem,
+     b) transfer wartości dewizowych lub krajowych środków płatniczych,
+  11) transfer - wywóz, przywóz, wysyłanie, przysyłanie, sprowadzanie,
+     dokonywanie międzynarodowych przekazów oraz wszelkie inne sposoby
+     przemieszczania wartości dewizowych lub krajowych środków płatniczych
+     przez granicę Rzeczypospolitej Polskiej,
+  12) obrót dewizowy z zagranicą - obrót dewizowy między rezydentem i
+     nierezydentem, o którym mowa w pkt 10 lit. a), transfer wartości
+     dewizowych lub krajowych środków płatniczych, a także obrót dewizowy
+     dokonywany przez nierezydenta w kraju i rezydenta za granicą,
+  13) obrót bieżący - obrót dewizowy z zagranicą, którego przedmiotem są :
+     a) umowy o nabywanie towarów (z wyłączeniem wartości dewizowych i
+       krajowych środków płatniczych), świadczenie usług oraz nabywanie lub
+       ustanawianie praw na dobrach niematerialnych,
+     b) odroczenia płatności za świadczenia niepieniężne, udzielane i
+       zaciągane w ramach umów, o których mowa w lit. a),
+     c) pożyczki i kredyty przeznaczone na finansowanie świadczeń
+       niepieniężnych w ramach umów, o których mowa w lit. a),
+     d) przychody z prowadzenia przedsiębiorstwa, z uczestnictwa w zysku
+       spółki, z tytułu odsetek od pożyczek i kredytów oraz od kwot
+       zdeponowanych na rachunkach,
+     e) świadczenia na utrzymanie członków rodziny należących do I i II grupy
+       podatkowej w rozumieniu przepisów ustawy z dnia 28 lipca 1983 r. o
+       podatku od spadków i darowizn (Dz.U. z 1997 r. Nr 16, poz. 89, Nr 34,
+       poz. 209, Nr 137, poz. 926 i Nr 139, poz. 932),
+     f) emerytury, świadczenia o charakterze rentowym, świadczenia społeczne
+       oraz alimenty,
+     g) nagrody oraz wygrane w konkursach lub grach losowych, organizowanych
+       na podstawie przepisów kraju, w którym są one organizowane,
+     h) płatności z tytułu świadczeń publicznoprawnych, w tym podatków, oraz
+       należności celnych przywozowych i wywozowych, a także świadczenia z
+       tytułu ich zwrotu dokonywane przez właściwe organy oraz upoważnione
+       podmioty,
+     i) roszczenia odszkodowawcze i odszkodowania,
+     j) roszczenia i należności z tytułu bezpodstawnego wzbogacenia związane z
+       obrotem dewizowym z zagranicą, którego dokonywanie nie wymaga
+       zezwolenia dewizowego, a w pozostałym zakresie, o ile zostaną
+       stwierdzone prawomocnym orzeczeniem sądowym,
+     k) płatności, przeniesienie własności i transfer wartości dewizowych lub
+       krajowych środków płatniczych, wynikające z czynności, o których mowa w
+       lit. a)-j),
+  14) towar - rzecz ruchomą oraz energię elektryczną, cieplną, a także inne
+     postaci energii,
+  15) usługi - pracę oraz usługi wymienione w klasyfikacji wydanej na
+     podstawie przepisów o statystyce publicznej, z wyłączeniem:
+     a) handlu towarami, nieruchomościami, wartościami dewizowymi, papierami
+       wartościowymi, jednostkami uczestnictwa w funduszu zbiorowego
+       inwestowania lub pochodnymi instrumentami finansowymi,
+     b) usług polegających na udzielaniu pożyczek i kredytów, ustanawianiu
+       zabezpieczeń wierzytelności oraz  prowadzeniu rachunków bankowych,
+  16) obrót kapitałowy - inny niż bieżący obrót dewizowy z zagranicą,
+  17) inwestycje bezpośrednie - obrót kapitałowy, polegający na dokonywaniu
+     nakładów pieniężnych lub rzeczowych w celu ustanowienia trwałych i
+     bezpośrednich więzi ekonomicznych przejawiających się w prowadzeniu
+     przedsiębiorstwa przez podmiot dokonujący takich nakładów lub w wywieraniu
+     przez niego skutecznego wpływu na przedsiębiorstwo prowadzone przez inną
+     osobę, a także na rozporządzaniu majątkiem posiadanym w wyniku prowadzenia
+     przedsiębiorstwa lub w wyniku dokonanych nakładów, którego przedmiotem
+     jest w szczególności:
+     a) nabywanie przedsiębiorstwa lub jego zorganizowanej części, tworzenie i
+       prowadzenie przedsiębiorstwa oraz dokonywanie nakładów na rozszerzenie
+       prowadzonego przedsiębiorstwa,
+     b) obejmowanie bądź nabywanie akcji lub udziałów w spółkach, w ilości
+       zapewniającej łącznie co najmniej 10% głosów na zgromadzeniu
+       wspólników,
+     c) świadczenia na rzecz spółki przed jej zarejestrowaniem oraz wypłata
+       przez spółkę wynagrodzeń za te świadczenia,
+     d) dokonywanie i zwrot dopłat oraz udzielanie spółce przez wspólników
+       posiadających akcje lub udziały w ilości, o której mowa w lit. b),
+       pożyczek i kredytów, a także zaciąganie przez spółkę takich pożyczek i
+       kredytów oraz ich spłata,
+     e) nabywanie własności i innych praw na nieruchomości w związku z
+       prowadzonym przedsiębiorstwem,
+     f) udzielanie i zaciąganie kredytów lub pożyczek o terminie spłaty nie
+       krótszym niż pięć lat oraz ich spłata,
+     g) uzyskiwanie przychodów z:
+        - likwidacji spółki, a także rozporządzania udziałami lub akcjami w
+         spółce bądź ich umorzenia,
+        - rozporządzenia przedsiębiorstwem lub jego zorganizowaną częścią, a
+         także likwidacji przedsiębiorstwa,
+        - rozporządzenia własnością i innymi prawami na nieruchomości, o
+         których mowa w lit. e),
+     h) płatności, przeniesienie własności i transfer wartości dewizowych lub
+       krajowych środków płatniczych, wynikające z czynności, o których mowa w
+       lit. a)-g),
+  18) inwestycje portfelowe - obrót kapitałowy w zakresie papierów
+     wartościowych, jednostek uczestnictwa w funduszach zbiorowego inwestowania
+     oraz pochodnych instrumentów finansowych, z wyłączeniem obrotu akcjami
+     określonego w pkt 17 lit. b), którego przedmiotem jest w szczególności:
+     a) emitowanie, obejmowanie, nabywanie i zbywanie na uznanym rynku,
+     b) umarzanie jednostek uczestnictwa w funduszu zbiorowego inwestowania
+       objętych lub nabytych na uznanym rynku,
+     c) emitowanie, obejmowanie, nabywanie i zbywanie poza uznanym rynkiem,
+     d) umarzanie jednostek uczestnictwa w funduszu zbiorowego inwestowania,
+       innych niż jednostki, o których mowa w lit. b),
+     e) płatności, przeniesienie własności i transfer wartości dewizowych lub
+       krajowych środków płatniczych, wynikające z czynności, o których mowa w
+       lit. a)-d),
+  19) papiery wartościowe - akcje i obligacje oraz inne papiery wartościowe
+     wyemitowane na podstawie przepisów kraju miejsca zamieszkania, siedziby
+     emitenta lub kraju emisji oraz wynikające z nich zbywalne prawa majątkowe,
+     z wyłączeniem jednostek uczestnictwa w funduszach zbiorowego inwestowania
+     oraz pochodnych instrumentów finansowych,
+  20) krótkoterminowe papiery wartościowe - obligacje i inne papiery
+     wartościowe o charakterze dłużnym, wyemitowane na podstawie przepisów
+     kraju miejsca zamieszkania, siedziby emitenta lub kraju emisji, o terminie
+     wykupu krótszym niż jeden rok,
+  21) jednostka uczestnictwa w funduszu zbiorowego inwestowania - tytuł do
+     udziału w aktywach funduszu zarządzanego przez podmiot uprawniony do
+     lokowania powierzonych mu pieniędzy w papiery wartościowe lub inne aktywa,
+     zgodnie z przepisami kraju, w którym działa,
+  22) pochodne instrumenty finansowe - prawa majątkowe, których cena zależy
+     bezpośrednio lub pośrednio od ceny towarów, walut obcych, waluty polskiej,
+     złota dewizowego, platyny dewizowej lub papierów wartościowych, albo od
+     wysokości stóp procentowych lub indeksów,
+  23) uznany rynek - giełda lub inny rynek, gdzie obrót papierami
+     wartościowymi, jednostkami uczestnictwa w funduszu zbiorowego inwestowania
+     oraz pochodnymi instrumentami finansowymi odbywa się zgodnie z regułami
+     określonymi przez przepisy kraju, w którym funkcjonuje ten rynek,
+  24) obrót kredytowy - obrót kapitałowy, którego przedmiotem są:
+     a) pożyczki, kredyty lub inne czynności o funkcjach kredytowych, z
+       wyłączeniem obrotu określonego w pkt 17 lit. d), f), pkt 18 oraz pkt 27
+       lit. d) i f),
+     b) płatności, przeniesienie własności i transfer wartości dewizowych lub
+       krajowych środków płatniczych, wynikające z czynności, o których mowa w
+       lit. a),
+  25) obrót gwarancyjny - obrót kapitałowy, którego przedmiotem są:
+     a) osobiste i rzeczowe zabezpieczenia wierzytelności,
+     b) płatności, przeniesienie własności i transfer wartości dewizowych lub
+       krajowych środków płatniczych, wynikające z czynności, o których mowa w
+       lit. a),
+  26) obrót depozytowy - obrót kapitałowy, którego przedmiotem są:
+     a) czynności w zakresie rachunków prowadzonych przez banki i inne
+       upoważnione instytucje finansowe,
+     b) płatności, przeniesienie własności i transfer wartości dewizowych lub
+       krajowych środków płatniczych, wynikające z czynności, o których mowa w
+       lit. a),
+  27) obrót pozagospodarczy - obrót kapitałowy inny niż inwestycje portfelowe,
+     obrót kredytowy, gwarancyjny lub depozytowy, dokonywany przez osoby
+     fizyczne, nie pozostający w związku z prowadzoną przez nie działalnością
+     gospodarczą lub wykonywanym wolnym zawodem, którego wielkość nie
+     przekracza jednorazowo równowartości 10 000 ECU lub którego przedmiotem
+     jest :
+     a) własność i inne prawa na nieruchomościach położonych w kraju,
+     b) własność i inne prawa na nieruchomościach położonych za granicą, z
+       zastrzeżeniem, że łączna cena nabycia nieruchomości przez rezydenta nie
+       przekroczy równowartości kwoty w ECU, określonej przez Ministra
+       Finansów w rozporządzeniu, o którym mowa w ust. 4,
+     c) spadek, zapis lub zachowek,
+     d) zaciąganie pożyczek od członków rodziny, o których mowa w pkt 13 lit.
+       e), oraz udzielanie takich pożyczek,
+     e) likwidacja lub przeniesienie mienia w związku ze zmianą statusu
+       dewizowego,
+     f) płatności, przeniesienie własności i transfer wartości dewizowych lub
+       krajowych środków płatniczych, wynikające z czynności, o których mowa w
+       lit. a) -e),
+  28) pozostały obrót kapitałowy - obrót kapitałowy nie stanowiący inwestycji
+     bezpośrednich, inwestycji portfelowych, obrotu kredytowego, depozytowego,
+     gwarancyjnego lub pozagospodarczego,
+  29) działalność kantorowa - działalność gospodarcza polegająca na kupnie i
+     sprzedaży walut obcych, złota dewizowego lub platyny dewizowej, a także na
+     pośrednictwie w kupnie i sprzedaży tych wartości.
+2. Nierezydenta, o którym mowa w ust. 1 pkt 2 lit. a), prowadzącego
+  działalność w kraju poprzez swoje przedsiębiorstwo, oddział lub
+  przedstawicielstwo, mające siedzibę w kraju, traktuje się w zakresie tej
+  działalności jak rezydenta, o ile umowy międzynarodowe, których stroną jest
+  Rzeczpospolita Polska, nie stanowią inaczej.
+3. Prezes Narodowego Banku Polskiego określa, w drodze zarządzenia,
+  ogłaszanego w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski",
+  które waluty obce są walutami wymienialnymi.
+4. Minister Finansów, określi, w drodze rozporządzenia, wysokość kwoty, o
+  której mowa w ust. 1 pkt 27 lit. b), biorąc pod uwagę sytuację bilansu
+  płatniczego państwa oraz średni poziom cen nieruchomości za granicą.
+5. Ilekroć w ustawie jest mowa o danej kwocie ECU, należy przez to rozumieć
+  równowartość w ECU kwoty wyrażonej w innej walucie, ustaloną w oparciu o
+  średni kurs waluty krajowej do ECU oraz innych walut, ogłaszany przez
+  Narodowy Bank Polski w dniu poprzedzającym dokonanie czynności, w związku z
+  którą równowartość jest ustalana.
+                                       
+                                    Art. 3.
+1. Organem właściwym w sprawach dewizowych jest Minister Finansów, z
+  zastrzeżeniem wyjątków przewidzianych w ustawie.
+2. Minister Finansów sprawuje ogólny nadzór w sprawach dewizowych i w ramach
+  tego nadzoru zapewnia jednolite stosowanie przepisów ustawy.
+                                    Art. 4.
+Wszelkie ograniczenia zawarte w ustawie i wydanych na jej podstawie przepisach
+wykonawczych nie mają zastosowania do obrotu dewizowego dokonywanego przez:
+   1) Skarb Państwa w zakresie, w jakim reprezentowany jest przez Ministra
+     Finansów lub Ministra Skarbu Państwa, z zastrzeżeniem obowiązków
+     sprawozdawczych, o których mowa w art. 15,
+   2) Narodowy Bank Polski,
+   3) banki w zakresie posiadanych przez nie uprawnień do dokonywania
+     określonych czynności obrotu dewizowego nadanych im na podstawie odrębnych
+     przepisów ustawowych, z zastrzeżeniem:
+     a) art. 9 pkt 3 w zakresie nabywania nominowanych w walucie polskiej
+       krótkoterminowych papierów wartościowych emitowanych przez
+       nierezydentów oraz zbywania na rzecz nierezydentów nominowanych w
+       walucie polskiej krótkoterminowych papierów wartościowych emitowanych
+       przez banki, jeżeli suma dziennych sald tych inwestycji dla jednego
+       banku przekroczy w okresie kolejnych 3 miesięcy kalendarzowych
+       równowartość 30% jego funduszy własnych, oraz w zakresie pochodnych
+       instrumentów finansowych, za które płatności są ustalane i realizowane
+       w walucie polskiej, jeżeli pozycja walutowa globalna (całkowita) banku,
+       będąca skutkiem tych operacji, przekroczy 30% jego funduszy własnych,
+     b) art. 9 pkt 4 w zakresie dokonywania obrotu kredytowego z
+       nierezydentami, skutkującego powstaniem długu w walucie polskiej,
+       którego termin ostatecznej spłaty jest krótszy niż 1 rok, a wartość
+       pojedynczej transakcji przekracza równowartość 50 000 ECU,
+     c) art. 9 pkt 5, art. 12-15 oraz art. 17-19,
+   4) zakłady ubezpieczeń lub inne podmioty w zakresie posiadanych przez nie
+     uprawnień do dokonywania określonych czynności obrotu dewizowego, nadanych
+     im na podstawie odrębnych przepisów ustawowych, z zastrzeżeniem art. 12-15
+     oraz art. 17-19.
+                                    Art. 5.
+1. Wartości dewizowe mogą być przedmiotem własności rezydentów w kraju i za
+  granicą oraz nierezydentów w kraju.
+2. Rezydenci i nierezydenci mogą dokonywać obrotu dewizowego, z zastrzeżeniem
+  ograniczeń określonych w przepisach niniejszej ustawy. Nie narusza to
+  wynikających z innych ustaw ograniczeń w dokonywaniu obrotu bieżącego i
+  obrotu kapitałowego.
+                                    Art. 6.
+Jeżeli nie występują zagrożenia dla realizacji założeń polityki pieniężnej i
+stabilizacji systemu finansowego Rzeczypospolitej Polskiej Minister Finansów, w
+drodze rozporządzenia, może zwolnić z ograniczeń i obowiązków określonych w
+przepisach niniejszej ustawy oraz określić warunki tego zwolnienia. Zwolnienie
+to Minister Finansów może wprowadzać wobec wszystkich lub określonej kategorii
+podmiotów oraz wszystkich lub rodzajowo określonych czynności.
+                                    Art. 7.
+1. Udzielanie, odmowa i uchylanie zezwoleń dewizowych następują w drodze
+  decyzji Prezesa Narodowego Banku Polskiego.
+2. W zezwoleniu dewizowym może być ustalony obowiązek spełnienia określonych
+  warunków.
+3. Prezes Narodowego Banku Polskiego może upoważnić dyrektorów departamentów
+  Centrali Narodowego Banku Polskiego i dyrektorów oddziałów Narodowego Banku
+  Polskiego lub jednostek równorzędnych do podejmowania w jego imieniu decyzji,
+  o których mowa w ust. 1, oraz określić ich właściwość w tych sprawach.
+4. Ochrona równowagi bilansu płatniczego może być podstawą odmowy udzielenia
+  zezwolenia dewizowego.
+5. Prezes Narodowego Banku Polskiego może uchylić udzielone zezwolenie
+  dewizowe w razie naruszenia określonych w tym zezwoleniu warunków.
+6. Udzielenie zezwolenia dewizowego jednej ze stron na zawarcie i wykonywanie
+  umowy oznacza zezwolenie również dla drugiej strony oraz dla osoby trzeciej,
+  której umowa dotyczy, jeżeli w zezwoleniu nie zastrzeżono inaczej.
+                                    Art. 8.
+Kursy waluty krajowej w stosunku do walut obcych ustalane przez Prezesa
+Narodowego Banku Polskiego i ogłaszane przez Narodowy Bank Polski stosuje się w
+obrocie dewizowym, rozrachunkach i rozliczeniach z Narodowym Bankiem Polskim.
+                                       
+                                  Rozdział 2
+                         Dokonywanie obrotu dewizowego
+                                       
+                                    Art. 9.
+ Zezwolenia dewizowego wymaga:
+   1) dokonywanie przez rezydentów inwestycji bezpośrednich w krajach nie
+     należących do Organizacji Współpracy Gospodarczej i Rozwoju (OECD) lub w
+     krajach, z którymi Rzeczpospolita Polska nie zawarła umów o popieraniu i
+     wzajemnej ochronie inwestycji,
+   2) dokonywanie przez rezydentów inwestycji portfelowych w zakresie papierów
+     wartościowych emitowanych przez nierezydentów nie mających miejsca
+     zamieszkania lub siedziby w krajach należących do OECD lub krajach, z
+     którymi Rzeczpospolita Polska nie zawarła umów o popieraniu i wzajemnej
+     ochronie inwestycji, oraz jednostek uczestnictwa w funduszach zbiorowego
+     inwestowania nie mających siedziby w tych krajach,
+   3) dokonywanie inwestycji portfelowych w zakresie krótkoterminowych papierów
+     wartościowych oraz pochodnych instrumentów finansowych, z wyłączeniem
+     pochodnych instrumentów finansowych będących przedmiotem obrotu na
+     Giełdzie Papierów Wartościowych S.A. w Warszawie, Polskiej Giełdzie
+     Finansowej S.A. w Warszawie lub Centralnej Tabeli Ofert S.A. w Warszawie,
+   4) dokonywanie obrotu kredytowego skutkującego powstaniem długu, którego
+     termin spłaty jest krótszy niż jeden rok,
+   5) dokonywanie przez nierezydentów obrotu depozytowego, jeżeli:
+     a) obrót obejmuje deponowanie waluty polskiej w formie lokat terminowych
+       o terminie zapadalności krótszym niż 3 miesiące i w kwocie
+       przekraczającej 500 000 zł lub
+     b) wymiana waluty polskiej zdeponowanej w formie lokat terminowych o
+       terminie zapadalności dłuższym niż 3 miesiące i w kwocie powyżej 500
+       000 zł na zagraniczne środki płatnicze i transfer środków uzyskanych z
+       takiej wymiany następuje przed upływem 3 miesięcy od daty zdeponowania,
+   6) dokonywanie przez rezydentów obrotu depozytowego, z wyjątkiem:
+     a) obrotu związanego z nakładami ponoszonymi w ramach inwestycji
+       bezpośrednich lub portfelowych, których dokonywanie nie wymaga
+       zezwolenia dewizowego,
+     b) obrotu w zakresie rachunków posiadanych przez osoby fizyczne w czasie
+       pobytu za granicą,
+   7) dokonywanie obrotu gwarancyjnego w zakresie wierzytelności, których
+     powstanie podlega ograniczeniom określonym w ustawie, z wyjątkiem
+     wierzytelności na których powstanie wprowadzone zostało zwolnienie lub
+     udzielone zezwolenie dewizowe,
+   8) dokonywanie pozostałego obrotu kapitałowego, z wyjątkiem:
+     a) nabywania bądź obejmowania przez nierezydentów udziałów w spółkach
+       mających siedzibę w kraju oraz otrzymywania i transferu za granicę
+       przychodów ze sprzedaży lub umorzenia tych udziałów bądź związanych z
+       likwidacją spółki,
+     b) przyjmowania przez rezydentów darowizn od nierezydentów,
+     c) przeniesienia własności wartości dewizowych, dokonywanego z udziałem
+       osób prowadzących działalność kantorową na podstawie zezwolenia, o
+       którym mowa w art. 10 ust. 1,
+     d) transferu za granicę przez nierezydentów będących osobami fizycznymi
+       zagranicznych środków płatniczych zgłoszonych przy wjeździe do kraju
+       urzędowi celnemu lub przekazanych na ich rzecz z zagranicy,
+   9) dokonywanie w kraju płatności środkami stanowiącymi wartości dewizowe, z
+     wyjątkiem płatności wynikających z obrotu dewizowego z zagranicą oraz
+     płatności dokonywanych między osobami fizycznymi, nie związanych z
+     prowadzoną przez nie działalnością gospodarczą lub wykonywanym wolnym
+     zawodem,
+  10) sprzedaż wartości dewizowych między rezydentami, z wyjątkiem sprzedaży
+     dokonywanej z udziałem osób prowadzących działalność kantorową na
+     podstawie zezwolenia, o którym mowa w art. 10 ust. 1, oraz sprzedaży
+     dokonywanej między osobami fizycznymi, nie związanej z prowadzoną przez
+     nie działalnością gospodarczą lub wykonywanym wolnym zawodem,
+  11) dokonywanie przez rezydentów innych niż potrącenia rozporządzeń
+     wierzytelnościami od nierezydentów w sposób, który uniemożliwiałby w
+     terminie ich wymagalności niezwłoczny transfer z zagranicy zagranicznych
+     lub krajowych środków płatniczych, będących przedmiotem świadczenia tych
+     wierzytelności, z wyjątkiem przekazywania przychodów z inwestycji
+     bezpośrednich i portfelowych na rachunki, o których mowa w pkt 6,
+  12) prowadzenie działalności kantorowej, z zastrzeżeniem art. 10.
+                                       
+                                   Art. 10.
+1. Rezydenci, z wyłączeniem banków, mogą uzyskać zezwolenie na prowadzenie
+  działalności kantorowej oraz prowadzić taką działalność, pod warunkiem
+  niekaralności za przestępstwo skarbowe przeciwko mieniu lub inne przestępstwo
+  popełnione w celu osiągnięcia korzyści majątkowej, zagrożone karą pozbawienia
+  wolności lub ograniczenia wolności.
+2. Czynności określone w zezwoleniu, o którym mowa w ust. 1, mogą być
+  dokonywane tylko przez osoby posiadające fachowe przygotowanie.
+   3. Warunki, o których mowa w ust. 1 i 2, dotyczą odpowiednio osób
+     bezpośrednio dokonujących czynności kupna, sprzedaży lub pośrednictwa w
+     ramach prowadzonej działalności kantorowej.
+4. Przepisy ust. 1 dotyczą również członków władz osób prawnych prowadzących
+  działalność kantorową.
+5. Rezydenci, którzy uzyskali zezwolenie, o którym mowa w ust. 1, mogą
+  sprzedawać i kupować waluty obce, złoto dewizowe oraz platynę dewizową osobom
+  fizycznym i od osób fizycznych, będących zarówno rezydentami jak i
+  nierezydentami nie prowadzącymi działalności gospodarczej, a także zawierać
+  umowy kupna i sprzedaży tych wartości dewizowych z upoważnionymi do tego
+  bankami lub z innymi osobami prowadzącymi działalność kantorową na podstawie
+  zezwolenia, o którym mowa w ust. 1.
+6. Minister Finansów, na  wniosek Prezesa Narodowego Banku Polskiego, określi,
+  w drodze rozporządzenia:
+   1) szczegółowe warunki prowadzenia działalności kantorowej,
+   2) rodzaj fachowego przygotowania, o którym mowa w ust. 2 i 3, oraz sposób
+     jego udokumentowania.
+                                       
+                                   Art. 11.
+1. Rezydenci są obowiązani zapewnić niezwłoczny transfer z zagranicy
+  posiadanych wartości dewizowych lub krajowych środków płatniczych, z
+  wyłączeniem środków zgromadzonych na rachunkach, o których mowa w art. 9 pkt
+  6.
+2. Jeżeli rezydent będący osobą fizyczną uzyskał wartości dewizowe w czasie
+  pobytu za granicą, jest obowiązany zapewnić transfer z zagranicy wartości
+  dewizowych pozostających w jego dyspozycji w terminie dwóch miesięcy od dnia
+  powrotu do kraju.
+                                       
+                                   Art. 12.
+1. Rezydenci dokonujący obrotu dewizowego obowiązani są przy dokonywaniu lub
+  przyjmowaniu płatności oraz przy dokonywaniu transferu korzystać z
+  pośrednictwa banków, których uprawnienia do dokonywania określonych czynności
+  obrotu dewizowego obejmują takie pośrednictwo, z wyjątkiem:
+   1) przyjmowania od nierezydentów będących osobami fizycznymi płatności za
+     sprzedawane w kraju towary lub świadczone usługi na potrzeby osobiste tych
+     osób,
+   2) płatności dokonywanych między osobami fizycznymi nie związanych z
+     prowadzoną przez nie działalnością gospodarczą lub wykonywanym wolnym
+     zawodem,
+   3) płatności przyjmowanych za sprzedawane lub dokonywanych za kupowane
+     wartości dewizowe z udziałem osób prowadzących działalność kantorową na
+     podstawie zezwolenia, o którym mowa w art. 10 ust. 1, z zastrzeżeniem, że
+     sprzedaż lub zakup wartości dewizowych nie jest związana z prowadzoną
+     przez osobę dokonującą sprzedaży (zakupu) działalnością gospodarczą lub
+     wykonywanym wolnym zawodem,
+   4) przekazów, wysyłania oraz płatności dokonywanych za pośrednictwem Poczty
+     Polskiej w kwocie, której wysokość nie przekracza równowartości 5.000 ECU,
+   5) czynności, o których mowa w ust. 3,
+   6) przekazów dokonywanych za pośrednictwem rezydentów, o których mowa w art.
+     2 ust. 1 pkt 1 lit. b) w kwocie, której wysokość nie przekracza
+     równowartości 10.000 ECU.
+2. Przez pośrednictwo banków rozumie się także dokonane przez bank
+  wystawienie, akceptację, skup lub przyjęcie do inkasa środków płatniczych
+  innych niż waluty obce i waluta polska.
+3. Rezydenci, nabywający i zbywający papiery wartościowe oraz jednostki
+  uczestnictwa w funduszach zbiorowego inwestowania na zagranicznych rynkach
+  regulowanych, obowiązani są korzystać z pośrednictwa podmiotów prowadzących
+  działalność maklerską i posiadających uprawnienia do takiego pośrednictwa, na
+  podstawie przepisów ustawy z dnia 21 sierpnia 1997 r. - Prawo o publicznym
+  obrocie papierami wartościowymi (Dz.U. Nr 118, poz. 754 i Nr 141, poz. 945
+  oraz z 1998 r. Nr 107, poz. 669).
+                                       
+                                   Art. 13.
+1. Zobowiązania pieniężne w obrocie dewizowym z zagranicą mogą być wyrażane
+  wyłącznie w walucie polskiej lub w walutach wymienialnych.
+2. Płatności dokonywane w ramach obrotu dewizowego z zagranicą mogą być
+  dokonywane wyłącznie w krajowych środkach płatniczych lub w walutach
+  wymienialnych, bądź w dewizach płatnych w takich walutach.
+                                       
+                                   Art. 14.
+1. Rezydenci i nierezydenci są obowiązani udzielać ustnych i pisemnych
+  wyjaśnień oraz udostępniać wymagane dokumenty w sprawach objętych kontrolą
+  dewizową.
+2. Rezydenci i nierezydenci są obowiązani podawać bankowi, za którego
+  pośrednictwem dokonują płatności lub transferu, tytuł, z jakiego płatność lub
+  transfer są dokonywane, a na żądanie tego banku, z zastrzeżeniem ust. 3,
+  przedstawić dokumenty potwierdzające, że dana płatność lub transfer stanowi
+  obrót bieżący lub obrót kapitałowy, którego dokonywanie nie wymaga zezwolenia
+  dewizowego.
+3. W przypadku płatności dokonywanej przez rezydenta na rzecz nierezydenta,
+  transferu za granicę wartości dewizowych lub krajowych środków płatniczych, w
+  kwocie, której wysokość przekracza równowartość 20 000 ECU, bank obowiązany
+  jest zażądać przedstawienia dokumentów, o których mowa w ust. 2.
+4. Przepisy ust. 2 i 3 stosuje się odpowiednio do inwestycji portfelowych
+  dokonywanych przez rezydentów za pośrednictwem podmiotów, o których mowa w
+  art. 12 ust. 3.
+5. W przypadku, gdy przedmiotem transferu za granicę jest przychód lub dochód
+  nierezydenta, w odniesieniu do którego, na podstawie odrębnych przepisów oraz
+  postanowień umów międzynarodowych, których Rzeczpospolita Polska jest stroną,
+  nierezydent podlega w kraju obowiązkowi podatkowemu, dokonanie transferu
+  wymaga przedstawienia bankowi, o którym mowa w ust. 2, dokumentów wydanych
+  przez właściwy miejscowo urząd skarbowy potwierdzających wygaśnięcie
+  zobowiązania podatkowego wynikającego z tego obowiązku.
+6. W przypadku gdy w momencie dokonywania czynności, o których mowa w ust. 1,
+  dokonujący ich rezydent nie posiada dokumentów, o których mowa w ust. 2 lub
+  ust. 4 i 5, czynności te mogą być dokonane pod warunkiem złożenia bankowi lub
+  podmiotowi, o którym mowa w art. 12 ust. 3, za którego pośrednictwem są one
+  dokonywane, pisemnego oświadczenia w sprawie przyczyn braku dokumentów.
+  Oświadczenie powinno zawierać zobowiązanie do przedstawienia dokumentów
+  niezwłocznie po ich uzyskaniu, a w każdym przypadku nie później niż w okresie
+  trzech miesięcy od dnia dokonania czynności.
+7. Wywóz lub wysyłanie za granicę wartości dewizowych lub krajowych środków
+  płatniczych, a także przekazy, o których mowa w art. 12 ust. 1 pkt 4,
+  wymagają posiadania dokumentów stwierdzających uprawnienie do takiego
+  transferu, zgodnie z art. 22 ust. 2 pkt 2.
+8. Rezydenci i nierezydenci dokonujący transferu wartości dewizowych i
+  krajowych środków płatniczych są obowiązani zgłosić zgodnie z art. 22 ust. 2
+  pkt 2 i na żądanie organów kontroli dewizowej przedstawić do kontroli
+  wartości i środki będące przedmiotem transferu.
+9. Dla potrzeb kontroli dewizowej rezydenci są obowiązani przechowywać
+  dokumenty, o których mowa w ust. 2, ust. 4 i 5, przez pięć lat od końca roku
+  kalendarzowego, w którym dokonano czynności obrotu dewizowego związanej z
+  danym dokumentem.
+                                       
+                                   Art. 15.
+1. Rezydenci oraz nierezydenci, o których mowa w art. 2 ust. 2, z wyjątkiem
+  banków, uczestniczący w obrocie dewizowym z zagranicą, obowiązani są
+  przekazywać Narodowemu Bankowi Polskiemu dane niezbędne do sporządzania
+  bilansu płatniczego oraz bilansów należności i zobowiązań zagranicznych
+  państwa.
+2. Banki realizują obowiązek, o którym mowa w ust. 1, na podstawie art. 23
+  ust. 2 oraz w trybie i na zasadach określonych na podstawie art. 23 ust. 4
+  ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz.U. Nr 140,
+  poz. 938).
+3. Rezydenci obowiązani są zgłaszać Narodowemu Bankowi Polskiemu ich mienie
+  posiadane za granicą lub nabyte w obrocie dewizowym z zagranicą, a także jego
+  utratę.
+4. Nierezydenci obowiązani są zgłaszać Narodowemu Bankowi Polskiemu ich mienie
+  posiadane w kraju lub nabyte w obrocie dewizowym z zagranicą, a także jego
+  utratę. Jeżeli mienie znajduje się w posiadaniu lub zarządzie innej osoby niż
+  właściciel, obowiązek spoczywa na właścicielu lub na innej osobie.
+5. Obowiązek zgłaszania mienia nie dotyczy przedstawicielstw dyplomatycznych,
+  urzędów konsularnych i misji specjalnych państw obcych, ich cudzoziemskiego
+  personelu, organizacji międzynarodowych oraz osób korzystających z
+  przywilejów i immunitetów dyplomatycznych na mocy umów, ustaw lub powszechnie
+  ustalonych zwyczajów międzynarodowych, a także nierezydentów, o których mowa
+  w art. 2 ust. 1 pkt 2 lit. c), o ile umowy, na podstawie których działają,
+  tak stanowią.
+6. Rada Ministrów określi, w drodze rozporządzenia, sposób, zakres i terminy
+  realizacji obowiązków, o których mowa w ust. 1, 3 i 4, rodzaje mienia oraz
+  wysokość kwot, których przekroczenie powoduje powstanie tych obowiązków.
+7. Narodowy Bank Polski obowiązany jest przestrzegać tajemnicy w zakresie
+  informacji uzyskanych w trybie ust. 1, 3 i 4, na zasadach określonych w
+  ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. Nr 140, poz 939)
+                                   Art. 16.
+Odstąpienie od wykonania obowiązków określonych w art. 11-14 wymaga zezwolenia
+dewizowego.
+                                       
+                                  Rozdział 3
+                           Nadzwyczajne ograniczenia
+                                       
+                                   Art. 17.
+1. W razie zagrożenia realizacji założeń polityki pieniężnej, Rada Ministrów w
+  drodze rozporządzenia wydanego zgodnie z wnioskiem Rady Polityki Pieniężnej,
+  może wprowadzić ograniczenia w stosunku do rezydentów i nierezydentów
+  dokonujących obrotu kapitałowego innego niż inwestycje bezpośrednie,
+  polegające na obowiązku utrzymywania przez nich nieoprocentowanego depozytu
+  na specjalne w tym celu założonym rachunku bankowym w Narodowym Banku
+  Polskim.
+2. W rozporządzeniu, o którym mowa w ust. 1, Rada Ministrów określi czynności
+  obrotu kapitałowego, których dokonywanie powoduje obowiązek utrzymywania
+  depozytu oraz stosunek, w jakim wielkość depozytu pozostaje do wielkości
+  środków zaangażowanych w obrót kapitałowy.
+                                   Art. 18.
+1. W przypadku zaistnienia nadzwyczajnego zagrożenia stabilności i
+  integralności systemu finansowego Rzeczypospolitej Polskiej Rada Ministrów na
+  wniosek Rady Polityki Pieniężnej, w drodze rozporządzenia, może wprowadzić,
+  na czas nie dłuższy niż sześć miesięcy, nadzwyczajne ograniczenia polegające
+  na:
+   1) obowiązku odprzedaży zagranicznych środków płatniczych przez rezydentów
+     podmiotom wskazanym w tym rozporządzeniu,
+   2) obowiązku wyrażania zobowiązań pieniężnych i dokonywania płatności w
+     obrocie dewizowym z zagranicą wyłącznie w walutach wymienialnych,
+   3) obowiązku uzyskania zezwolenia dewizowego na dokonywanie obrotu
+     dewizowego, którego dokonywanie, na podstawie przepisów niniejszej ustawy,
+     nie podlega takiemu obowiązkowi,
+   4) ograniczeniu zakresu uprawnień nierezydentów, o których mowa w art. 10
+     ust. 5.
+2. Nadzwyczajne zagrożenia, o których mowa w ust. 1, zachodzą w szczególności
+  w następujących sytuacjach:
+   1) znacznego zmniejszenia rezerw dewizowych Rzeczypospolitej Polskiej,
+   2) załamania równowagi bilansu płatniczego stwarzającego bezpośrednie
+     zagrożenie zdolności płatniczej Rzeczypospolitej Polskiej wobec zagranicy,
+   3) wzrostu podaży pieniądza wywołanego napływem kapitału z zagranicy w
+     rozmiarach i tempie zasadniczo utrudniających lub uniemożliwiających
+     kontrolę tej podaży,
+   4) bezpośredniego zagrożenia stabilności i integralności polityki pieniężnej
+     wywołanego przepływem kapitału między krajem a zagranicą.
+3. Nadzwyczajne ograniczenia, o których mowa w ust. 1, Rada Ministrów może
+  wprowadzać pojedynczo lub łącznie i odnosić je do wszystkich lub określonej
+  kategorii podmiotów oraz do wszystkich lub rodzajowo określonych czynności.
+                                   Art. 19.
+W celu wykonania postanowień rezolucji Rady Bezpieczeństwa Organizacji Narodów
+Zjednoczonych zakazujących lub ograniczających obroty płatnicze z danym krajem
+Rada Ministrów, w drodze rozporządzenia, może wprowadzić stosowne zakazy lub
+ograniczenia.
+                                  Rozdział 4
+                               Kontrola dewizowa
+                                       
+                                   Art. 20.
+1. Obrót dewizowy, jak również inne czynności, na których dokonanie, stosownie
+  do przepisów ustawy, jest wymagane zezwolenie dewizowe, podlegają kontroli
+  dewizowej.
+2. Kontroli dewizowej podlega również wykonanie obowiązków, o których mowa w
+  art. 15.
+                                   Art. 21.
+1. Kontrolę dewizową, z zastrzeżeniem ust. 3 i art. 22, wykonują Minister
+  Finansów i podległe mu organy, na zasadach i w trybie ustawy z dnia 28
+  września 1991 r. o kontroli skarbowej (Dz.U. Nr 100, poz. 442, z 1992r. Nr
+  21, poz. 85, z 1996r. Nr 106, poz. 496 i Nr 152, poz. 720 oraz z 1997r. Nr
+  71, poz. 449, Nr 88, poz. 554, Nr 121, poz. 770 i Nr 137, poz. 926) oraz na
+  podstawie odrębnych przepisów.
+2. Organy kontroli skarbowej wykonujące kontrolę dewizową są uprawnione w
+  związku z toczącym się postępowaniem karnym skarbowym, na podstawie
+  upoważnienia wydanego przez Generalnego Inspektora Kontroli Skarbowej, do
+  żądania informacji podlegających zgłoszeniu zgodnie z art. 15 oraz o obrotach
+  i stanach środków na rachunkach bankowych.
+3. Kontrolę dewizową wykonują również:
+   1) Narodowy Bank Polski - w zakresie czynności dokonywanych przez rezydentów
+     i nierezydentów, którzy uzyskali zezwolenia dewizowe na dokonanie tych
+     czynności, a także w zakresie czynności obrotu dewizowego dokonywanych
+     przez banki i inne niż banki osoby prawne i podmioty nie będące osobami
+     prawnymi dokonujące skupu i sprzedaży walut obcych i dewiz na podstawie
+     stosownego upoważnienia, oraz w zakresie, o którym mowa w art. 20 ust. 2,
+   2) banki i podmioty, o których mowa w art. 12 ust. 3 - w zakresie czynności
+     obrotu dewizowego dokonywanych z ich udziałem lub za ich pośrednictwem,
+   3) organy administracji celnej - w zakresie granicznej kontroli dewizowej
+     oraz kontroli dewizowej przesyłek pocztowych,
+   4) organy Straży Granicznej - w zakresie przewidzianym dla organów
+     administracji celnej, jeżeli posiadają uprawnienia do dokonywania kontroli
+     celnej,
+   5) jednostki organizacyjne Poczty Polskiej - przy nadawaniu przesyłek
+     pocztowych za granicę.
+4. Minister Finansów na wniosek Prezesa Narodowego Banku Polskiego, w drodze
+  rozporządzenia, określi tryb wykonywania kontroli w zakresie, o którym mowa w
+  ust. 3 pkt 1.
+                                   Art. 22.
+1. Graniczną kontrolę dewizową wykonują organy administracji celnej i organy
+  Straży Granicznej na zasadach i w trybie kontroli celnej.
+2. Minister Finansów w porozumieniu z Ministrem Spraw Wewnętrznych i
+  Administracji i Ministrem Łączności, w drodze rozporządzania, określi:
+   1) zakres, szczegółowe zasady i tryb granicznej oraz pocztowej kontroli
+     dewizowej niezależnie od zasad i trybu kontroli celnej,
+   2) rodzaje dokumentów, o których mowa w art. 14 ust. 7 i 8, oraz przypadki,
+     w których transfer określony w tych przepisach nie wymaga posiadania
+     dokumentów.
+                                       
+                                   Art. 23.
+1. Kontrolę dewizową w odniesieniu do obrotu dewizowego związanego z celami
+  specjalnymi, o których mowa w art. 5 ust. 1 ustawy, o której mowa w art. 21
+  ust. 1, wykonują odpowiednio organy kontroli określone przez Prezesa Rady
+  Ministrów, Ministra Obrony Narodowej oraz Ministra Spraw Wewnętrznych i
+  Administracji w trybie ust. 2.
+2. Prezes Rady Ministrów, Minister Obrony Narodowej oraz Minister Spraw
+  Wewnętrznych i Administracji określą, każdy w zakresie swojej właściwości, w
+  drodze rozporządzeń, organy oraz szczegółowe zasady i tryb przeprowadzania
+  kontroli, o której mowa w ust. 1, w:
+   1) jednostkach organizacyjnych Urzędu Ochrony Państwa,
+   2) jednostkach podległych, podporządkowanych i nadzorowanych przez Ministra
+     Obrony Narodowej,
+   3) Policji, Straży Granicznej, Państwowej Straży Pożarnej oraz jednostkach
+     wojskowych podległych Ministrowi Spraw Wewnętrznych i Administracji.
+                                       
+                                  Rozdział 5
+      Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+                                       
+                                   Art. 24.
+W ustawie karnej skarbowej z dnia 26 października 1971 r. (Dz.U. z 1984 r. Nr
+22, poz. 103, z 1985 r. Nr 23, poz. 100, z 1990r. Nr 14, poz. 84 i Nr 86, poz.
+503, z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458, z 1992 r. Nr 21, poz. 85 i
+Nr 68, poz. 341, z 1994 r. Nr 43, poz. 160, Nr 126, poz. 615 i Nr 136, poz.
+703, z 1995 r. Nr 132, poz. 641, z 1996 r. Nr 132, poz. 621, Nr 137, poz. 640 i
+Nr 152, poz. 720,  z 1997 r. Nr 71, poz. 449, Nr 79, poz. 485, Nr 102, poz.
+643, Nr 121, poz. 770, Nr 137, poz. 926, Nr 141, poz. 945 oraz z 1998 r. Nr
+108, poz. 682) wprowadza się następujące zmiany:
+1) art. 48-61 otrzymują brzmienie:
+     "Art. 48. Kto wbrew ograniczeniom określonym w ustawie dokonuje bez
+           zezwolenia dewizowego lub wbrew jego warunkom inwestycji
+           bezpośrednich lub portfelowych, podlega karze grzywny do 250.000
+           złotych.
+     Art. 49. Kto wbrew ograniczeniom określonym w ustawie dokonuje bez
+           zezwolenia dewizowego lub wbrew jego warunkom obrotu kredytowego
+           lub depozytowego albo gwarancyjnego, podlega karze grzywny do
+           250.000 złotych.
+      Art. 50. §1. Kto wbrew ograniczeniom określonym w ustawie dokonuje bez
+             zezwolenia dewizowego lub wbrew jego warunkom pozostałego obrotu
+             kapitałowego, podlega karze grzywny do 250.000 złotych.
+         §2. Jeżeli w przypadkach określonych w § 1, pozostały obrót kapitałowy
+           obejmuje transfer, i wartość przedmiotu tego transferu jest wielka,
+           sprawca podlega karze pozbawienia wolności do lat 5 i grzywny do
+           5.000.000 złotych.
+         §3. Jeżeli w przypadkach określonych w § 1, pozostały obrót kapitałowy
+           obejmuje transfer, i wartość przedmiotu tego transferu nie
+           przekracza równowartości w złotych kwoty 500 ECU, sprawca podlega
+           karze pieniężnej.
+         §4. Jeżeli w przypadkach określonych w § 1, pozostały obrót kapitałowy
+           obejmuje transfer, orzeka się przepadek wartości dewizowych oraz
+           przepadek innych przedmiotów wymienionych w art. 16 § 1; można
+           ponadto orzec przepadek przedmiotów wymienionych w art. 16 § 2 i 3.
+      Art. 51. Kto wbrew ograniczeniom określonym w ustawie dokonuje bez
+           zezwolenia dewizowego lub wbrew jego warunkom płatności w kraju
+           środkami stanowiącymi wartości dewizowe, podlega karze grzywny do
+           50.000 złotych.
+      Art. 52. Kto wbrew ograniczeniom określonym w ustawie dokonuje bez
+           zezwolenia dewizowego lub wbrew jego warunkom przeniesienia
+           własności wartości dewizowych, podlega karze grzywny do 250.000
+           złotych.
+     Art. 53. Kto wbrew ograniczeniom określonym w ustawie dokonuje bez
+           zezwolenia dewizowego lub wbrew jego warunkom, rozporządzenia
+           wierzytelnościami od nierezydentów w sposób, który uniemożliwia w
+           terminie ich wymagalności niezwłoczny transfer z zagranicy
+           zagranicznych lub krajowych środków płatniczych będących przedmiotem
+           świadczenia tych wierzytelności, podlega karze grzywny do 250.000
+           złotych.
+      Art. 54. §1. Kto prowadzi bez zezwolenia dewizowego lub wbrew jego
+             warunkom działalność kantorową, podlega karze grzywny do 250.000
+             złotych.
+          §2. W przypadkach określonych w § 1, można orzec przepadek wartości
+            dewizowych oraz przepadek innych przedmiotów wymienionych w art.
+            16 § 1.
+     Art. 55. Kto odstępuje bez zezwolenia dewizowego lub wbrew jego warunkom,
+           od określonego w ustawie obowiązku zapewnienia transferu z zagranicy
+           posiadanych wartości dewizowych lub krajowych środków płatniczych we
+           wskazanym w ustawie terminie, podlega karze grzywny do 250.000
+           złotych.
+       Art. 56. §1. Kto odstępuje bez zezwolenia dewizowego lub wbrew jego
+              warunkom od określonego w ustawie obowiązku dokonywania i
+              przyjmowania płatności oraz dokonywania transferu zagranicznych i
+              krajowych środków płatniczych za pośrednictwem banków, których
+              uprawnienia do dokonywania określonych czynności obrotu
+              dewizowego obejmują takie pośrednictwo, podlega karze grzywny do
+              250.000 złotych.
+         §2. Kto odstępuje bez zezwolenia dewizowego lub wbrew jego warunkom,
+           od określonego w ustawie obowiązku dokonywania inwestycji
+           portfelowych za pośrednictwem podmiotów, o których mowa w art. 12
+           ust. 3 ustawy, podlega karze grzywny do 250.000 złotych.
+     Art. 57. Kto odstępuje bez zezwolenia dewizowego lub wbrew jego warunkom,
+           od określonego w ustawie obowiązku wyrażania zobowiązań pieniężnych
+           w walucie wskazanej w ustawie i dokonywania płatności środkami
+           płatniczymi wskazanymi w ustawie, podlega karze grzywny do 50.000
+           złotych.
+      Art. 58. §1. Kto odstępuje bez zezwolenia dewizowego lub wbrew jego
+             warunkom, od określonego w ustawie obowiązku zgłaszania
+             Narodowemu Bankowi Polskiemu informacji i danych określonych w
+             ustawie, podlega karze grzywny do 50.000 zł.
+         §2. Kto odstępuje bez zezwolenia dewizowego lub wbrew jego warunkom,
+           od określonego w ustawie obowiązku:
+           1) udzielania ustnych lub pisemnych wyjaśnień i udostępniania
+             wymaganych dokumentów w sprawach objętych kontrolą dewizową, lub
+           2) zgłoszenia i przedstawienia na żądanie do kontroli
+             transferowanych wartości dewizowych lub krajowych środków
+             płatniczych, podlega karze pieniężnej.
+      Art. 59. §1. Kto, będąc w banku odpowiedzialnym za pośrednictwo w
+             przyjmowaniu i dokonywaniu płatności przez rezydentów i
+             nierezydentów i w dokonywaniu przez nich transferu krajowych i
+             zagranicznych środków płatniczych, pośredniczy w dokonaniu bądź
+             przyjęciu płatności lub w dokonaniu transferu, które są niezgodne
+             z warunkami określonymi w ustawie lub w zezwoleniu dewizowym,
+             podlega karze grzywny do 250.000 złotych.
+         §2. Kto, będąc w podmiocie, o którym mowa w art. 12 ust. 3 ustawy,
+           odpowiedzialnym za pośrednictwo w dokonywaniu przez rezydentów
+           inwestycji portfelowych, pośredniczy w dokonaniu inwestycji, które
+           są niezgodne z warunkami określonymi w ustawie, podlega karze
+           grzywny do 250.000 złotych.
+     Art. 60. Kto nie stosuje się do nadzwyczajnych ograniczeń określonych w
+           ustawie wprowadzonych przez Radę Ministrów, podlega karze grzywny do
+           250.000 zł.
+      Art. 61. §1. Używane w niniejszym rozdziale określenie "ustawa" oznacza
+             ustawę z dnia ......... - Prawo dewizowe (Dz.U......).
+         §2. Używane w niniejszym rozdziale określenia: "rezydent",
+            "nierezydent", "wartości dewizowe", "zagraniczne środki
+            płatnicze", "krajowe środki płatnicze", "transfer wartości
+            dewizowych i krajowych środków płatniczych", "obrót kapitałowy",
+            "inwestycje bezpośrednie", "inwestycje portfelowe", obrót
+            kredytowy", "obrót depozytowy", "obrót gwarancyjny", "pozostały
+            obrót kapitałowy","działalność kantorowa" mają znaczenie nadane im
+            w ustawie, o której mowa w § 1.";
+2) artykuły 62-66 skreśla się;
+3) art. 129 pkt 1 otrzymuje brzmienie:
+     "1) w sprawach o przestępstwa i wykroczenia skarbowe określone w art. 48 i
+       art. 50, w zakresie obejmującym wywóz za granicę wartości dewizowych
+       bądź krajowych środków płatniczych lub ich przywóz z zagranicy, a także
+       w art. 58 oraz art. 80-87 - urzędy celne wyznaczone przez Ministra
+       Finansów w drodze rozporządzenia, które określi również ich właściwość
+       miejscową";
+4) art. 174 § 2 pkt 1 otrzymuje brzmienie:
+     "1) w sprawach o przestępstwa i wykroczenia skarbowe określone w art. 48 i
+       50, w zakresie obejmującym wywóz za granicę wartości dewizowych bądź
+       krajowych środków płatniczych lub ich przywóz z zagranicy, a także w
+       art. 58 oraz art. 80-87 - urzędy celne,".
+                                       
+                                   Art. 25.
+W ustawie z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym (Dz.U. z
+1997 r. Nr 26, poz. 143) skreśla się art. 10, 11 i 26.
+                                       
+                                   Art. 26.
+W ustawie z dnia 9 stycznia 1997 r. - Kodeks celny (Dz.U. Nr 23, poz. 117, Nr
+64, poz. 407, Nr 121, poz. 770, Nr 157, poz. 1026 oraz Nr 160, poz. 1084) w
+art. 3 § 1 pkt 11 lit. c) otrzymuje brzmienie:
+  "c) inna, niż określona w lit. a) i b) osoba, która na podstawie odrębnych
+     przepisów jest uprawniona do prowadzenia działalności gospodarczej w kraju
+     i posiada siedzibę w kraju,".
+                                       
+                                   Art. 27.
+W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz.U. Nr 140,
+poz. 938) wprowadza się następujące zmiany:
+1) w art. 23 w ust. 1 w pkt 1 lit. b) wyraz "płatniczych" zastępuje się
+  wyrazem "zagranicznych";
+2) w art. 52 skreśla się ust. 5.
+                                   Art. 28.
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. Nr 140, poz 939):
+1) art. 99 otrzymuje brzmienie:
+      "Art. 99. 1. Banki mogą - na podstawie upoważnienia Prezesa Narodowego
+             Banku Polskiego - wykonywać określone czynności obrotu dewizowego
+             i związane z nimi rozliczenia, w tym pośredniczyć w przyjmowaniu
+             i dokonywaniu płatności oraz w dokonywaniu transferu krajowych i
+             zagranicznych środków płatniczych w obrocie dewizowym.
+         2. Czynności, o których mowa w ust. 1, podlegają kontroli dewizowej
+           sprawowanej przez Prezesa Narodowego Banku Polskiego.
+         3. W razie stwierdzenia, że czynności, o których mowa w ust. 1,
+           wykonywane są przez bank z naruszeniem przepisów prawa, statutu lub
+           udzielonego upoważnienia, bądź, że dalsze ich wykonywanie
+           zagrażałoby bezpieczeństwu gromadzonych w bankach środków, Prezes
+           Narodowego Banku Polskiego może zakazać bankowi dokonywania
+           określonych czynności albo cofnąć w całości lub w określonej części
+           udzielone upoważnienie.";
+2) po art. 99 dodaje się art. 99a w brzmieniu:
+      "Art. 99a. 1. Inne niż banki osoby prawne oraz podmioty nie będące
+             osobami prawnymi mogą dokonywać skupu i sprzedaży walut obcych i
+             dewiz na podstawie upoważnienia Prezesa Narodowego Banku
+             Polskiego.
+         2. Minister Finansów, na wniosek Prezesa Narodowego Banku Polskiego,
+           określi w drodze rozporządzenia, zasady wykonywania czynności, o
+           których mowa w ust. 1.
+         3. Przepisy art. 99 ust. 2 i 3 stosuje się odpowiednio.";
+3) w art. 105 w ust. 1 dodaje się pkt 3 w brzmieniu:
+     "3) Narodowemu Bankowi Polskiemu i innym bankom w zakresie czynności
+       kontroli dewizowej wykonywanej na podstawie przepisów Prawa
+       dewizowego.".
+                                       
+                                   Art. 29.
+1. Postępowanie w sprawach dewizowych wszczęte i nie zakończone przed dniem
+  wejścia w życie niniejszej ustawy toczy się według przepisów tej ustawy.
+2. Pozostają w mocy indywidualne zezwolenia dewizowe udzielone na podstawie
+  ustawy, o której mowa w art. 31, oraz zezwolenia określone w art. 29 ust. 2
+  ustawy, o której mowa w art. 31.
+3. Banki zachowują dotychczasowe uprawnienia do dokonywania określonych
+  czynności obrotu dewizowego, nabyte w drodze upoważnień udzielonych im przed
+  dniem wejścia w życie ustawy, z tym że Prezes Narodowego Banku Polskiego, w
+  terminie sześciu miesięcy od dnia ogłoszenia ustawy, dostosuje do jej
+  przepisów treść udzielonych bankom upoważnień.
+                                       
+                                   Art. 30.
+W przepisach ustawy, w przepisach obowiązujących, w przepisach ogłoszonych do
+dnia wejścia w życie ustawy i w przepisach przyjętych do dnia wejścia w życie
+ustawy, a ogłoszonych po tym dniu wyraz "ECU" zastępuje się wyrazem "EURO".
+                                       
+                                   Art. 31.
+Traci moc ustawa z dnia 2 grudnia 1994 r. - Prawo dewizowe (Dz.U. Nr 136, poz.
+703, z 1995 r. Nr 132, poz. 641, z 1996r. Nr 106, poz. 496 oraz z 1997 r. Nr
+71, poz. 449).
+                                       
+                                   Art. 32.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art.
+30, który wchodzi w życie z dniem 1 stycznia 1999 r.

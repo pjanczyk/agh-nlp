@@ -1,0 +1,593 @@
+
+
+
+
+                                    
+                              
+Dz.U. z 1997 r. Nr 24, poz. 119                                    
+                                    
+                                 
+   
+                                USTAWA
+                        z dnia 20 lutego 1997 r.
+                                    
+           o zmianie ustawy o Bankowym Funduszu Gwarancyjnym 
+                    i zmianie ustawy - Prawo bankowe
+                                  
+  
+                                Art. 1.
+W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym 
+(Dz.U. z 1995 r. Nr 4, poz. 18 i Nr 133, poz. 654) wprowadza się następujące 
+zmiany:
+ 
+ 1) w art. 1 w pkt 2 skreśla się wyraz "utratą";
+ 
+ 2) w art. 2:
+   a) pkt 1 i 2 otrzymują brzmienie:
+      "1) deponent - osobę fizyczną, osobę prawną lub jednostkę organizacyjną
+         nie mającą osobowości prawnej, będącą stroną umowy 
+         imiennego rachunku bankowego, jak również jednostkę organizacyjną
+         osoby prawnej, dla której bank prowadzi odrębny imienny 
+         rachunek, z wyłączeniem:
+          a) Skarbu Państwa,
+          b) banków oraz spółek wykonujących czynności bankowe zgodnie
+            z art. 11{1} ustawy z dnia 31 stycznia 1989 r. - Prawo bankowe
+            (Dz.U. z 1992 r. Nr 72, poz. 359, z 1993 r. Nr 6, poz. 
+            29, Nr 28, poz. 127 i Nr 134, poz. 646, z 1994 r. Nr 80, poz. 
+            369 i Nr 121, poz. 591, z 1995 r. Nr 4, poz. 18 i Nr 133, poz. 
+            654 oraz z 1996 r. Nr 10, poz. 61, Nr 75, poz. 357, Nr 90, 
+            poz. 406, Nr 106, poz. 496 i Nr 149, poz. 703),
+          c) podmiotów działających na podstawie ustawy z dnia 22 marca 
+            1991 r. - Prawo o publicznym obrocie papierami wartościowymi
+            i funduszach powierniczych (Dz.U. z 1994 r. Nr 58, poz. 
+            239, Nr 71, poz. 313 i Nr 121, poz. 591 oraz z 1996 r. Nr 45, 
+            poz. 199, Nr 75, poz. 357, Nr 106, poz. 496 i Nr 149, poz. 
+            703),
+          d) podmiotów działających na podstawie ustawy z dnia 28 lipca 
+            1990 r. o działalności ubezpieczeniowej (Dz.U. z 1996 r. Nr 
+            11, poz. 62),
+          e) akcjonariuszy banku posiadających w dniu złożenia wniosku o 
+            ogłoszenie upadłości pakiet akcji uprawniający do wykonywania
+            ponad 5% głosów podczas walnego zgromadzenia akcjonariuszy,
+            a także osób, które w stosunku do nich są podmiotami
+            dominującymi lub zależnymi w rozumieniu art. 2 pkt 9 
+            ustawy z dnia 22 marca 1991 r. - Prawo o publicznym obrocie 
+            papierami wartościowymi i funduszach powierniczych,
+          f) członków zarządu, rady (rady nadzorczej) banku oraz osób 
+            pełniących w tym banku funkcje dyrektorów i zastępców dyrektorów
+            departamentów, jak również dyrektorów i zastępców 
+            dyrektorów oddziałów tego banku, w przypadku gdy osoby te 
+            pełniły swoje funkcje w dniu zawieszenia działalności banku 
+            lub spełnienia warunku gwarancji bądź w okresie bieżącego 
+            roku obrotowego (obrachunkowego) lub poprzedzającego zawieszenie
+            działalności banku lub dzień spełnienia warunku 
+            gwarancji,
+       2) środki gwarantowane - środki pieniężne zgromadzone w banku 
+         objętym ustawowym systemem gwarantowania środków pieniężnych
+         zgromadzonych na rachunkach bankowych przez tego samego
+         deponenta na rachunkach imiennych, w walucie polskiej oraz 
+         w walutach obcych, bez względu na liczbę umów zawartych z tym 
+         bankiem, do wysokości określonej ustawą, według stanu na dzień 
+         zawieszenia działalności banku, z uwzględnieniem wypłat dokonanych
+         w trybie art. 109 ustawy z dnia 31 stycznia 1989 r. - Prawo 
+         bankowe oraz należnych odsetek naliczonych do dnia spełnienia 
+         warunku gwarancji,",
+   b) pkt 5 otrzymuje brzmienie:
+      "5) suma aktywów ważonych ryzykiem - sumę aktywów bilansowych 
+         oraz zobowiązań pozabilansowych, którym  Prezes Narodowego 
+         Banku Polskiego nadaje, na podstawie odrębnych przepisów, wyrażoną
+         procentowo wagę ryzyka,",
+   c) po pkt 5 dodaje się pkt 6 w brzmieniu:
+      "6) przejęcie banku - nabycie przedsiębiorstwa bankowego lub jego 
+         części.";
+ 
+ 3) po art. 2 dodaje się art. 2a w brzmieniu:
+       "Art. 2a. 1. W przypadku prowadzenia przez bank jednego rachunku
+                dla kilku osób (rachunek wspólny), deponentem jest 
+                każda z tych osób - w granicach określonych w umowie 
+                rachunku lub wynikających z przepisów prawa.
+              2. W przypadku prowadzenia przez bank rachunku dla 
+                spółki cywilnej, jawnej lub komandytowej - deponentem 
+                jest ta spółka.";
+              
+ 4) w art. 4:
+   a) w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu:
+      "1a) nabywanie wierzytelności banków znajdujących się w sytuacji zagrożenia
+          wypłacalności,",
+   b) po ust. 2 dodaje się ust. 2a w brzmieniu:
+      "2a. Rada Ministrów, na uzgodniony wniosek Prezesa Narodowego 
+          Banku Polskiego i Ministra Finansów, określi, w drodze rozporządzenia,
+          formę organizacyjno-prawną, szczegółowe zasady, zakres
+          i tryb obrotu przez Fundusz wierzytelnościami, o których 
+          mowa w ust. 2 pkt 1a.";
+          
+ 5) w art. 7 w ust. 2 pkt 9 otrzymuje brzmienie:
+      "9) reprezentowanie Funduszu w jego stosunkach prawnych z członkami
+         Zarządu, w szczególności powoływanie, zawieszanie w czynnościach
+         i odwoływanie członków Zarządu,";
+   
+ 6) w art. 9:
+   a) ust. 4 otrzymuje brzmienie: 
+      "4. Kadencja Zarządu Funduszu trwa 3 lata od dnia powołania Zarządu
+         przez Radę Funduszu.",
+   b) po ust. 5 dodaje się ust. 6 w brzmieniu:
+      "6. Mandaty członków Zarządu wygasają z dniem upływu kadencji 
+         Zarządu albo z dniem zaistnienia innych okoliczności powodujących
+         wygaśnięcie mandatu członka Zarządu, z zastrzeżeniem art. 
+         17 ust. 4.";
+   
+ 7) w art. 13:
+   a) ust. 1 otrzymuje brzmienie:
+      "1. Podmioty objęte systemem gwarantowania wnoszą na rzecz Funduszu
+         obowiązkowe opłaty roczne w wysokości sumy iloczynów:
+          1) stawki nie przekraczającej 0,4% i sumy aktywów bilansowych 
+            oraz gwarancji i poręczeń ważonych ryzykiem,
+          2) stawki nie przekraczającej 0,2% i sumy ważonych ryzykiem 
+            pozostałych zobowiązań pozabilansowych, z wyłączeniem linii 
+            kredytów przyrzeczonych, dla których stawka wynosi 0; przez 
+            kredyty przyrzeczone rozumie się wynikającą z umowy kwotę 
+            zobowiązania do udzielenia kredytu, pomniejszoną o kwotę 
+            jego wykorzystania.",
+   b) w ust. 2 wyrazy "opłaty, o której mowa w ust. 1" zastępuje się wyrazami 
+     "stawek, o których mowa w ust. 1",
+   c) po ust. 3 dodaje się ust. 3a w brzmieniu:
+      "3a. Od dnia 1 stycznia 1998 r. opłaty ustalone zgodnie z ust. 1 ulegają 
+          pomniejszeniu o 30%. Kwotę z tytułu pomniejszenia na rzecz 
+          Funduszu wnosić będzie Narodowy Bank Polski.",
+   d) w ust. 4 w nawiasie wyraz "oraz" zastępuje się przecinkiem i dodaje się 
+     na końcu wyrazy "z 1995 r. Nr 5, poz. 25, Nr 86, poz. 433, Nr 96, 
+     poz. 478, Nr 133, poz. 654 i Nr 142, poz. 704, z 1996 r. Nr 25, poz. 113, 
+     Nr 34, poz. 146, Nr 90, poz. 405, Nr 137, poz. 639 i Nr 147, poz. 686 
+     oraz z 1997 r. Nr 9, poz. 44).";
+   
+ 8) w art. 14 ust. 1 otrzymuje brzmienie:
+      "1. Bank Polska Kasa Opieki S.A., Powszechna Kasa Oszczędności - 
+         Bank Państwowy oraz Bank Gospodarki Żywnościowej S.A. wnoszą,
+         do dnia 31 grudnia 1999 r., obowiązkowe opłaty roczne naliczone
+         z zastosowaniem połowy stawek, o których mowa w art. 
+         13.";
+ 
+ 9) w art. 16:
+   a) w ust. 1 w pkt 2 po wyrazach "w art. 15 pkt 1," dodaje się cyfrę "3,",
+   b) ust. 3 i 4 otrzymują brzmienie:
+      "3. Fundusz może nabywać jedynie papiery wartościowe emitowane 
+         lub gwarantowane w pełni przez Skarb Państwa lub Narodowy 
+         Bank Polski.
+       4. Środki Funduszu są gromadzone na rachunkach bieżących, wyodrębnionych
+         i rachunkach lokat terminowych w Narodowym Banku
+         Polskim. Fundusz może także posiadać rachunki w Krajowym 
+         Depozycie Papierów Wartościowych.",
+   c) po ust. 4 dodaje się ust. 4a w brzmieniu:
+      "4a. Fundusz może uczestniczyć w obrocie skarbowymi papierami 
+          wartościowymi także za pośrednictwem biura maklerskiego i posiadać
+          rachunek bankowy do przeprowadzania tych rozliczeń.";
+   
+10) w art. 17:
+   a) ust. 1 i 2 otrzymują brzmienie:
+      "1. Prezes Narodowego Banku Polskiego, w porozumieniu z Ministrem
+         Finansów, określi, w drodze zarządzenia, szczególne zasady 
+         rachunkowości Funduszu, w tym także termin sporządzania rocznego
+         sprawozdania finansowego.
+       2. Sprawozdanie finansowe Funduszu podlega badaniu przez uprawniony,
+         w trybie odrębnych przepisów, podmiot wybrany w drodze 
+         przetargu przez Prezesa Narodowego Banku Polskiego, po zasięgnięciu
+         opinii Rady Funduszu. Koszt badania ponosi Fundusz.",
+   b) ust. 4 otrzymuje brzmienie:
+      "4. Odrzucenie przez Sejm sprawozdania z działalności Funduszu za 
+         rok poprzedni jest równoznaczne z wygaśnięciem mandatu wszystkich
+         członków organów Funduszu, z zastrzeżeniem, że pełnią oni 
+         swoje funkcje do czasu powołania nowych członków organów Funduszu.";
+   
+11) w art. 19 ust. 2 otrzymuje brzmienie:
+      "2. Środki uzyskane przez podmioty objęte systemem gwarantowania 
+         w wyniku udzielenia przez Fundusz pożyczek, gwarancji lub poręczeń,
+         o których mowa w ust. 1, mogą być przeznaczone tylko na 
+         usunięcie stanu zagrożenia wypłacalności lub zakup udziałów albo 
+         akcji banku przez nowych udziałowców lub akcjonariuszy, o ile 
+         spełnione zostały warunki, o których mowa w art. 20.";
+   
+12) art. 20 otrzymuje brzmienie:
+       "Art. 20. Warunkiem udzielenia przez Fundusz pomocy, o której 
+              mowa w art. 4 ust. 2 pkt 1 i 1a, jest w szczególności:
+                  1) uznanie przez Zarząd Funduszu przedstawionych 
+                    przez podmiot objęty systemem gwarantowania, 
+                    wnioskujący o udzielenie pomocy, wyników badania
+                    sprawozdania finansowego dotyczącego jego 
+                    działalności, a w przypadku wniosku o udzielenie 
+                    pomocy na przejęcie banku, połączenie się banków 
+                    lub zakup akcji (udziałów) innego banku - wyników
+                    badania sprawozdań finansowych obu banków,
+                  2) przedstawienie Zarządowi Funduszu przez podmiot
+                    objęty systemem gwarantowania pozytywnej 
+                    opinii Prezesa Narodowego Banku Polskiego o 
+                    programie postępowania uzdrawiającego lub o celowości
+                    przejęcia, połączenia się banków lub zakupu
+                    akcji (udziałów) innego banku,
+                  3) wykazanie, że wysokość wnioskowanych przez 
+                    podmiot objęty systemem gwarantowania pożyczek,
+                    gwarancji, poręczeń oraz środków wydatkowanych
+                    przez Fundusz na wykup wierzytelności byłaby
+                    nie wyższa niż łączna maksymalna kwota z tytułu
+                    gwarancji w tym podmiocie, liczona jako suma 
+                    środków gwarantowanych na rachunkach deponentów
+                    banku, o którym mowa w art. 2 pkt 3 lit. a), 
+                    lub w bankach spółdzielczych będących uczestnikami
+                    zrzeszenia regionalnego, o którym mowa 
+                    w art. 2 pkt 3 lit. b), a w przypadkach wniosku o 
+                    udzielenie pomocy finansowej w celu przejęcia lub 
+                    połączenia z innym bankiem - nie wyższa niż suma 
+                    środków gwarantowanych na rachunkach deponentów
+                    w banku przejmowanym,
+                  4) wykorzystanie dotychczasowych funduszy własnych 
+                    banku na pokrycie strat banku ubiegającego się o 
+                    pomoc lub przejmowanego.";
+   
+13) po art. 20 dodaje się art. 20a w brzmieniu:
+       "Art. 20a. 1. Prezes Narodowego Banku Polskiego informuje niezwłocznie
+                Zarząd Funduszu o wystąpieniu konieczności 
+                wszczęcia przez zarząd banku postępowania uzdrawiającego,
+                o którym mowa w art. 104 ustawy z dnia 31 stycznia
+                1989 r. - Prawo bankowe.
+              2. Fundusz, na swój wniosek skierowany do Prezesa Narodowego
+                Banku Polskiego, jest ustanawiany kuratorem, o 
+                którym mowa w art. 105{1} ustawy z dnia 31 stycznia 
+                1989 r. - Prawo bankowe, w stosunku do podmiotu objętego
+                systemem gwarantowania, o ile udzielił temu bankowi
+                pomocy, o której mowa w art. 4 ust. 2 pkt 1. Z 
+                tytułu pełnionej funkcji kuratora Fundusz nie pobiera 
+                wynagrodzenia, o którym mowa w art. 105{1} ust. 8 ustawy
+                z dnia 31 stycznia 1989 r. - Prawo bankowe.
+              3. Do wierzytelności Funduszu związanych z udzieleniem 
+                pomocy, o której mowa w art. 4 ust. 2 pkt 1, stosuje się 
+                przepisy Kodeksu cywilnego oraz innych ustaw regulujących
+                rodzaje i sposoby zabezpieczeń wierzytelności banków.";
+   
+14) w art. 22 po ust. 2 dodaje się ust. 3 w brzmieniu:
+      "3. Świadczenie pieniężne, o którym mowa w ust. 2, płatne jest według
+         terminarza wypłat ustalonego w trybie przewidzianym w art. 
+         28 ust. 3 - nie później niż w 30 dni od otrzymania przez syndyka 
+         masy upadłości banku kwoty przekazanej przez Fundusz na wypłatę
+         środków gwarantowanych.";
+15) w art. 23:
+   a) w ust. 2 w pkt 2 kwotę "3.000 ECU" zastępuje się kwotą "4.000 ECU",
+   b) po ust. 2 dodaje się ust. 2a w brzmieniu:
+      "2a. Od dnia 1 stycznia 1998 r. górna kwota środków gwarantowanych
+          w 90% ich wartości, określona w ust. 2 pkt 2, ulega podwyższeniu
+          do równowartości w złotych 5.000 ECU.",
+   c) ust. 3 otrzymuje brzmienie:
+      "3. Do wyliczenia wartości ECU w złotych przyjmuje się kurs średni 
+         Narodowego Banku Polskiego, zgodnie z tabelą kursową ogłaszaną
+         przez Narodowy Bank Polski, obowiązującą w dniu spełnienia 
+         warunku gwarancji.",
+   d) w ust. 5 wyrazy "10 lat" zastępuje się wyrazami "5 lat";
+                                    
+16) w art. 25:
+   a) ust. 2 otrzymuje brzmienie:
+      "2. Wysokość funduszu ochrony środków gwarantowanych w kolejnym 
+         roku jest ustalana, z zastrzeżeniem ust. 3 i 4, nie później niż do 
+         końca poprzedniego roku kalendarzowego, jako iloczyn stawki w 
+         wysokości do 0,4% i sumy środków pieniężnych zgromadzonych 
+         w banku (zrzeszeniu regionalnym) na wszystkich rachunkach, stanowiącej
+         podstawę obliczania kwoty rezerwy obowiązkowej stosownie
+         do art. 30 ust. 2 ustawy z dnia 31 stycznia 1989 r. o Narodowym
+         Banku Polskim (Dz.U. z 1992 r. Nr 72, poz. 360, z 1993 r. 
+         Nr 6, poz. 29, z 1994 r. Nr 1, poz. 2, Nr 80, poz. 369, Nr 121, poz. 
+         591 i Nr 136, poz. 703 oraz z 1996 r. Nr 106, poz. 496), za 
+         październik.",
+   b) w ust. 3 wyrazy "stawki do 0,2%" zastępuje się wyrazami "połowy stawki",
+   c) ust. 5 i 6 otrzymują brzmienie:
+      "5. Fundusz ochrony środków gwarantowanych jest zwiększany lub 
+         zmniejszany w dniu 1 lipca każdego roku, odpowiednio do wysokości
+         sumy, o której mowa w ust. 2, stanowiącej podstawę obliczania
+         kwoty rezerwy obowiązkowej za kwiecień każdego roku.
+       6. Z dniem spełnienia warunków gwarancji podmiot objęty systemem
+         gwarantowania jest zwolniony z obowiązku tworzenia funduszu
+         ochrony środków gwarantowanych i zmiany jego wysokości, o 
+         której mowa w ust. 5.";
+                                    
+17) w art. 26:
+   a) ust. 1 otrzymuje brzmienie:
+      "1. Banki są obowiązane lokować aktywa stanowiące pokrycie funduszu
+         ochrony środków gwarantowanych w skarbowych papierach 
+         wartościowych i bonach pieniężnych Narodowego Banku Polskiego
+         oraz deponować je na wyodrębnionym dla każdego banku rachunku
+         depozytowym w Narodowym Banku Polskim lub Krajowym
+         Depozycie Papierów Wartościowych, a w przypadku braku 
+         takiej możliwości - lokować te aktywa na oprocentowanym rachunku
+         bieżącym w Narodowym Banku Polskim.",
+   b) ust. 3 i 4 otrzymują brzmienie:
+      "3. Aktywa stanowiące pokrycie funduszu ochrony środków gwarantowanych
+         nie mogą być przedmiotem zastawu ani być obciążane 
+         w jakikolwiek sposób oraz nie podlegają egzekucji sądowej ani 
+         administracyjnej.
+       4. Banki objęte obowiązkowym systemem gwarantowania środków 
+         pieniężnych przekazują Zarządowi Funduszu informacje o sumie 
+         wkładów na rachunkach objętych obowiązkowym systemem gwarantowania
+         środków pieniężnych i wysokości funduszu ochrony 
+         środków gwarantowanych w terminach:
+          1) do dnia 15 grudnia każdego roku, według stanu określanego 
+            zgodnie z art. 25 ust. 2,
+          2) do dnia 15 czerwca każdego roku, według stanu stanowiącego 
+            podstawę obliczenia kwoty rezerwy obowiązkowej za kwiecień
+          - według wzoru określonego przez Zarząd Funduszu.";
+   
+18) art. 27 otrzymuje brzmienie:
+       "Art. 27. 1. Syndyk masy upadłości jest obowiązany, w terminie 30 
+                dni od dnia ogłoszenia upadłości banku, ustalić na podstawie
+                ksiąg banku i przedstawić w formie pisemnej Funduszowi:
+                  1) listę deponentów, wraz z wyszczególnieniem kwot 
+                    środków gwarantowanych, sporządzoną według 
+                    wzoru określonego przez Zarząd Funduszu,
+                  2) kwotę płynnych środków banku wchodzących w 
+                    skład masy upadłości, według stanu na dzień ogłoszenia
+                    upadłości banku,
+                  3) wysokość utworzonego przez ten bank funduszu 
+                    ochrony środków gwarantowanych oraz wysokość 
+                    nie wykorzystanej części tego funduszu, według 
+                    stanu na dzień sporządzenia listy deponentów,
+                  4) wysokość wydatków związanych z wypłatą wynagrodzeń
+                    pracownikom upadłego banku i wysokość 
+                    bieżących wydatków związanych z kosztami postępowania
+                    upadłościowego, poniesionych do dnia 
+                    sporządzenia listy deponentów - powiększonych o 
+                    wysokość niezbędnych wydatków związanych z wypłatą
+                    środków gwarantowanych - wraz z aktualną 
+                    wysokością środków płynnych banku znajdujących 
+                    się w dyspozycji syndyka.
+              2. W przypadku spełnienia warunku gwarancji w dniu, o 
+                którym mowa w art. 2 pkt 4 lit. b) lub c), a także gdy 
+                nastąpi prawomocne umorzenie postępowania upadłościowego
+                ze względu na to, że majątek banku nie wystarcza
+                na zaspokojenie kosztów postępowania upadłościowego,
+                a syndyk nie wykonał obowiązków wynikających z 
+                ustawy:
+                  1) czynności, o których mowa w ust. 1, a także w art. 
+                    27a, art. 28 i art. 31, dokonywane przez syndyka 
+                    masy upadłości, wykonuje zarząd podmiotu objętego
+                    obowiązkowym systemem gwarantowania środków
+                    pieniężnych zgromadzonych na rachunkach 
+                    bankowych,
+                  2) przepisy ust. 1, art. 27a, art. 28, art. 29 ust. 3, art. 
+                    30 oraz art. 31 stosuje się odpowiednio,
+                  3) w razie zaistnienia okoliczności, o których mowa w 
+                    art. 27a ust. 2, Zarząd Funduszu występuje do właściwego
+                    dla podmiotu objętego obowiązkowym systemem
+                    gwarantowania środków pieniężnych organu
+                    rejestrowego,
+                  4) Zarząd Funduszu powiadamia właściwy organ rejestrowy
+                    o zaistnieniu okoliczności, o których mowa 
+                    w art. 27a ust. 3 i art. 28 ust. 7.";
+   
+19) po art. 27 dodaje się art. 27a w brzmieniu:
+       "Art. 27a. 1. Zarząd Funduszu, w terminie 14 dni, sprawdza przedstawioną
+                przez syndyka masy upadłości listę deponentów 
+                oraz wyliczenie kwot środków gwarantowanych pod 
+                względem zgodności z ustawą i wymaganiami określonymi
+                w art. 27 ust. 1 pkt 1.
+              2. W przypadku powstania uzasadnionych wątpliwości co 
+                do podanej przez syndyka masy upadłości wysokości wydatków
+                określonych w art. 27 ust. 1 pkt 4, Zarząd Funduszu
+                zwraca się do sędziego-komisarza o zatwierdzenie 
+                wydatków w trybie art. 99 rozporządzenia Prezydenta 
+                Rzeczypospolitej z dnia 24 października 1934 r. - Prawo 
+                upadłościowe (Dz.U. z 1991 r. Nr 118, poz. 512, z 1994 
+                r. Nr 1, poz. 1, z 1995 r. Nr 85, poz. 426 oraz z 1996 r. 
+                Nr 6, poz. 43, Nr 43, poz. 189, Nr 106, poz. 496 i Nr 
+                149, poz. 703), co nie wstrzymuje powzięcia przez Zarząd
+                Funduszu uchwały o przekazaniu kwot na wypłatę 
+                środków gwarantowanych.
+              3. Jeżeli Zarząd Funduszu stwierdzi, że lista deponentów 
+                nie odpowiada warunkom określonym w ust. 1, odmawia 
+                jej przyjęcia i zwraca ją syndykowi masy upadłości, o 
+                czym niezwłocznie powiadamia sędziego-komisarza.
+              4. Syndyk masy upadłości jest obowiązany do usunięcia 
+                braków wskazanych przez Zarząd Funduszu - w terminie
+                nie dłuższym niż 7 dni.";
+   
+20) art. 28 otrzymuje brzmienie:
+       "Art. 28. 1. Zarząd Funduszu po przyjęciu listy, o której mowa w 
+                art. 27 ust. 1 pkt 1, nie później niż w ciągu 7 dni, podejmuje
+                i podaje do publicznej wiadomości, w drodze 
+                ogłoszenia w piśmie o zasięgu ogólnokrajowym, oraz 
+                przekazuje podmiotom objętym systemem gwarantowania
+                uchwałę o przekazaniu syndykowi kwot na wypłatę 
+                środków gwarantowanych.
+              2. Uchwała, o której mowa w ust. 1, określa:
+                  1) kwotę środków przekazywaną syndykowi na wypłatę
+                    środków gwarantowanych, stanowiącą różnicę 
+                    sumy środków gwarantowanych i środków płynnych 
+                    banku, pomniejszonych o wydatki określone 
+                    w art. 27 ust. 1 pkt 4,
+                  2) udział w kwocie, o której mowa w ust. 1, poszczególnych
+                    podmiotów objętych systemem gwarantowania
+                    proporcjonalnie do wysokości utworzonego 
+                    funduszu ochrony środków gwarantowanych w danym
+                    podmiocie, z zastrzeżeniem, że nie wykorzystaną
+                    część funduszu ochrony środków gwarantowanych
+                    banku w stanie upadłości uwzględnia się w 
+                    tej kwocie w całości,
+                  3) szczegółowe zasady dokonywania przez syndyka 
+                    masy upadłości wypłat środków gwarantowanych,
+                  4) wysokość wpłat dokonywanych przez podmioty objęte
+                    systemem gwarantowania na wyodrębniony rachunek
+                    specjalny Funduszu w Narodowym Banku 
+                    Polskim.
+              3. Syndyk masy upadłości jest obowiązany do dokonywania 
+                wypłat środków gwarantowanych na warunkach określonych
+                ustawą oraz w uchwale Zarządu Funduszu, o której
+                mowa w ust. 1, zgodnie z terminarzem wypłat przez 
+                niego sporządzonym i zatwierdzonym przez Zarząd Funduszu.
+              4. Po zakończeniu wypłat, syndyk masy upadłości dokonuje 
+                rozliczenia wypłaconych kwot i sporządza sprawozdanie, 
+                które przekazuje Funduszowi w terminie 21 dni od dnia 
+                zakończenia wypłat.
+              5. W terminie określonym w ust. 4 syndyk zwraca Funduszowi
+                kwoty nie wypłacone deponentom oraz odsetki naliczone
+                od kwoty przekazanej przez Fundusz na wypłatę 
+                środków gwarantowanych przez bank prowadzący rachunek,
+                na który wpłacono tę kwotę.
+              6. Zarząd Funduszu sprawuje bieżącą kontrolę przestrzegania
+                przez syndyka masy upadłości banku warunków 
+                wypłat środków gwarantowanych, określonych w ustawie 
+                oraz w uchwale Zarządu, o której mowa w ust. 1.
+              7. O nieprawidłowościach ujawnionych w toku kontroli Fundusz
+                zawiadamia sędziego-komisarza, wzywając syndyka
+                do ich usunięcia.";
+   
+21) w art. 29:
+   a) w ust. 1 po wyrazach "7 dni" dodaje się wyraz "roboczych", a wyrazy 
+     "otrzymania uchwały Zarządu Funduszu." zastępuje się wyrazami "podania
+     do publicznej wiadomości uchwały Zarządu w drodze ogłoszenia 
+     w piśmie o zasięgu ogólnokrajowym.",
+   b) ust. 3 otrzymuje brzmienie:
+      "3. Wpłaty, o których mowa w ust. 1, pomniejszają fundusz ochrony 
+         środków gwarantowanych podmiotu objętego systemem gwarancji, 
+         do chwili likwidacji tego funduszu w związku z upadłością banku i 
+         przekazania przez Fundusz kwot na wypłatę środków gwarantowanych.";
+   
+22) w art. 30  skreśla  się wyrazy "(Dz.U. z 1991 r. Nr 18, poz. 512 oraz z 
+   1994 r. Nr 1, poz. 1)";
+   
+23) w art. 33 ust. 1 otrzymuje brzmienie:
+      "1. Po ustaleniu listy wierzytelności przez sędziego-komisarza lub po 
+         stwierdzeniu wierzytelności prawomocnym orzeczeniem sądu listę 
+         deponentów uzupełnia się o wierzytelności deponentów nie objęte 
+         listą, o której mowa w art. 27 ust. 1 pkt 1.";
+   
+24) w art. 35:
+   a) ust. 3 otrzymuje brzmienie:
+      "3. Pozostałe kwoty Zarząd Funduszu wykorzystuje jedynie na cele 
+         związane z realizacją zadań w zakresie wypłat środków gwarantowanych,
+         a mianowicie:
+          1) wykorzystuje w przypadkach konieczności powiększenia środków
+             przekazanych syndykom na podstawie dotychczas powziętych
+             uchwał w trybie art. 28 ust. 1,
+          2) uwzględnia przy podejmowaniu kolejnych uchwał o przekazaniu
+             syndykowi kwot na wypłatę środków gwarantowanych.",
+   b) po ust. 3 dodaje się ust. 4 w brzmieniu:
+      "4. Do uchwał  Zarządu Funduszu w zakresie określonym w ust. 3 
+         pkt 1 nie stosuje się przepisu art. 28 ust. 1.";
+ 
+25) w art. 38:
+   a) ust. 4 otrzymuje brzmienie:
+      "4. Funduszowi przysługuje prawo uzyskiwania informacji dotyczących 
+         podmiotów objętych systemem gwarantowania, mających wpływ 
+         na realizację jego zadań, posiadanych przez Narodowy Bank Polski,
+         Ministra Finansów i Najwyższą Izbę Kontroli.",
+   b) po ust. 4 dodaje się ust. 5-10 w brzmieniu:
+      "5. Przedmiot, zakres, tryb i terminy przekazywania informacji, o których
+         mowa w ust. 4, określają odrębne porozumienia zawarte pomiędzy
+         Funduszem a Prezesem Narodowego Banku Polskiego, 
+         Ministrem Finansów i Prezesem Najwyższej Izby Kontroli.
+       6. Banki objęte systemem gwarantowania są obowiązane do przekazywania
+         Funduszowi informacji innych niż przekazywane do Narodowego
+         Banku Polskiego, niezbędnych do wykonywania zadań 
+         Funduszu.
+       7. Zakres informacji, o których mowa w ust. 6, określa Prezes Narodowego
+         Banku Polskiego, na wniosek Funduszu.
+       8. W przypadku banków spółdzielczych zrzeszonych w innych bankach
+         informacje, o których mowa w ust. 6, dotyczące poszczególnych
+         banków, jak i odpowiednio zrzeszenia, przekazują Funduszowi
+         banki zrzeszające.
+       9. Podmioty określone w ust. 4, 6 i 8 są obowiązane do udzielania 
+         Funduszowi informacji bez zbędnej zwłoki.
+      10. Uzyskiwane informacje dotyczące podmiotów objętych systemem 
+         gwarantowania Fundusz może wykorzystywać tylko w celu realizacji
+         zadań określonych w niniejszej ustawie.";
+   
+26) w art. 42:
+   a) ust. 1 otrzymuje brzmienie:
+      "1. Kto będąc członkiem zarządu lub rady banku (organu zrzeszenia 
+         regionalnego) objętego ustawowym systemem gwarantowania środków
+         pieniężnych doprowadza do powstania straty po stronie Funduszu
+         w wyniku tego, iż bank nie utworzył funduszu ochrony 
+         środków gwarantowanych albo nie utworzył go w odpowiedniej 
+         wysokości lub aktywa przeznaczone na fundusz ochrony środków 
+         gwarantowanych nie były lokowane w skarbowych papierach wartościowych
+         lub bonach pieniężnych Narodowego Banku Polskiego 
+         lub deponowane w sposób, o którym mowa w art. 26 ust. 1 i 2,
+               podlega karze pozbawienia wolności do lat 2, ograniczenia
+                wolności albo grzywny.",
+   b) w ust. 2 wyrazy "gwarancji depozytowej" zastępuje się wyrazami "ochrony
+     środków gwarantowanych";
+   
+27) po art. 43 dodaje się art. 43a w brzmieniu:
+        "Art. 43a. Do czasu wykonania ustawy z dnia 24 czerwca 1994 r. o 
+                restrukturyzacji banków spółdzielczych i Banku Gospodarki
+                Żywnościowej oraz o zmianie niektórych ustaw, w 
+                zakresie utworzenia wszystkich przewidzianych jej przepisami
+                zrzeszeń i banków regionalnych, przepisy niniejszej
+                ustawy dotyczące tych zrzeszeń i banków stosuje się 
+                odpowiednio do zrzeszeń i banków zrzeszających banki 
+                spółdzielcze na podstawie odrębnych przepisów.".
+                                    
+                                Art. 2.
+W ustawie z dnia 31 stycznia 1989 r. - Prawo bankowe (Dz.U. z 1992 r. Nr 72, 
+poz. 359, z 1993 r. Nr 6, poz. 29, Nr 28, poz. 127 i Nr 134, poz. 646, z 1994 r. 
+Nr 80, poz. 369 i Nr 121, poz. 591, z 1995 r. Nr 4, poz. 18 i Nr 133, poz. 654 
+oraz z 1996 r. Nr 10, poz. 61, Nr 75, poz. 357, Nr 90, poz. 406, Nr 106, poz. 
+496 i Nr 149, poz. 703) wprowadza się następujące zmiany:
+ 1) po art. 48{1} dodaje się art. 48{2} w brzmieniu:
+       "Art. 48{2}. 1. Banki udzielają Bankowemu Funduszowi Gwarancyjnemu
+                informacji o udzielonych kredytach oraz o obrotach 
+                i stanach rachunków bankowych - w związku z udzielaniem
+                przez Bankowy Fundusz Gwarancyjny gwarancji 
+                depozytów, pożyczek, gwarancji i poręczeń.
+              2. Bankowy Fundusz Gwarancyjny udziela informacji, o 
+                których mowa w ust. 1, właściwym organom kontroli na 
+                ich żądanie, w związku z prowadzoną przez nie kontrolą 
+                działalności Bankowego Funduszu Gwarancyjnego.
+              3. Do udzielenia informacji, o których mowa w ust. 1 i 2, 
+                stosuje się odpowiednio przepisy art. 48.";
+ 2) w art. 78 w ust. 3 kropkę zastępuje się przecinkiem i dodaje się wyrazy "z 
+   wyjątkiem gdy środki na nabycie akcji pochodzą ze zwrotnej pomocy finansowej
+   udzielonej przez Bankowy Fundusz Gwarancyjny na podstawie 
+   ustawy, o której mowa w art. 49 pkt 1.";
+ 3) w art. 105{1} w ust. 1 wyrazy "art. 20" zastępuje się wyrazami "art. 20a";
+ 4) w art. 108 w ust. 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy 
+   "o czym zawiadamia Bankowy Fundusz Gwarancyjny, doręczając odpis 
+   wniosku.";
+ 5) art. 109 otrzymuje brzmienie:
+       "Art. 109. 1. W okresie zawieszenia działalności bank:
+                  1) nie dokonuje żadnych czynności, z wyjątkiem czynności
+                    związanych z ponoszeniem przez bank uzasadnionych
+                    kosztów działalności lub zmierzających 
+                    do zaspokojenia jego roszczeń,
+                  2) nie wypłaca dywidendy ani oprocentowania udziałów.
+              2. W okresie zawieszenia działalności w stosunku do banku 
+                nie może zostać wszczęte postępowanie egzekucyjne, a 
+                wszczęte wcześniej ulega zawieszeniu; nie ogranicza to 
+                dochodzenia przez Bankowy Fundusz Gwarancyjny należności
+                wynikających z ustawy, o której mowa w art. 49 
+                pkt 1.
+              3. Prezes Narodowego Banku Polskiego może w zarządzeniu,
+                o którym mowa w art. 108 ust. 3, określić szczegółowo
+                zakres i sposób wykonywania czynności banku w 
+                okresie zawieszenia jego działalności.";
+ 6) art. 110 otrzymuje brzmienie:
+       "Art. 110. 1. Posiedzenie w sprawie wniosku o ogłoszenie upadłości 
+                banku sąd wyznacza nie później niż w terminie 21 dni 
+                od daty wpływu wniosku.
+              2. Rozpatrując wniosek o ogłoszenie upadłości banku, sąd 
+                wysłuchuje przedstawiciela Prezesa Narodowego Banku 
+                Polskiego, osobę kierującą bankiem, którego wniosek 
+                dotyczy, oraz w przypadku gdy bank jest objęty pomocą 
+                Bankowego Funduszu Gwarancyjnego - przedstawiciela Bankowego
+                Funduszu Gwarancyjnego.
+              3. Sąd wyznaczy syndyka masy upadłości spośród osób posiadających
+                znajomość organizacji i zasad działalności 
+                banków. Syndykiem może być również inny bank.";
+ 7) w art. 111 w ust. 1 dodaje się pkt 5 w brzmieniu:
+      "5) uczestnikiem postępowania upadłościowego staje się Bankowy 
+         Fundusz Gwarancyjny.".
+                                    
+                                Art. 3.
+Minister Finansów ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity
+tekst ustawy o Bankowym Funduszu Gwarancyjnym, z uwzględnieniem 
+zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego 
+tekstu.
+                                    
+                                Art. 4.
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem 
+przepisu art. 1 pkt 15 lit. a), który wchodzi w życie z dniem 1 lipca 1997 r.
+ 
